@@ -95,20 +95,48 @@ h1, h2, h3, h4, p, label, span {
     font-size: 26px;
     font-weight: bold;
     margin-bottom: 14px;
+    color: white;
 }
 
+/* BOTONES NORMALES */
 .stButton > button {
     border-radius: 14px;
     min-height: 52px;
     font-weight: 700;
     font-size: 15px;
-    border: 1px solid #FACC15;
+    border: 1px solid #FACC15 !important;
     white-space: normal;
     text-align: center;
+    background-color: #102542 !important;
+    color: #FFFFFF !important;
 }
 
+/* HOVER */
 .stButton > button:hover {
-    border-color: #FFFFFF;
+    background-color: #FACC15 !important;
+    color: #0A1931 !important;
+    border-color: #FFFFFF !important;
+}
+
+/* BOTONES PRIMARY */
+.stButton > button[kind="primary"] {
+    background-color: #FACC15 !important;
+    color: #0A1931 !important;
+    border: 1px solid #FACC15 !important;
+}
+
+/* BOTONES PRIMARY HOVER */
+.stButton > button[kind="primary"]:hover {
+    background-color: #FFE066 !important;
+    color: #0A1931 !important;
+    border-color: #FFFFFF !important;
+}
+
+/* BOTONES DESHABILITADOS */
+.stButton > button:disabled {
+    background-color: #1E293B !important;
+    color: #94A3B8 !important;
+    border: 1px solid #475569 !important;
 }
 
 div[data-testid="stMetric"] {
@@ -141,7 +169,7 @@ hr {
 
 def cargar_archivos_temas():
     if not CARPETA_DATA.exists():
-        st.error("No existe la carpeta data/. Ejecuta primero generar_json_temas.py")
+        st.error("No existe la carpeta data/.")
         st.stop()
 
     archivos = sorted(CARPETA_DATA.glob("*.json"))
