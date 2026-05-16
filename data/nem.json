@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: un grupo muestra bajo interés durante las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Centrarse solo en la memorización de contenidos",
+      "B": "Continuar con la planeación original sin hacer ajustes",
+      "C": "Integrar comunidad, inclusión, pensamiento crítico y formación integral",
+      "D": "Ignorar la problemática para no interrumpir la clase"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 2,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: varios estudiantes tienen dificultades para participar.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Relacionar los aprendizajes con saberes y problemas comunitarios",
+      "B": "Ignorar la problemática para no interrumpir la clase",
+      "C": "Resolver la situación de manera aislada",
+      "D": "Aplicar una medida general sin analizar el contexto"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 3,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: existen diferencias importantes en los niveles de aprendizaje.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Aplicar una medida general sin analizar el contexto",
+      "B": "Favorecer una educación humanista, inclusiva y crítica",
+      "C": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "D": "Repetir la explicación sin modificar la estrategia"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 4,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: el docente observa poca relación entre el contenido y el contexto.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Ignorar la problemática para no interrumpir la clase",
+      "B": "Repetir la explicación sin modificar la estrategia",
+      "C": "Promover la participación activa de estudiantes y comunidad",
+      "D": "Centrarse solo en la memorización de contenidos"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 5,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: el colectivo escolar detecta una problemática común.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Vincular escuela, aula y vida cotidiana",
+      "B": "Continuar con la planeación original sin hacer ajustes",
+      "C": "Ignorar la problemática para no interrumpir la clase",
+      "D": "Evitar la participación de la comunidad escolar"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 6,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: algunos estudiantes no se sienten incluidos en las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Integrar comunidad, inclusión, pensamiento crítico y formación integral",
+      "B": "Delegar completamente la responsabilidad a otra instancia",
+      "C": "Continuar con la planeación original sin hacer ajustes",
+      "D": "Trabajar únicamente con los estudiantes de mayor rendimiento"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 7,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: se presentan conflictos de convivencia durante el trabajo en equipo.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Calificar únicamente el producto final",
+      "B": "Ignorar la problemática para no interrumpir la clase",
+      "C": "Relacionar los aprendizajes con saberes y problemas comunitarios",
+      "D": "Evitar la participación de la comunidad escolar"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 8,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: los estudiantes realizan tareas, pero no reflexionan sobre lo aprendido.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Repetir la explicación sin modificar la estrategia",
+      "B": "Evitar la participación de la comunidad escolar",
+      "C": "Favorecer una educación humanista, inclusiva y crítica",
+      "D": "Centrarse solo en la memorización de contenidos"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 9,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: la escuela busca fortalecer el vínculo con la comunidad.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Promover la participación activa de estudiantes y comunidad",
+      "B": "Ignorar la problemática para no interrumpir la clase",
+      "C": "Evitar la participación de la comunidad escolar",
+      "D": "Resolver la situación de manera aislada"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 10,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: el docente necesita ajustar su intervención con base en evidencias.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Centrarse solo en la memorización de contenidos",
+      "B": "Delegar completamente la responsabilidad a otra instancia",
+      "C": "Vincular escuela, aula y vida cotidiana",
+      "D": "Continuar con la planeación original sin hacer ajustes"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 11,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: un grupo muestra bajo interés durante las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "B": "Integrar comunidad, inclusión, pensamiento crítico y formación integral",
+      "C": "Continuar con la planeación original sin hacer ajustes",
+      "D": "Aplicar una medida general sin analizar el contexto"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 12,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: varios estudiantes tienen dificultades para participar.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Delegar completamente la responsabilidad a otra instancia",
+      "B": "Aplicar una medida general sin analizar el contexto",
+      "C": "Evitar la participación de la comunidad escolar",
+      "D": "Relacionar los aprendizajes con saberes y problemas comunitarios"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 13,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: existen diferencias importantes en los niveles de aprendizaje.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Delegar completamente la responsabilidad a otra instancia",
+      "B": "Aplicar una medida general sin analizar el contexto",
+      "C": "Favorecer una educación humanista, inclusiva y crítica",
+      "D": "Trabajar únicamente con los estudiantes de mayor rendimiento"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 14,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: el docente observa poca relación entre el contenido y el contexto.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Resolver la situación de manera aislada",
+      "B": "Repetir la explicación sin modificar la estrategia",
+      "C": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "D": "Promover la participación activa de estudiantes y comunidad"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 15,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: el colectivo escolar detecta una problemática común.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Repetir la explicación sin modificar la estrategia",
+      "B": "Calificar únicamente el producto final",
+      "C": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "D": "Vincular escuela, aula y vida cotidiana"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 16,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: algunos estudiantes no se sienten incluidos en las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Continuar con la planeación original sin hacer ajustes",
+      "B": "Centrarse solo en la memorización de contenidos",
+      "C": "Integrar comunidad, inclusión, pensamiento crítico y formación integral",
+      "D": "Ignorar la problemática para no interrumpir la clase"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 17,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: se presentan conflictos de convivencia durante el trabajo en equipo.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Continuar con la planeación original sin hacer ajustes",
+      "B": "Ignorar la problemática para no interrumpir la clase",
+      "C": "Relacionar los aprendizajes con saberes y problemas comunitarios",
+      "D": "Repetir la explicación sin modificar la estrategia"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 18,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: los estudiantes realizan tareas, pero no reflexionan sobre lo aprendido.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "B": "Calificar únicamente el producto final",
+      "C": "Favorecer una educación humanista, inclusiva y crítica",
+      "D": "Evitar la participación de la comunidad escolar"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 19,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: la escuela busca fortalecer el vínculo con la comunidad.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Ignorar la problemática para no interrumpir la clase",
+      "B": "Resolver la situación de manera aislada",
+      "C": "Promover la participación activa de estudiantes y comunidad",
+      "D": "Centrarse solo en la memorización de contenidos"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 20,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: el docente necesita ajustar su intervención con base en evidencias.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Resolver la situación de manera aislada",
+      "B": "Ignorar la problemática para no interrumpir la clase",
+      "C": "Vincular escuela, aula y vida cotidiana",
+      "D": "Repetir la explicación sin modificar la estrategia"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 21,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: un grupo muestra bajo interés durante las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Continuar con la planeación original sin hacer ajustes",
+      "B": "Integrar comunidad, inclusión, pensamiento crítico y formación integral",
+      "C": "Delegar completamente la responsabilidad a otra instancia",
+      "D": "Centrarse solo en la memorización de contenidos"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 22,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: varios estudiantes tienen dificultades para participar.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Relacionar los aprendizajes con saberes y problemas comunitarios",
+      "B": "Calificar únicamente el producto final",
+      "C": "Repetir la explicación sin modificar la estrategia",
+      "D": "Resolver la situación de manera aislada"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 23,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: existen diferencias importantes en los niveles de aprendizaje.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Favorecer una educación humanista, inclusiva y crítica",
+      "B": "Repetir la explicación sin modificar la estrategia",
+      "C": "Ignorar la problemática para no interrumpir la clase",
+      "D": "Continuar con la planeación original sin hacer ajustes"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 24,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: el docente observa poca relación entre el contenido y el contexto.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Centrarse solo en la memorización de contenidos",
+      "B": "Promover la participación activa de estudiantes y comunidad",
+      "C": "Resolver la situación de manera aislada",
+      "D": "Calificar únicamente el producto final"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 25,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: el colectivo escolar detecta una problemática común.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Continuar con la planeación original sin hacer ajustes",
+      "B": "Vincular escuela, aula y vida cotidiana",
+      "C": "Ignorar la problemática para no interrumpir la clase",
+      "D": "Centrarse solo en la memorización de contenidos"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 26,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: algunos estudiantes no se sienten incluidos en las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Ignorar la problemática para no interrumpir la clase",
+      "B": "Integrar comunidad, inclusión, pensamiento crítico y formación integral",
+      "C": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "D": "Resolver la situación de manera aislada"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 27,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: se presentan conflictos de convivencia durante el trabajo en equipo.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Relacionar los aprendizajes con saberes y problemas comunitarios",
+      "B": "Evitar la participación de la comunidad escolar",
+      "C": "Centrarse solo en la memorización de contenidos",
+      "D": "Continuar con la planeación original sin hacer ajustes"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 28,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: los estudiantes realizan tareas, pero no reflexionan sobre lo aprendido.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Calificar únicamente el producto final",
+      "B": "Delegar completamente la responsabilidad a otra instancia",
+      "C": "Continuar con la planeación original sin hacer ajustes",
+      "D": "Favorecer una educación humanista, inclusiva y crítica"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 29,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: la escuela busca fortalecer el vínculo con la comunidad.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Aplicar una medida general sin analizar el contexto",
+      "B": "Promover la participación activa de estudiantes y comunidad",
+      "C": "Evitar la participación de la comunidad escolar",
+      "D": "Delegar completamente la responsabilidad a otra instancia"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 30,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: el docente necesita ajustar su intervención con base en evidencias.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Aplicar una medida general sin analizar el contexto",
+      "B": "Calificar únicamente el producto final",
+      "C": "Vincular escuela, aula y vida cotidiana",
+      "D": "Resolver la situación de manera aislada"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 31,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: un grupo muestra bajo interés durante las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Integrar comunidad, inclusión, pensamiento crítico y formación integral",
+      "B": "Repetir la explicación sin modificar la estrategia",
+      "C": "Aplicar una medida general sin analizar el contexto",
+      "D": "Evitar la participación de la comunidad escolar"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 32,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: varios estudiantes tienen dificultades para participar.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Delegar completamente la responsabilidad a otra instancia",
+      "B": "Continuar con la planeación original sin hacer ajustes",
+      "C": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "D": "Relacionar los aprendizajes con saberes y problemas comunitarios"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 33,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: existen diferencias importantes en los niveles de aprendizaje.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Continuar con la planeación original sin hacer ajustes",
+      "B": "Favorecer una educación humanista, inclusiva y crítica",
+      "C": "Repetir la explicación sin modificar la estrategia",
+      "D": "Evitar la participación de la comunidad escolar"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 34,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: el docente observa poca relación entre el contenido y el contexto.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Promover la participación activa de estudiantes y comunidad",
+      "B": "Evitar la participación de la comunidad escolar",
+      "C": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "D": "Aplicar una medida general sin analizar el contexto"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 35,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: el colectivo escolar detecta una problemática común.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Delegar completamente la responsabilidad a otra instancia",
+      "B": "Continuar con la planeación original sin hacer ajustes",
+      "C": "Calificar únicamente el producto final",
+      "D": "Vincular escuela, aula y vida cotidiana"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 36,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: algunos estudiantes no se sienten incluidos en las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Delegar completamente la responsabilidad a otra instancia",
+      "B": "Centrarse solo en la memorización de contenidos",
+      "C": "Ignorar la problemática para no interrumpir la clase",
+      "D": "Integrar comunidad, inclusión, pensamiento crítico y formación integral"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 37,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: se presentan conflictos de convivencia durante el trabajo en equipo.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Ignorar la problemática para no interrumpir la clase",
+      "B": "Repetir la explicación sin modificar la estrategia",
+      "C": "Relacionar los aprendizajes con saberes y problemas comunitarios",
+      "D": "Aplicar una medida general sin analizar el contexto"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 38,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: los estudiantes realizan tareas, pero no reflexionan sobre lo aprendido.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Favorecer una educación humanista, inclusiva y crítica",
+      "B": "Delegar completamente la responsabilidad a otra instancia",
+      "C": "Evitar la participación de la comunidad escolar",
+      "D": "Calificar únicamente el producto final"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 39,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: la escuela busca fortalecer el vínculo con la comunidad.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Promover la participación activa de estudiantes y comunidad",
+      "B": "Ignorar la problemática para no interrumpir la clase",
+      "C": "Calificar únicamente el producto final",
+      "D": "Evitar la participación de la comunidad escolar"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 40,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: el docente necesita ajustar su intervención con base en evidencias.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Resolver la situación de manera aislada",
+      "B": "Continuar con la planeación original sin hacer ajustes",
+      "C": "Delegar completamente la responsabilidad a otra instancia",
+      "D": "Vincular escuela, aula y vida cotidiana"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 41,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: un grupo muestra bajo interés durante las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Delegar completamente la responsabilidad a otra instancia",
+      "B": "Repetir la explicación sin modificar la estrategia",
+      "C": "Centrarse solo en la memorización de contenidos",
+      "D": "Integrar comunidad, inclusión, pensamiento crítico y formación integral"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 42,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: varios estudiantes tienen dificultades para participar.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Centrarse solo en la memorización de contenidos",
+      "B": "Calificar únicamente el producto final",
+      "C": "Delegar completamente la responsabilidad a otra instancia",
+      "D": "Relacionar los aprendizajes con saberes y problemas comunitarios"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 43,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: existen diferencias importantes en los niveles de aprendizaje.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Favorecer una educación humanista, inclusiva y crítica",
+      "B": "Ignorar la problemática para no interrumpir la clase",
+      "C": "Delegar completamente la responsabilidad a otra instancia",
+      "D": "Aplicar una medida general sin analizar el contexto"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 44,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: el docente observa poca relación entre el contenido y el contexto.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Promover la participación activa de estudiantes y comunidad",
+      "B": "Evitar la participación de la comunidad escolar",
+      "C": "Ignorar la problemática para no interrumpir la clase",
+      "D": "Centrarse solo en la memorización de contenidos"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 45,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: el colectivo escolar detecta una problemática común.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Vincular escuela, aula y vida cotidiana",
+      "B": "Centrarse solo en la memorización de contenidos",
+      "C": "Calificar únicamente el producto final",
+      "D": "Ignorar la problemática para no interrumpir la clase"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 46,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: algunos estudiantes no se sienten incluidos en las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Centrarse solo en la memorización de contenidos",
+      "B": "Evitar la participación de la comunidad escolar",
+      "C": "Integrar comunidad, inclusión, pensamiento crítico y formación integral",
+      "D": "Delegar completamente la responsabilidad a otra instancia"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 47,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: se presentan conflictos de convivencia durante el trabajo en equipo.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Ignorar la problemática para no interrumpir la clase",
+      "B": "Aplicar una medida general sin analizar el contexto",
+      "C": "Resolver la situación de manera aislada",
+      "D": "Relacionar los aprendizajes con saberes y problemas comunitarios"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 48,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: los estudiantes realizan tareas, pero no reflexionan sobre lo aprendido.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Favorecer una educación humanista, inclusiva y crítica",
+      "B": "Continuar con la planeación original sin hacer ajustes",
+      "C": "Ignorar la problemática para no interrumpir la clase",
+      "D": "Calificar únicamente el producto final"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 49,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: la escuela busca fortalecer el vínculo con la comunidad.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Promover la participación activa de estudiantes y comunidad",
+      "B": "Centrarse solo en la memorización de contenidos",
+      "C": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "D": "Resolver la situación de manera aislada"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 50,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: el docente necesita ajustar su intervención con base en evidencias.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Repetir la explicación sin modificar la estrategia",
+      "B": "Resolver la situación de manera aislada",
+      "C": "Vincular escuela, aula y vida cotidiana",
+      "D": "Continuar con la planeación original sin hacer ajustes"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 51,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: un grupo muestra bajo interés durante las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Integrar comunidad, inclusión, pensamiento crítico y formación integral",
+      "B": "Repetir la explicación sin modificar la estrategia",
+      "C": "Continuar con la planeación original sin hacer ajustes",
+      "D": "Evitar la participación de la comunidad escolar"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 52,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: varios estudiantes tienen dificultades para participar.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Delegar completamente la responsabilidad a otra instancia",
+      "B": "Centrarse solo en la memorización de contenidos",
+      "C": "Ignorar la problemática para no interrumpir la clase",
+      "D": "Relacionar los aprendizajes con saberes y problemas comunitarios"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 53,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: existen diferencias importantes en los niveles de aprendizaje.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Aplicar una medida general sin analizar el contexto",
+      "B": "Favorecer una educación humanista, inclusiva y crítica",
+      "C": "Continuar con la planeación original sin hacer ajustes",
+      "D": "Trabajar únicamente con los estudiantes de mayor rendimiento"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 54,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: el docente observa poca relación entre el contenido y el contexto.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Promover la participación activa de estudiantes y comunidad",
+      "B": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "C": "Repetir la explicación sin modificar la estrategia",
+      "D": "Continuar con la planeación original sin hacer ajustes"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 55,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: el colectivo escolar detecta una problemática común.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Repetir la explicación sin modificar la estrategia",
+      "B": "Vincular escuela, aula y vida cotidiana",
+      "C": "Resolver la situación de manera aislada",
+      "D": "Aplicar una medida general sin analizar el contexto"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 56,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: algunos estudiantes no se sienten incluidos en las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Integrar comunidad, inclusión, pensamiento crítico y formación integral",
+      "B": "Evitar la participación de la comunidad escolar",
+      "C": "Repetir la explicación sin modificar la estrategia",
+      "D": "Ignorar la problemática para no interrumpir la clase"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 57,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: se presentan conflictos de convivencia durante el trabajo en equipo.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Centrarse solo en la memorización de contenidos",
+      "B": "Ignorar la problemática para no interrumpir la clase",
+      "C": "Relacionar los aprendizajes con saberes y problemas comunitarios",
+      "D": "Aplicar una medida general sin analizar el contexto"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 58,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: los estudiantes realizan tareas, pero no reflexionan sobre lo aprendido.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Favorecer una educación humanista, inclusiva y crítica",
+      "B": "Aplicar una medida general sin analizar el contexto",
+      "C": "Calificar únicamente el producto final",
+      "D": "Centrarse solo en la memorización de contenidos"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 59,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: la escuela busca fortalecer el vínculo con la comunidad.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Ignorar la problemática para no interrumpir la clase",
+      "B": "Resolver la situación de manera aislada",
+      "C": "Promover la participación activa de estudiantes y comunidad",
+      "D": "Aplicar una medida general sin analizar el contexto"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 60,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: el docente necesita ajustar su intervención con base en evidencias.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Vincular escuela, aula y vida cotidiana",
+      "B": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "C": "Continuar con la planeación original sin hacer ajustes",
+      "D": "Centrarse solo en la memorización de contenidos"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 61,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: un grupo muestra bajo interés durante las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Delegar completamente la responsabilidad a otra instancia",
+      "B": "Ignorar la problemática para no interrumpir la clase",
+      "C": "Centrarse solo en la memorización de contenidos",
+      "D": "Integrar comunidad, inclusión, pensamiento crítico y formación integral"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 62,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: varios estudiantes tienen dificultades para participar.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Relacionar los aprendizajes con saberes y problemas comunitarios",
+      "B": "Evitar la participación de la comunidad escolar",
+      "C": "Repetir la explicación sin modificar la estrategia",
+      "D": "Aplicar una medida general sin analizar el contexto"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 63,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: existen diferencias importantes en los niveles de aprendizaje.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Centrarse solo en la memorización de contenidos",
+      "B": "Resolver la situación de manera aislada",
+      "C": "Delegar completamente la responsabilidad a otra instancia",
+      "D": "Favorecer una educación humanista, inclusiva y crítica"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 64,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: el docente observa poca relación entre el contenido y el contexto.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Ignorar la problemática para no interrumpir la clase",
+      "B": "Evitar la participación de la comunidad escolar",
+      "C": "Promover la participación activa de estudiantes y comunidad",
+      "D": "Centrarse solo en la memorización de contenidos"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 65,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: el colectivo escolar detecta una problemática común.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Vincular escuela, aula y vida cotidiana",
+      "B": "Repetir la explicación sin modificar la estrategia",
+      "C": "Evitar la participación de la comunidad escolar",
+      "D": "Centrarse solo en la memorización de contenidos"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 66,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: algunos estudiantes no se sienten incluidos en las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Delegar completamente la responsabilidad a otra instancia",
+      "B": "Centrarse solo en la memorización de contenidos",
+      "C": "Continuar con la planeación original sin hacer ajustes",
+      "D": "Integrar comunidad, inclusión, pensamiento crítico y formación integral"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 67,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: se presentan conflictos de convivencia durante el trabajo en equipo.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Aplicar una medida general sin analizar el contexto",
+      "B": "Calificar únicamente el producto final",
+      "C": "Relacionar los aprendizajes con saberes y problemas comunitarios",
+      "D": "Repetir la explicación sin modificar la estrategia"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 68,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: los estudiantes realizan tareas, pero no reflexionan sobre lo aprendido.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Centrarse solo en la memorización de contenidos",
+      "B": "Favorecer una educación humanista, inclusiva y crítica",
+      "C": "Calificar únicamente el producto final",
+      "D": "Continuar con la planeación original sin hacer ajustes"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 69,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: la escuela busca fortalecer el vínculo con la comunidad.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Continuar con la planeación original sin hacer ajustes",
+      "B": "Repetir la explicación sin modificar la estrategia",
+      "C": "Calificar únicamente el producto final",
+      "D": "Promover la participación activa de estudiantes y comunidad"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 70,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: el docente necesita ajustar su intervención con base en evidencias.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Continuar con la planeación original sin hacer ajustes",
+      "B": "Vincular escuela, aula y vida cotidiana",
+      "C": "Repetir la explicación sin modificar la estrategia",
+      "D": "Aplicar una medida general sin analizar el contexto"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 71,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: un grupo muestra bajo interés durante las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Continuar con la planeación original sin hacer ajustes",
+      "B": "Repetir la explicación sin modificar la estrategia",
+      "C": "Calificar únicamente el producto final",
+      "D": "Integrar comunidad, inclusión, pensamiento crítico y formación integral"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 72,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: varios estudiantes tienen dificultades para participar.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Resolver la situación de manera aislada",
+      "B": "Relacionar los aprendizajes con saberes y problemas comunitarios",
+      "C": "Evitar la participación de la comunidad escolar",
+      "D": "Continuar con la planeación original sin hacer ajustes"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 73,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: existen diferencias importantes en los niveles de aprendizaje.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "B": "Favorecer una educación humanista, inclusiva y crítica",
+      "C": "Centrarse solo en la memorización de contenidos",
+      "D": "Resolver la situación de manera aislada"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 74,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: el docente observa poca relación entre el contenido y el contexto.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Delegar completamente la responsabilidad a otra instancia",
+      "B": "Promover la participación activa de estudiantes y comunidad",
+      "C": "Continuar con la planeación original sin hacer ajustes",
+      "D": "Resolver la situación de manera aislada"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 75,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: el colectivo escolar detecta una problemática común.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Aplicar una medida general sin analizar el contexto",
+      "B": "Calificar únicamente el producto final",
+      "C": "Vincular escuela, aula y vida cotidiana",
+      "D": "Centrarse solo en la memorización de contenidos"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 76,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: algunos estudiantes no se sienten incluidos en las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Centrarse solo en la memorización de contenidos",
+      "B": "Calificar únicamente el producto final",
+      "C": "Integrar comunidad, inclusión, pensamiento crítico y formación integral",
+      "D": "Delegar completamente la responsabilidad a otra instancia"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 77,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: se presentan conflictos de convivencia durante el trabajo en equipo.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Relacionar los aprendizajes con saberes y problemas comunitarios",
+      "B": "Delegar completamente la responsabilidad a otra instancia",
+      "C": "Evitar la participación de la comunidad escolar",
+      "D": "Trabajar únicamente con los estudiantes de mayor rendimiento"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 78,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: los estudiantes realizan tareas, pero no reflexionan sobre lo aprendido.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Aplicar una medida general sin analizar el contexto",
+      "B": "Favorecer una educación humanista, inclusiva y crítica",
+      "C": "Delegar completamente la responsabilidad a otra instancia",
+      "D": "Ignorar la problemática para no interrumpir la clase"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 79,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: la escuela busca fortalecer el vínculo con la comunidad.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Ignorar la problemática para no interrumpir la clase",
+      "B": "Evitar la participación de la comunidad escolar",
+      "C": "Aplicar una medida general sin analizar el contexto",
+      "D": "Promover la participación activa de estudiantes y comunidad"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 80,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: el docente necesita ajustar su intervención con base en evidencias.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Continuar con la planeación original sin hacer ajustes",
+      "B": "Vincular escuela, aula y vida cotidiana",
+      "C": "Calificar únicamente el producto final",
+      "D": "Repetir la explicación sin modificar la estrategia"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 81,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: un grupo muestra bajo interés durante las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Integrar comunidad, inclusión, pensamiento crítico y formación integral",
+      "B": "Continuar con la planeación original sin hacer ajustes",
+      "C": "Aplicar una medida general sin analizar el contexto",
+      "D": "Centrarse solo en la memorización de contenidos"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 82,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: varios estudiantes tienen dificultades para participar.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Relacionar los aprendizajes con saberes y problemas comunitarios",
+      "B": "Repetir la explicación sin modificar la estrategia",
+      "C": "Calificar únicamente el producto final",
+      "D": "Delegar completamente la responsabilidad a otra instancia"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 83,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: existen diferencias importantes en los niveles de aprendizaje.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Favorecer una educación humanista, inclusiva y crítica",
+      "B": "Delegar completamente la responsabilidad a otra instancia",
+      "C": "Ignorar la problemática para no interrumpir la clase",
+      "D": "Centrarse solo en la memorización de contenidos"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 84,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: el docente observa poca relación entre el contenido y el contexto.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Evitar la participación de la comunidad escolar",
+      "B": "Aplicar una medida general sin analizar el contexto",
+      "C": "Promover la participación activa de estudiantes y comunidad",
+      "D": "Repetir la explicación sin modificar la estrategia"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 85,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: el colectivo escolar detecta una problemática común.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Evitar la participación de la comunidad escolar",
+      "B": "Vincular escuela, aula y vida cotidiana",
+      "C": "Delegar completamente la responsabilidad a otra instancia",
+      "D": "Ignorar la problemática para no interrumpir la clase"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 86,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: algunos estudiantes no se sienten incluidos en las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Integrar comunidad, inclusión, pensamiento crítico y formación integral",
+      "B": "Calificar únicamente el producto final",
+      "C": "Centrarse solo en la memorización de contenidos",
+      "D": "Resolver la situación de manera aislada"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 87,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: se presentan conflictos de convivencia durante el trabajo en equipo.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Relacionar los aprendizajes con saberes y problemas comunitarios",
+      "B": "Aplicar una medida general sin analizar el contexto",
+      "C": "Resolver la situación de manera aislada",
+      "D": "Delegar completamente la responsabilidad a otra instancia"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 88,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: los estudiantes realizan tareas, pero no reflexionan sobre lo aprendido.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Continuar con la planeación original sin hacer ajustes",
+      "B": "Resolver la situación de manera aislada",
+      "C": "Delegar completamente la responsabilidad a otra instancia",
+      "D": "Favorecer una educación humanista, inclusiva y crítica"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 89,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: la escuela busca fortalecer el vínculo con la comunidad.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Evitar la participación de la comunidad escolar",
+      "B": "Promover la participación activa de estudiantes y comunidad",
+      "C": "Delegar completamente la responsabilidad a otra instancia",
+      "D": "Continuar con la planeación original sin hacer ajustes"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 90,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: el docente necesita ajustar su intervención con base en evidencias.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Evitar la participación de la comunidad escolar",
+      "B": "Repetir la explicación sin modificar la estrategia",
+      "C": "Vincular escuela, aula y vida cotidiana",
+      "D": "Resolver la situación de manera aislada"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 91,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: un grupo muestra bajo interés durante las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Aplicar una medida general sin analizar el contexto",
+      "B": "Resolver la situación de manera aislada",
+      "C": "Evitar la participación de la comunidad escolar",
+      "D": "Integrar comunidad, inclusión, pensamiento crítico y formación integral"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 92,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: varios estudiantes tienen dificultades para participar.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Evitar la participación de la comunidad escolar",
+      "B": "Delegar completamente la responsabilidad a otra instancia",
+      "C": "Relacionar los aprendizajes con saberes y problemas comunitarios",
+      "D": "Calificar únicamente el producto final"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 93,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: existen diferencias importantes en los niveles de aprendizaje.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "B": "Ignorar la problemática para no interrumpir la clase",
+      "C": "Favorecer una educación humanista, inclusiva y crítica",
+      "D": "Calificar únicamente el producto final"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 94,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: el docente observa poca relación entre el contenido y el contexto.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Delegar completamente la responsabilidad a otra instancia",
+      "B": "Promover la participación activa de estudiantes y comunidad",
+      "C": "Continuar con la planeación original sin hacer ajustes",
+      "D": "Ignorar la problemática para no interrumpir la clase"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 95,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: el colectivo escolar detecta una problemática común.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Delegar completamente la responsabilidad a otra instancia",
+      "B": "Vincular escuela, aula y vida cotidiana",
+      "C": "Repetir la explicación sin modificar la estrategia",
+      "D": "Resolver la situación de manera aislada"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 96,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: algunos estudiantes no se sienten incluidos en las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Evitar la participación de la comunidad escolar",
+      "B": "Continuar con la planeación original sin hacer ajustes",
+      "C": "Integrar comunidad, inclusión, pensamiento crítico y formación integral",
+      "D": "Resolver la situación de manera aislada"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 97,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: se presentan conflictos de convivencia durante el trabajo en equipo.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Calificar únicamente el producto final",
+      "B": "Relacionar los aprendizajes con saberes y problemas comunitarios",
+      "C": "Ignorar la problemática para no interrumpir la clase",
+      "D": "Centrarse solo en la memorización de contenidos"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 98,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: los estudiantes realizan tareas, pero no reflexionan sobre lo aprendido.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Continuar con la planeación original sin hacer ajustes",
+      "B": "Favorecer una educación humanista, inclusiva y crítica",
+      "C": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "D": "Evitar la participación de la comunidad escolar"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 99,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: la escuela busca fortalecer el vínculo con la comunidad.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "B": "Aplicar una medida general sin analizar el contexto",
+      "C": "Evitar la participación de la comunidad escolar",
+      "D": "Promover la participación activa de estudiantes y comunidad"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 100,
+    "tema": "NEM (Nueva Escuela Mexicana)",
+    "pregunta": "En el tema de NEM (Nueva Escuela Mexicana), se presenta la siguiente situación: el docente necesita ajustar su intervención con base en evidencias.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Vincular escuela, aula y vida cotidiana",
+      "B": "Centrarse solo en la memorización de contenidos",
+      "C": "Ignorar la problemática para no interrumpir la clase",
+      "D": "Resolver la situación de manera aislada"
+    },
+    "respuesta": "A"
+  }
+]

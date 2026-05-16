@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: un grupo muestra bajo interés durante las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Plantear retos o problemas donde los estudiantes tomen decisiones",
+      "B": "Repetir la explicación sin modificar la estrategia",
+      "C": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "D": "Aplicar una medida general sin analizar el contexto"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 2,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: varios estudiantes tienen dificultades para participar.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "B": "Organizar proyectos colaborativos con productos significativos",
+      "C": "Resolver la situación de manera aislada",
+      "D": "Calificar únicamente el producto final"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 3,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: existen diferencias importantes en los niveles de aprendizaje.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Delegar completamente la responsabilidad a otra instancia",
+      "B": "Continuar con la planeación original sin hacer ajustes",
+      "C": "Promover investigación, participación y construcción activa del aprendizaje",
+      "D": "Resolver la situación de manera aislada"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 4,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: el docente observa poca relación entre el contenido y el contexto.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Diseñar actividades centradas en el estudiante",
+      "B": "Resolver la situación de manera aislada",
+      "C": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "D": "Ignorar la problemática para no interrumpir la clase"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 5,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: el colectivo escolar detecta una problemática común.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Resolver la situación de manera aislada",
+      "B": "Calificar únicamente el producto final",
+      "C": "Usar problemas reales para activar el aprendizaje",
+      "D": "Ignorar la problemática para no interrumpir la clase"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 6,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: algunos estudiantes no se sienten incluidos en las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Plantear retos o problemas donde los estudiantes tomen decisiones",
+      "B": "Aplicar una medida general sin analizar el contexto",
+      "C": "Centrarse solo en la memorización de contenidos",
+      "D": "Repetir la explicación sin modificar la estrategia"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 7,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: se presentan conflictos de convivencia durante el trabajo en equipo.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Calificar únicamente el producto final",
+      "B": "Organizar proyectos colaborativos con productos significativos",
+      "C": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "D": "Evitar la participación de la comunidad escolar"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 8,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: los estudiantes realizan tareas, pero no reflexionan sobre lo aprendido.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Continuar con la planeación original sin hacer ajustes",
+      "B": "Repetir la explicación sin modificar la estrategia",
+      "C": "Promover investigación, participación y construcción activa del aprendizaje",
+      "D": "Ignorar la problemática para no interrumpir la clase"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 9,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: la escuela busca fortalecer el vínculo con la comunidad.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Centrarse solo en la memorización de contenidos",
+      "B": "Evitar la participación de la comunidad escolar",
+      "C": "Ignorar la problemática para no interrumpir la clase",
+      "D": "Diseñar actividades centradas en el estudiante"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 10,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: el docente necesita ajustar su intervención con base en evidencias.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Continuar con la planeación original sin hacer ajustes",
+      "B": "Usar problemas reales para activar el aprendizaje",
+      "C": "Calificar únicamente el producto final",
+      "D": "Repetir la explicación sin modificar la estrategia"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 11,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: un grupo muestra bajo interés durante las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Plantear retos o problemas donde los estudiantes tomen decisiones",
+      "B": "Delegar completamente la responsabilidad a otra instancia",
+      "C": "Continuar con la planeación original sin hacer ajustes",
+      "D": "Aplicar una medida general sin analizar el contexto"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 12,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: varios estudiantes tienen dificultades para participar.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Evitar la participación de la comunidad escolar",
+      "B": "Calificar únicamente el producto final",
+      "C": "Delegar completamente la responsabilidad a otra instancia",
+      "D": "Organizar proyectos colaborativos con productos significativos"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 13,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: existen diferencias importantes en los niveles de aprendizaje.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Aplicar una medida general sin analizar el contexto",
+      "B": "Evitar la participación de la comunidad escolar",
+      "C": "Promover investigación, participación y construcción activa del aprendizaje",
+      "D": "Centrarse solo en la memorización de contenidos"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 14,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: el docente observa poca relación entre el contenido y el contexto.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Delegar completamente la responsabilidad a otra instancia",
+      "B": "Diseñar actividades centradas en el estudiante",
+      "C": "Resolver la situación de manera aislada",
+      "D": "Aplicar una medida general sin analizar el contexto"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 15,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: el colectivo escolar detecta una problemática común.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Resolver la situación de manera aislada",
+      "B": "Usar problemas reales para activar el aprendizaje",
+      "C": "Ignorar la problemática para no interrumpir la clase",
+      "D": "Trabajar únicamente con los estudiantes de mayor rendimiento"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 16,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: algunos estudiantes no se sienten incluidos en las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Centrarse solo en la memorización de contenidos",
+      "B": "Aplicar una medida general sin analizar el contexto",
+      "C": "Resolver la situación de manera aislada",
+      "D": "Plantear retos o problemas donde los estudiantes tomen decisiones"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 17,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: se presentan conflictos de convivencia durante el trabajo en equipo.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Evitar la participación de la comunidad escolar",
+      "B": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "C": "Continuar con la planeación original sin hacer ajustes",
+      "D": "Organizar proyectos colaborativos con productos significativos"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 18,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: los estudiantes realizan tareas, pero no reflexionan sobre lo aprendido.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Aplicar una medida general sin analizar el contexto",
+      "B": "Repetir la explicación sin modificar la estrategia",
+      "C": "Promover investigación, participación y construcción activa del aprendizaje",
+      "D": "Ignorar la problemática para no interrumpir la clase"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 19,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: la escuela busca fortalecer el vínculo con la comunidad.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Delegar completamente la responsabilidad a otra instancia",
+      "B": "Centrarse solo en la memorización de contenidos",
+      "C": "Diseñar actividades centradas en el estudiante",
+      "D": "Continuar con la planeación original sin hacer ajustes"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 20,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: el docente necesita ajustar su intervención con base en evidencias.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Usar problemas reales para activar el aprendizaje",
+      "B": "Aplicar una medida general sin analizar el contexto",
+      "C": "Centrarse solo en la memorización de contenidos",
+      "D": "Repetir la explicación sin modificar la estrategia"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 21,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: un grupo muestra bajo interés durante las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Centrarse solo en la memorización de contenidos",
+      "B": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "C": "Evitar la participación de la comunidad escolar",
+      "D": "Plantear retos o problemas donde los estudiantes tomen decisiones"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 22,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: varios estudiantes tienen dificultades para participar.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Organizar proyectos colaborativos con productos significativos",
+      "B": "Calificar únicamente el producto final",
+      "C": "Continuar con la planeación original sin hacer ajustes",
+      "D": "Aplicar una medida general sin analizar el contexto"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 23,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: existen diferencias importantes en los niveles de aprendizaje.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "B": "Calificar únicamente el producto final",
+      "C": "Resolver la situación de manera aislada",
+      "D": "Promover investigación, participación y construcción activa del aprendizaje"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 24,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: el docente observa poca relación entre el contenido y el contexto.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Diseñar actividades centradas en el estudiante",
+      "B": "Continuar con la planeación original sin hacer ajustes",
+      "C": "Repetir la explicación sin modificar la estrategia",
+      "D": "Resolver la situación de manera aislada"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 25,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: el colectivo escolar detecta una problemática común.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Usar problemas reales para activar el aprendizaje",
+      "B": "Centrarse solo en la memorización de contenidos",
+      "C": "Repetir la explicación sin modificar la estrategia",
+      "D": "Evitar la participación de la comunidad escolar"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 26,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: algunos estudiantes no se sienten incluidos en las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Plantear retos o problemas donde los estudiantes tomen decisiones",
+      "B": "Resolver la situación de manera aislada",
+      "C": "Continuar con la planeación original sin hacer ajustes",
+      "D": "Calificar únicamente el producto final"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 27,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: se presentan conflictos de convivencia durante el trabajo en equipo.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Calificar únicamente el producto final",
+      "B": "Aplicar una medida general sin analizar el contexto",
+      "C": "Organizar proyectos colaborativos con productos significativos",
+      "D": "Trabajar únicamente con los estudiantes de mayor rendimiento"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 28,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: los estudiantes realizan tareas, pero no reflexionan sobre lo aprendido.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Repetir la explicación sin modificar la estrategia",
+      "B": "Centrarse solo en la memorización de contenidos",
+      "C": "Calificar únicamente el producto final",
+      "D": "Promover investigación, participación y construcción activa del aprendizaje"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 29,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: la escuela busca fortalecer el vínculo con la comunidad.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Resolver la situación de manera aislada",
+      "B": "Ignorar la problemática para no interrumpir la clase",
+      "C": "Aplicar una medida general sin analizar el contexto",
+      "D": "Diseñar actividades centradas en el estudiante"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 30,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: el docente necesita ajustar su intervención con base en evidencias.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Resolver la situación de manera aislada",
+      "B": "Centrarse solo en la memorización de contenidos",
+      "C": "Usar problemas reales para activar el aprendizaje",
+      "D": "Aplicar una medida general sin analizar el contexto"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 31,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: un grupo muestra bajo interés durante las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Repetir la explicación sin modificar la estrategia",
+      "B": "Delegar completamente la responsabilidad a otra instancia",
+      "C": "Calificar únicamente el producto final",
+      "D": "Plantear retos o problemas donde los estudiantes tomen decisiones"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 32,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: varios estudiantes tienen dificultades para participar.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Centrarse solo en la memorización de contenidos",
+      "B": "Resolver la situación de manera aislada",
+      "C": "Organizar proyectos colaborativos con productos significativos",
+      "D": "Calificar únicamente el producto final"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 33,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: existen diferencias importantes en los niveles de aprendizaje.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Repetir la explicación sin modificar la estrategia",
+      "B": "Promover investigación, participación y construcción activa del aprendizaje",
+      "C": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "D": "Aplicar una medida general sin analizar el contexto"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 34,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: el docente observa poca relación entre el contenido y el contexto.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Diseñar actividades centradas en el estudiante",
+      "B": "Delegar completamente la responsabilidad a otra instancia",
+      "C": "Continuar con la planeación original sin hacer ajustes",
+      "D": "Ignorar la problemática para no interrumpir la clase"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 35,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: el colectivo escolar detecta una problemática común.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Resolver la situación de manera aislada",
+      "B": "Usar problemas reales para activar el aprendizaje",
+      "C": "Ignorar la problemática para no interrumpir la clase",
+      "D": "Evitar la participación de la comunidad escolar"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 36,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: algunos estudiantes no se sienten incluidos en las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "B": "Aplicar una medida general sin analizar el contexto",
+      "C": "Resolver la situación de manera aislada",
+      "D": "Plantear retos o problemas donde los estudiantes tomen decisiones"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 37,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: se presentan conflictos de convivencia durante el trabajo en equipo.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Repetir la explicación sin modificar la estrategia",
+      "B": "Organizar proyectos colaborativos con productos significativos",
+      "C": "Ignorar la problemática para no interrumpir la clase",
+      "D": "Evitar la participación de la comunidad escolar"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 38,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: los estudiantes realizan tareas, pero no reflexionan sobre lo aprendido.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Promover investigación, participación y construcción activa del aprendizaje",
+      "B": "Continuar con la planeación original sin hacer ajustes",
+      "C": "Resolver la situación de manera aislada",
+      "D": "Centrarse solo en la memorización de contenidos"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 39,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: la escuela busca fortalecer el vínculo con la comunidad.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Evitar la participación de la comunidad escolar",
+      "B": "Centrarse solo en la memorización de contenidos",
+      "C": "Diseñar actividades centradas en el estudiante",
+      "D": "Resolver la situación de manera aislada"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 40,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: el docente necesita ajustar su intervención con base en evidencias.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Evitar la participación de la comunidad escolar",
+      "B": "Usar problemas reales para activar el aprendizaje",
+      "C": "Delegar completamente la responsabilidad a otra instancia",
+      "D": "Resolver la situación de manera aislada"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 41,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: un grupo muestra bajo interés durante las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Continuar con la planeación original sin hacer ajustes",
+      "B": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "C": "Plantear retos o problemas donde los estudiantes tomen decisiones",
+      "D": "Ignorar la problemática para no interrumpir la clase"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 42,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: varios estudiantes tienen dificultades para participar.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Centrarse solo en la memorización de contenidos",
+      "B": "Calificar únicamente el producto final",
+      "C": "Organizar proyectos colaborativos con productos significativos",
+      "D": "Delegar completamente la responsabilidad a otra instancia"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 43,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: existen diferencias importantes en los niveles de aprendizaje.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Ignorar la problemática para no interrumpir la clase",
+      "B": "Centrarse solo en la memorización de contenidos",
+      "C": "Resolver la situación de manera aislada",
+      "D": "Promover investigación, participación y construcción activa del aprendizaje"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 44,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: el docente observa poca relación entre el contenido y el contexto.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Diseñar actividades centradas en el estudiante",
+      "B": "Repetir la explicación sin modificar la estrategia",
+      "C": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "D": "Aplicar una medida general sin analizar el contexto"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 45,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: el colectivo escolar detecta una problemática común.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Ignorar la problemática para no interrumpir la clase",
+      "B": "Usar problemas reales para activar el aprendizaje",
+      "C": "Evitar la participación de la comunidad escolar",
+      "D": "Repetir la explicación sin modificar la estrategia"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 46,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: algunos estudiantes no se sienten incluidos en las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "B": "Plantear retos o problemas donde los estudiantes tomen decisiones",
+      "C": "Resolver la situación de manera aislada",
+      "D": "Centrarse solo en la memorización de contenidos"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 47,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: se presentan conflictos de convivencia durante el trabajo en equipo.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "B": "Centrarse solo en la memorización de contenidos",
+      "C": "Evitar la participación de la comunidad escolar",
+      "D": "Organizar proyectos colaborativos con productos significativos"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 48,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: los estudiantes realizan tareas, pero no reflexionan sobre lo aprendido.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Evitar la participación de la comunidad escolar",
+      "B": "Repetir la explicación sin modificar la estrategia",
+      "C": "Resolver la situación de manera aislada",
+      "D": "Promover investigación, participación y construcción activa del aprendizaje"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 49,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: la escuela busca fortalecer el vínculo con la comunidad.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Resolver la situación de manera aislada",
+      "B": "Delegar completamente la responsabilidad a otra instancia",
+      "C": "Diseñar actividades centradas en el estudiante",
+      "D": "Ignorar la problemática para no interrumpir la clase"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 50,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: el docente necesita ajustar su intervención con base en evidencias.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Continuar con la planeación original sin hacer ajustes",
+      "B": "Delegar completamente la responsabilidad a otra instancia",
+      "C": "Centrarse solo en la memorización de contenidos",
+      "D": "Usar problemas reales para activar el aprendizaje"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 51,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: un grupo muestra bajo interés durante las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Plantear retos o problemas donde los estudiantes tomen decisiones",
+      "B": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "C": "Resolver la situación de manera aislada",
+      "D": "Continuar con la planeación original sin hacer ajustes"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 52,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: varios estudiantes tienen dificultades para participar.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Repetir la explicación sin modificar la estrategia",
+      "B": "Organizar proyectos colaborativos con productos significativos",
+      "C": "Resolver la situación de manera aislada",
+      "D": "Centrarse solo en la memorización de contenidos"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 53,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: existen diferencias importantes en los niveles de aprendizaje.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Promover investigación, participación y construcción activa del aprendizaje",
+      "B": "Repetir la explicación sin modificar la estrategia",
+      "C": "Aplicar una medida general sin analizar el contexto",
+      "D": "Resolver la situación de manera aislada"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 54,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: el docente observa poca relación entre el contenido y el contexto.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Diseñar actividades centradas en el estudiante",
+      "B": "Resolver la situación de manera aislada",
+      "C": "Aplicar una medida general sin analizar el contexto",
+      "D": "Evitar la participación de la comunidad escolar"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 55,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: el colectivo escolar detecta una problemática común.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Usar problemas reales para activar el aprendizaje",
+      "B": "Evitar la participación de la comunidad escolar",
+      "C": "Repetir la explicación sin modificar la estrategia",
+      "D": "Resolver la situación de manera aislada"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 56,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: algunos estudiantes no se sienten incluidos en las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Calificar únicamente el producto final",
+      "B": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "C": "Plantear retos o problemas donde los estudiantes tomen decisiones",
+      "D": "Repetir la explicación sin modificar la estrategia"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 57,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: se presentan conflictos de convivencia durante el trabajo en equipo.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Ignorar la problemática para no interrumpir la clase",
+      "B": "Delegar completamente la responsabilidad a otra instancia",
+      "C": "Organizar proyectos colaborativos con productos significativos",
+      "D": "Centrarse solo en la memorización de contenidos"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 58,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: los estudiantes realizan tareas, pero no reflexionan sobre lo aprendido.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Resolver la situación de manera aislada",
+      "B": "Evitar la participación de la comunidad escolar",
+      "C": "Ignorar la problemática para no interrumpir la clase",
+      "D": "Promover investigación, participación y construcción activa del aprendizaje"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 59,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: la escuela busca fortalecer el vínculo con la comunidad.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Aplicar una medida general sin analizar el contexto",
+      "B": "Delegar completamente la responsabilidad a otra instancia",
+      "C": "Diseñar actividades centradas en el estudiante",
+      "D": "Continuar con la planeación original sin hacer ajustes"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 60,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: el docente necesita ajustar su intervención con base en evidencias.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Repetir la explicación sin modificar la estrategia",
+      "B": "Delegar completamente la responsabilidad a otra instancia",
+      "C": "Usar problemas reales para activar el aprendizaje",
+      "D": "Evitar la participación de la comunidad escolar"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 61,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: un grupo muestra bajo interés durante las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Resolver la situación de manera aislada",
+      "B": "Evitar la participación de la comunidad escolar",
+      "C": "Plantear retos o problemas donde los estudiantes tomen decisiones",
+      "D": "Trabajar únicamente con los estudiantes de mayor rendimiento"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 62,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: varios estudiantes tienen dificultades para participar.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Calificar únicamente el producto final",
+      "B": "Aplicar una medida general sin analizar el contexto",
+      "C": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "D": "Organizar proyectos colaborativos con productos significativos"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 63,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: existen diferencias importantes en los niveles de aprendizaje.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Aplicar una medida general sin analizar el contexto",
+      "B": "Continuar con la planeación original sin hacer ajustes",
+      "C": "Promover investigación, participación y construcción activa del aprendizaje",
+      "D": "Ignorar la problemática para no interrumpir la clase"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 64,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: el docente observa poca relación entre el contenido y el contexto.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Diseñar actividades centradas en el estudiante",
+      "B": "Resolver la situación de manera aislada",
+      "C": "Centrarse solo en la memorización de contenidos",
+      "D": "Trabajar únicamente con los estudiantes de mayor rendimiento"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 65,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: el colectivo escolar detecta una problemática común.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Usar problemas reales para activar el aprendizaje",
+      "B": "Ignorar la problemática para no interrumpir la clase",
+      "C": "Delegar completamente la responsabilidad a otra instancia",
+      "D": "Evitar la participación de la comunidad escolar"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 66,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: algunos estudiantes no se sienten incluidos en las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Repetir la explicación sin modificar la estrategia",
+      "B": "Ignorar la problemática para no interrumpir la clase",
+      "C": "Continuar con la planeación original sin hacer ajustes",
+      "D": "Plantear retos o problemas donde los estudiantes tomen decisiones"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 67,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: se presentan conflictos de convivencia durante el trabajo en equipo.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Repetir la explicación sin modificar la estrategia",
+      "B": "Centrarse solo en la memorización de contenidos",
+      "C": "Organizar proyectos colaborativos con productos significativos",
+      "D": "Ignorar la problemática para no interrumpir la clase"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 68,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: los estudiantes realizan tareas, pero no reflexionan sobre lo aprendido.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "B": "Resolver la situación de manera aislada",
+      "C": "Evitar la participación de la comunidad escolar",
+      "D": "Promover investigación, participación y construcción activa del aprendizaje"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 69,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: la escuela busca fortalecer el vínculo con la comunidad.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Repetir la explicación sin modificar la estrategia",
+      "B": "Evitar la participación de la comunidad escolar",
+      "C": "Resolver la situación de manera aislada",
+      "D": "Diseñar actividades centradas en el estudiante"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 70,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: el docente necesita ajustar su intervención con base en evidencias.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Continuar con la planeación original sin hacer ajustes",
+      "B": "Usar problemas reales para activar el aprendizaje",
+      "C": "Aplicar una medida general sin analizar el contexto",
+      "D": "Delegar completamente la responsabilidad a otra instancia"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 71,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: un grupo muestra bajo interés durante las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Aplicar una medida general sin analizar el contexto",
+      "B": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "C": "Calificar únicamente el producto final",
+      "D": "Plantear retos o problemas donde los estudiantes tomen decisiones"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 72,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: varios estudiantes tienen dificultades para participar.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Aplicar una medida general sin analizar el contexto",
+      "B": "Organizar proyectos colaborativos con productos significativos",
+      "C": "Ignorar la problemática para no interrumpir la clase",
+      "D": "Resolver la situación de manera aislada"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 73,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: existen diferencias importantes en los niveles de aprendizaje.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Promover investigación, participación y construcción activa del aprendizaje",
+      "B": "Centrarse solo en la memorización de contenidos",
+      "C": "Ignorar la problemática para no interrumpir la clase",
+      "D": "Aplicar una medida general sin analizar el contexto"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 74,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: el docente observa poca relación entre el contenido y el contexto.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Delegar completamente la responsabilidad a otra instancia",
+      "B": "Evitar la participación de la comunidad escolar",
+      "C": "Calificar únicamente el producto final",
+      "D": "Diseñar actividades centradas en el estudiante"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 75,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: el colectivo escolar detecta una problemática común.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Ignorar la problemática para no interrumpir la clase",
+      "B": "Continuar con la planeación original sin hacer ajustes",
+      "C": "Usar problemas reales para activar el aprendizaje",
+      "D": "Aplicar una medida general sin analizar el contexto"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 76,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: algunos estudiantes no se sienten incluidos en las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Ignorar la problemática para no interrumpir la clase",
+      "B": "Plantear retos o problemas donde los estudiantes tomen decisiones",
+      "C": "Aplicar una medida general sin analizar el contexto",
+      "D": "Repetir la explicación sin modificar la estrategia"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 77,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: se presentan conflictos de convivencia durante el trabajo en equipo.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Organizar proyectos colaborativos con productos significativos",
+      "B": "Resolver la situación de manera aislada",
+      "C": "Evitar la participación de la comunidad escolar",
+      "D": "Delegar completamente la responsabilidad a otra instancia"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 78,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: los estudiantes realizan tareas, pero no reflexionan sobre lo aprendido.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Promover investigación, participación y construcción activa del aprendizaje",
+      "B": "Delegar completamente la responsabilidad a otra instancia",
+      "C": "Centrarse solo en la memorización de contenidos",
+      "D": "Trabajar únicamente con los estudiantes de mayor rendimiento"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 79,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: la escuela busca fortalecer el vínculo con la comunidad.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Diseñar actividades centradas en el estudiante",
+      "B": "Ignorar la problemática para no interrumpir la clase",
+      "C": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "D": "Aplicar una medida general sin analizar el contexto"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 80,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: el docente necesita ajustar su intervención con base en evidencias.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Usar problemas reales para activar el aprendizaje",
+      "B": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "C": "Centrarse solo en la memorización de contenidos",
+      "D": "Delegar completamente la responsabilidad a otra instancia"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 81,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: un grupo muestra bajo interés durante las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Calificar únicamente el producto final",
+      "B": "Ignorar la problemática para no interrumpir la clase",
+      "C": "Plantear retos o problemas donde los estudiantes tomen decisiones",
+      "D": "Resolver la situación de manera aislada"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 82,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: varios estudiantes tienen dificultades para participar.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "B": "Ignorar la problemática para no interrumpir la clase",
+      "C": "Organizar proyectos colaborativos con productos significativos",
+      "D": "Delegar completamente la responsabilidad a otra instancia"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 83,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: existen diferencias importantes en los niveles de aprendizaje.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Delegar completamente la responsabilidad a otra instancia",
+      "B": "Evitar la participación de la comunidad escolar",
+      "C": "Promover investigación, participación y construcción activa del aprendizaje",
+      "D": "Centrarse solo en la memorización de contenidos"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 84,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: el docente observa poca relación entre el contenido y el contexto.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Repetir la explicación sin modificar la estrategia",
+      "B": "Calificar únicamente el producto final",
+      "C": "Diseñar actividades centradas en el estudiante",
+      "D": "Ignorar la problemática para no interrumpir la clase"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 85,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: el colectivo escolar detecta una problemática común.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Aplicar una medida general sin analizar el contexto",
+      "B": "Usar problemas reales para activar el aprendizaje",
+      "C": "Calificar únicamente el producto final",
+      "D": "Evitar la participación de la comunidad escolar"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 86,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: algunos estudiantes no se sienten incluidos en las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Evitar la participación de la comunidad escolar",
+      "B": "Plantear retos o problemas donde los estudiantes tomen decisiones",
+      "C": "Continuar con la planeación original sin hacer ajustes",
+      "D": "Repetir la explicación sin modificar la estrategia"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 87,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: se presentan conflictos de convivencia durante el trabajo en equipo.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Organizar proyectos colaborativos con productos significativos",
+      "B": "Calificar únicamente el producto final",
+      "C": "Resolver la situación de manera aislada",
+      "D": "Centrarse solo en la memorización de contenidos"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 88,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: los estudiantes realizan tareas, pero no reflexionan sobre lo aprendido.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Continuar con la planeación original sin hacer ajustes",
+      "B": "Evitar la participación de la comunidad escolar",
+      "C": "Repetir la explicación sin modificar la estrategia",
+      "D": "Promover investigación, participación y construcción activa del aprendizaje"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 89,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: la escuela busca fortalecer el vínculo con la comunidad.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Diseñar actividades centradas en el estudiante",
+      "B": "Centrarse solo en la memorización de contenidos",
+      "C": "Repetir la explicación sin modificar la estrategia",
+      "D": "Continuar con la planeación original sin hacer ajustes"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 90,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: el docente necesita ajustar su intervención con base en evidencias.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Repetir la explicación sin modificar la estrategia",
+      "B": "Usar problemas reales para activar el aprendizaje",
+      "C": "Continuar con la planeación original sin hacer ajustes",
+      "D": "Ignorar la problemática para no interrumpir la clase"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 91,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: un grupo muestra bajo interés durante las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Delegar completamente la responsabilidad a otra instancia",
+      "B": "Calificar únicamente el producto final",
+      "C": "Plantear retos o problemas donde los estudiantes tomen decisiones",
+      "D": "Centrarse solo en la memorización de contenidos"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 92,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: varios estudiantes tienen dificultades para participar.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Organizar proyectos colaborativos con productos significativos",
+      "B": "Delegar completamente la responsabilidad a otra instancia",
+      "C": "Aplicar una medida general sin analizar el contexto",
+      "D": "Calificar únicamente el producto final"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 93,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: existen diferencias importantes en los niveles de aprendizaje.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Centrarse solo en la memorización de contenidos",
+      "B": "Evitar la participación de la comunidad escolar",
+      "C": "Ignorar la problemática para no interrumpir la clase",
+      "D": "Promover investigación, participación y construcción activa del aprendizaje"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 94,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: el docente observa poca relación entre el contenido y el contexto.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "B": "Evitar la participación de la comunidad escolar",
+      "C": "Aplicar una medida general sin analizar el contexto",
+      "D": "Diseñar actividades centradas en el estudiante"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 95,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: el colectivo escolar detecta una problemática común.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Calificar únicamente el producto final",
+      "B": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "C": "Aplicar una medida general sin analizar el contexto",
+      "D": "Usar problemas reales para activar el aprendizaje"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 96,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: algunos estudiantes no se sienten incluidos en las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Delegar completamente la responsabilidad a otra instancia",
+      "B": "Calificar únicamente el producto final",
+      "C": "Plantear retos o problemas donde los estudiantes tomen decisiones",
+      "D": "Ignorar la problemática para no interrumpir la clase"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 97,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: se presentan conflictos de convivencia durante el trabajo en equipo.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Calificar únicamente el producto final",
+      "B": "Evitar la participación de la comunidad escolar",
+      "C": "Centrarse solo en la memorización de contenidos",
+      "D": "Organizar proyectos colaborativos con productos significativos"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 98,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: los estudiantes realizan tareas, pero no reflexionan sobre lo aprendido.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Continuar con la planeación original sin hacer ajustes",
+      "B": "Promover investigación, participación y construcción activa del aprendizaje",
+      "C": "Evitar la participación de la comunidad escolar",
+      "D": "Aplicar una medida general sin analizar el contexto"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 99,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: la escuela busca fortalecer el vínculo con la comunidad.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Diseñar actividades centradas en el estudiante",
+      "B": "Repetir la explicación sin modificar la estrategia",
+      "C": "Evitar la participación de la comunidad escolar",
+      "D": "Continuar con la planeación original sin hacer ajustes"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 100,
+    "tema": "Metodologías activas",
+    "pregunta": "En el tema de Metodologías activas, se presenta la siguiente situación: el docente necesita ajustar su intervención con base en evidencias.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Continuar con la planeación original sin hacer ajustes",
+      "B": "Aplicar una medida general sin analizar el contexto",
+      "C": "Usar problemas reales para activar el aprendizaje",
+      "D": "Centrarse solo en la memorización de contenidos"
+    },
+    "respuesta": "C"
+  }
+]

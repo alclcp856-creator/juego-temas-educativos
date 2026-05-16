@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: un grupo muestra bajo interés durante las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Calificar únicamente el producto final",
+      "B": "Aplicar una medida general sin analizar el contexto",
+      "C": "Alinear diagnóstico, propósito, actividades, recursos y evaluación",
+      "D": "Ignorar la problemática para no interrumpir la clase"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 2,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: varios estudiantes tienen dificultades para participar.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Ajustar las actividades con base en las necesidades detectadas",
+      "B": "Repetir la explicación sin modificar la estrategia",
+      "C": "Centrarse solo en la memorización de contenidos",
+      "D": "Resolver la situación de manera aislada"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 3,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: existen diferencias importantes en los niveles de aprendizaje.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Continuar con la planeación original sin hacer ajustes",
+      "B": "Delegar completamente la responsabilidad a otra instancia",
+      "C": "Definir estrategias coherentes con los aprendizajes esperados",
+      "D": "Ignorar la problemática para no interrumpir la clase"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 4,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: el docente observa poca relación entre el contenido y el contexto.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Incorporar evaluación formativa durante el proceso",
+      "B": "Ignorar la problemática para no interrumpir la clase",
+      "C": "Repetir la explicación sin modificar la estrategia",
+      "D": "Centrarse solo en la memorización de contenidos"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 5,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: el colectivo escolar detecta una problemática común.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Calificar únicamente el producto final",
+      "B": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "C": "Evitar la participación de la comunidad escolar",
+      "D": "Organizar una secuencia didáctica pertinente y flexible"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 6,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: algunos estudiantes no se sienten incluidos en las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Evitar la participación de la comunidad escolar",
+      "B": "Alinear diagnóstico, propósito, actividades, recursos y evaluación",
+      "C": "Resolver la situación de manera aislada",
+      "D": "Delegar completamente la responsabilidad a otra instancia"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 7,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: se presentan conflictos de convivencia durante el trabajo en equipo.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Ajustar las actividades con base en las necesidades detectadas",
+      "B": "Continuar con la planeación original sin hacer ajustes",
+      "C": "Centrarse solo en la memorización de contenidos",
+      "D": "Repetir la explicación sin modificar la estrategia"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 8,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: los estudiantes realizan tareas, pero no reflexionan sobre lo aprendido.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Evitar la participación de la comunidad escolar",
+      "B": "Ignorar la problemática para no interrumpir la clase",
+      "C": "Definir estrategias coherentes con los aprendizajes esperados",
+      "D": "Repetir la explicación sin modificar la estrategia"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 9,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: la escuela busca fortalecer el vínculo con la comunidad.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Incorporar evaluación formativa durante el proceso",
+      "B": "Centrarse solo en la memorización de contenidos",
+      "C": "Delegar completamente la responsabilidad a otra instancia",
+      "D": "Trabajar únicamente con los estudiantes de mayor rendimiento"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 10,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: el docente necesita ajustar su intervención con base en evidencias.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Continuar con la planeación original sin hacer ajustes",
+      "B": "Organizar una secuencia didáctica pertinente y flexible",
+      "C": "Aplicar una medida general sin analizar el contexto",
+      "D": "Trabajar únicamente con los estudiantes de mayor rendimiento"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 11,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: un grupo muestra bajo interés durante las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Resolver la situación de manera aislada",
+      "B": "Ignorar la problemática para no interrumpir la clase",
+      "C": "Alinear diagnóstico, propósito, actividades, recursos y evaluación",
+      "D": "Aplicar una medida general sin analizar el contexto"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 12,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: varios estudiantes tienen dificultades para participar.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Ajustar las actividades con base en las necesidades detectadas",
+      "B": "Delegar completamente la responsabilidad a otra instancia",
+      "C": "Centrarse solo en la memorización de contenidos",
+      "D": "Repetir la explicación sin modificar la estrategia"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 13,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: existen diferencias importantes en los niveles de aprendizaje.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Definir estrategias coherentes con los aprendizajes esperados",
+      "B": "Repetir la explicación sin modificar la estrategia",
+      "C": "Centrarse solo en la memorización de contenidos",
+      "D": "Trabajar únicamente con los estudiantes de mayor rendimiento"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 14,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: el docente observa poca relación entre el contenido y el contexto.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Incorporar evaluación formativa durante el proceso",
+      "B": "Continuar con la planeación original sin hacer ajustes",
+      "C": "Centrarse solo en la memorización de contenidos",
+      "D": "Ignorar la problemática para no interrumpir la clase"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 15,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: el colectivo escolar detecta una problemática común.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Continuar con la planeación original sin hacer ajustes",
+      "B": "Organizar una secuencia didáctica pertinente y flexible",
+      "C": "Repetir la explicación sin modificar la estrategia",
+      "D": "Evitar la participación de la comunidad escolar"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 16,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: algunos estudiantes no se sienten incluidos en las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "B": "Resolver la situación de manera aislada",
+      "C": "Calificar únicamente el producto final",
+      "D": "Alinear diagnóstico, propósito, actividades, recursos y evaluación"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 17,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: se presentan conflictos de convivencia durante el trabajo en equipo.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Ajustar las actividades con base en las necesidades detectadas",
+      "B": "Centrarse solo en la memorización de contenidos",
+      "C": "Delegar completamente la responsabilidad a otra instancia",
+      "D": "Evitar la participación de la comunidad escolar"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 18,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: los estudiantes realizan tareas, pero no reflexionan sobre lo aprendido.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Centrarse solo en la memorización de contenidos",
+      "B": "Ignorar la problemática para no interrumpir la clase",
+      "C": "Definir estrategias coherentes con los aprendizajes esperados",
+      "D": "Repetir la explicación sin modificar la estrategia"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 19,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: la escuela busca fortalecer el vínculo con la comunidad.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Ignorar la problemática para no interrumpir la clase",
+      "B": "Repetir la explicación sin modificar la estrategia",
+      "C": "Incorporar evaluación formativa durante el proceso",
+      "D": "Resolver la situación de manera aislada"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 20,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: el docente necesita ajustar su intervención con base en evidencias.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Centrarse solo en la memorización de contenidos",
+      "B": "Organizar una secuencia didáctica pertinente y flexible",
+      "C": "Aplicar una medida general sin analizar el contexto",
+      "D": "Evitar la participación de la comunidad escolar"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 21,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: un grupo muestra bajo interés durante las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Repetir la explicación sin modificar la estrategia",
+      "B": "Ignorar la problemática para no interrumpir la clase",
+      "C": "Resolver la situación de manera aislada",
+      "D": "Alinear diagnóstico, propósito, actividades, recursos y evaluación"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 22,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: varios estudiantes tienen dificultades para participar.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Continuar con la planeación original sin hacer ajustes",
+      "B": "Ajustar las actividades con base en las necesidades detectadas",
+      "C": "Centrarse solo en la memorización de contenidos",
+      "D": "Delegar completamente la responsabilidad a otra instancia"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 23,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: existen diferencias importantes en los niveles de aprendizaje.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Repetir la explicación sin modificar la estrategia",
+      "B": "Definir estrategias coherentes con los aprendizajes esperados",
+      "C": "Centrarse solo en la memorización de contenidos",
+      "D": "Delegar completamente la responsabilidad a otra instancia"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 24,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: el docente observa poca relación entre el contenido y el contexto.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Incorporar evaluación formativa durante el proceso",
+      "B": "Aplicar una medida general sin analizar el contexto",
+      "C": "Evitar la participación de la comunidad escolar",
+      "D": "Delegar completamente la responsabilidad a otra instancia"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 25,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: el colectivo escolar detecta una problemática común.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Ignorar la problemática para no interrumpir la clase",
+      "B": "Organizar una secuencia didáctica pertinente y flexible",
+      "C": "Aplicar una medida general sin analizar el contexto",
+      "D": "Repetir la explicación sin modificar la estrategia"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 26,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: algunos estudiantes no se sienten incluidos en las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Resolver la situación de manera aislada",
+      "B": "Ignorar la problemática para no interrumpir la clase",
+      "C": "Alinear diagnóstico, propósito, actividades, recursos y evaluación",
+      "D": "Delegar completamente la responsabilidad a otra instancia"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 27,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: se presentan conflictos de convivencia durante el trabajo en equipo.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Ajustar las actividades con base en las necesidades detectadas",
+      "B": "Repetir la explicación sin modificar la estrategia",
+      "C": "Calificar únicamente el producto final",
+      "D": "Centrarse solo en la memorización de contenidos"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 28,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: los estudiantes realizan tareas, pero no reflexionan sobre lo aprendido.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Definir estrategias coherentes con los aprendizajes esperados",
+      "B": "Calificar únicamente el producto final",
+      "C": "Evitar la participación de la comunidad escolar",
+      "D": "Repetir la explicación sin modificar la estrategia"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 29,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: la escuela busca fortalecer el vínculo con la comunidad.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Aplicar una medida general sin analizar el contexto",
+      "B": "Repetir la explicación sin modificar la estrategia",
+      "C": "Calificar únicamente el producto final",
+      "D": "Incorporar evaluación formativa durante el proceso"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 30,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: el docente necesita ajustar su intervención con base en evidencias.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Evitar la participación de la comunidad escolar",
+      "B": "Delegar completamente la responsabilidad a otra instancia",
+      "C": "Organizar una secuencia didáctica pertinente y flexible",
+      "D": "Trabajar únicamente con los estudiantes de mayor rendimiento"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 31,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: un grupo muestra bajo interés durante las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Continuar con la planeación original sin hacer ajustes",
+      "B": "Alinear diagnóstico, propósito, actividades, recursos y evaluación",
+      "C": "Calificar únicamente el producto final",
+      "D": "Trabajar únicamente con los estudiantes de mayor rendimiento"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 32,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: varios estudiantes tienen dificultades para participar.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Calificar únicamente el producto final",
+      "B": "Ignorar la problemática para no interrumpir la clase",
+      "C": "Delegar completamente la responsabilidad a otra instancia",
+      "D": "Ajustar las actividades con base en las necesidades detectadas"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 33,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: existen diferencias importantes en los niveles de aprendizaje.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "B": "Calificar únicamente el producto final",
+      "C": "Resolver la situación de manera aislada",
+      "D": "Definir estrategias coherentes con los aprendizajes esperados"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 34,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: el docente observa poca relación entre el contenido y el contexto.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Incorporar evaluación formativa durante el proceso",
+      "B": "Continuar con la planeación original sin hacer ajustes",
+      "C": "Evitar la participación de la comunidad escolar",
+      "D": "Ignorar la problemática para no interrumpir la clase"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 35,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: el colectivo escolar detecta una problemática común.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Continuar con la planeación original sin hacer ajustes",
+      "B": "Resolver la situación de manera aislada",
+      "C": "Organizar una secuencia didáctica pertinente y flexible",
+      "D": "Aplicar una medida general sin analizar el contexto"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 36,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: algunos estudiantes no se sienten incluidos en las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Calificar únicamente el producto final",
+      "B": "Centrarse solo en la memorización de contenidos",
+      "C": "Repetir la explicación sin modificar la estrategia",
+      "D": "Alinear diagnóstico, propósito, actividades, recursos y evaluación"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 37,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: se presentan conflictos de convivencia durante el trabajo en equipo.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Delegar completamente la responsabilidad a otra instancia",
+      "B": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "C": "Repetir la explicación sin modificar la estrategia",
+      "D": "Ajustar las actividades con base en las necesidades detectadas"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 38,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: los estudiantes realizan tareas, pero no reflexionan sobre lo aprendido.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Aplicar una medida general sin analizar el contexto",
+      "B": "Definir estrategias coherentes con los aprendizajes esperados",
+      "C": "Calificar únicamente el producto final",
+      "D": "Delegar completamente la responsabilidad a otra instancia"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 39,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: la escuela busca fortalecer el vínculo con la comunidad.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Resolver la situación de manera aislada",
+      "B": "Ignorar la problemática para no interrumpir la clase",
+      "C": "Incorporar evaluación formativa durante el proceso",
+      "D": "Evitar la participación de la comunidad escolar"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 40,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: el docente necesita ajustar su intervención con base en evidencias.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Aplicar una medida general sin analizar el contexto",
+      "B": "Organizar una secuencia didáctica pertinente y flexible",
+      "C": "Ignorar la problemática para no interrumpir la clase",
+      "D": "Trabajar únicamente con los estudiantes de mayor rendimiento"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 41,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: un grupo muestra bajo interés durante las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Alinear diagnóstico, propósito, actividades, recursos y evaluación",
+      "B": "Evitar la participación de la comunidad escolar",
+      "C": "Continuar con la planeación original sin hacer ajustes",
+      "D": "Aplicar una medida general sin analizar el contexto"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 42,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: varios estudiantes tienen dificultades para participar.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Aplicar una medida general sin analizar el contexto",
+      "B": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "C": "Ajustar las actividades con base en las necesidades detectadas",
+      "D": "Delegar completamente la responsabilidad a otra instancia"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 43,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: existen diferencias importantes en los niveles de aprendizaje.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Ignorar la problemática para no interrumpir la clase",
+      "B": "Definir estrategias coherentes con los aprendizajes esperados",
+      "C": "Calificar únicamente el producto final",
+      "D": "Repetir la explicación sin modificar la estrategia"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 44,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: el docente observa poca relación entre el contenido y el contexto.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Calificar únicamente el producto final",
+      "B": "Centrarse solo en la memorización de contenidos",
+      "C": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "D": "Incorporar evaluación formativa durante el proceso"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 45,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: el colectivo escolar detecta una problemática común.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Continuar con la planeación original sin hacer ajustes",
+      "B": "Evitar la participación de la comunidad escolar",
+      "C": "Centrarse solo en la memorización de contenidos",
+      "D": "Organizar una secuencia didáctica pertinente y flexible"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 46,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: algunos estudiantes no se sienten incluidos en las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Delegar completamente la responsabilidad a otra instancia",
+      "B": "Alinear diagnóstico, propósito, actividades, recursos y evaluación",
+      "C": "Calificar únicamente el producto final",
+      "D": "Aplicar una medida general sin analizar el contexto"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 47,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: se presentan conflictos de convivencia durante el trabajo en equipo.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Centrarse solo en la memorización de contenidos",
+      "B": "Calificar únicamente el producto final",
+      "C": "Ajustar las actividades con base en las necesidades detectadas",
+      "D": "Evitar la participación de la comunidad escolar"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 48,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: los estudiantes realizan tareas, pero no reflexionan sobre lo aprendido.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Delegar completamente la responsabilidad a otra instancia",
+      "B": "Definir estrategias coherentes con los aprendizajes esperados",
+      "C": "Repetir la explicación sin modificar la estrategia",
+      "D": "Trabajar únicamente con los estudiantes de mayor rendimiento"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 49,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: la escuela busca fortalecer el vínculo con la comunidad.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Centrarse solo en la memorización de contenidos",
+      "B": "Incorporar evaluación formativa durante el proceso",
+      "C": "Resolver la situación de manera aislada",
+      "D": "Evitar la participación de la comunidad escolar"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 50,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: el docente necesita ajustar su intervención con base en evidencias.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Organizar una secuencia didáctica pertinente y flexible",
+      "B": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "C": "Aplicar una medida general sin analizar el contexto",
+      "D": "Evitar la participación de la comunidad escolar"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 51,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: un grupo muestra bajo interés durante las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Alinear diagnóstico, propósito, actividades, recursos y evaluación",
+      "B": "Repetir la explicación sin modificar la estrategia",
+      "C": "Aplicar una medida general sin analizar el contexto",
+      "D": "Calificar únicamente el producto final"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 52,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: varios estudiantes tienen dificultades para participar.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Ajustar las actividades con base en las necesidades detectadas",
+      "B": "Repetir la explicación sin modificar la estrategia",
+      "C": "Ignorar la problemática para no interrumpir la clase",
+      "D": "Calificar únicamente el producto final"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 53,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: existen diferencias importantes en los niveles de aprendizaje.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Definir estrategias coherentes con los aprendizajes esperados",
+      "B": "Centrarse solo en la memorización de contenidos",
+      "C": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "D": "Resolver la situación de manera aislada"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 54,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: el docente observa poca relación entre el contenido y el contexto.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "B": "Centrarse solo en la memorización de contenidos",
+      "C": "Incorporar evaluación formativa durante el proceso",
+      "D": "Ignorar la problemática para no interrumpir la clase"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 55,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: el colectivo escolar detecta una problemática común.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Aplicar una medida general sin analizar el contexto",
+      "B": "Delegar completamente la responsabilidad a otra instancia",
+      "C": "Organizar una secuencia didáctica pertinente y flexible",
+      "D": "Resolver la situación de manera aislada"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 56,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: algunos estudiantes no se sienten incluidos en las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Alinear diagnóstico, propósito, actividades, recursos y evaluación",
+      "B": "Centrarse solo en la memorización de contenidos",
+      "C": "Continuar con la planeación original sin hacer ajustes",
+      "D": "Resolver la situación de manera aislada"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 57,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: se presentan conflictos de convivencia durante el trabajo en equipo.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Repetir la explicación sin modificar la estrategia",
+      "B": "Calificar únicamente el producto final",
+      "C": "Centrarse solo en la memorización de contenidos",
+      "D": "Ajustar las actividades con base en las necesidades detectadas"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 58,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: los estudiantes realizan tareas, pero no reflexionan sobre lo aprendido.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "B": "Continuar con la planeación original sin hacer ajustes",
+      "C": "Repetir la explicación sin modificar la estrategia",
+      "D": "Definir estrategias coherentes con los aprendizajes esperados"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 59,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: la escuela busca fortalecer el vínculo con la comunidad.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Calificar únicamente el producto final",
+      "B": "Incorporar evaluación formativa durante el proceso",
+      "C": "Continuar con la planeación original sin hacer ajustes",
+      "D": "Centrarse solo en la memorización de contenidos"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 60,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: el docente necesita ajustar su intervención con base en evidencias.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Repetir la explicación sin modificar la estrategia",
+      "B": "Evitar la participación de la comunidad escolar",
+      "C": "Organizar una secuencia didáctica pertinente y flexible",
+      "D": "Trabajar únicamente con los estudiantes de mayor rendimiento"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 61,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: un grupo muestra bajo interés durante las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Centrarse solo en la memorización de contenidos",
+      "B": "Evitar la participación de la comunidad escolar",
+      "C": "Alinear diagnóstico, propósito, actividades, recursos y evaluación",
+      "D": "Ignorar la problemática para no interrumpir la clase"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 62,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: varios estudiantes tienen dificultades para participar.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Aplicar una medida general sin analizar el contexto",
+      "B": "Delegar completamente la responsabilidad a otra instancia",
+      "C": "Resolver la situación de manera aislada",
+      "D": "Ajustar las actividades con base en las necesidades detectadas"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 63,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: existen diferencias importantes en los niveles de aprendizaje.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Definir estrategias coherentes con los aprendizajes esperados",
+      "B": "Delegar completamente la responsabilidad a otra instancia",
+      "C": "Calificar únicamente el producto final",
+      "D": "Continuar con la planeación original sin hacer ajustes"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 64,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: el docente observa poca relación entre el contenido y el contexto.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Evitar la participación de la comunidad escolar",
+      "B": "Incorporar evaluación formativa durante el proceso",
+      "C": "Continuar con la planeación original sin hacer ajustes",
+      "D": "Trabajar únicamente con los estudiantes de mayor rendimiento"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 65,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: el colectivo escolar detecta una problemática común.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Organizar una secuencia didáctica pertinente y flexible",
+      "B": "Evitar la participación de la comunidad escolar",
+      "C": "Centrarse solo en la memorización de contenidos",
+      "D": "Repetir la explicación sin modificar la estrategia"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 66,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: algunos estudiantes no se sienten incluidos en las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Calificar únicamente el producto final",
+      "B": "Alinear diagnóstico, propósito, actividades, recursos y evaluación",
+      "C": "Ignorar la problemática para no interrumpir la clase",
+      "D": "Evitar la participación de la comunidad escolar"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 67,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: se presentan conflictos de convivencia durante el trabajo en equipo.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "B": "Ajustar las actividades con base en las necesidades detectadas",
+      "C": "Resolver la situación de manera aislada",
+      "D": "Ignorar la problemática para no interrumpir la clase"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 68,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: los estudiantes realizan tareas, pero no reflexionan sobre lo aprendido.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Evitar la participación de la comunidad escolar",
+      "B": "Definir estrategias coherentes con los aprendizajes esperados",
+      "C": "Centrarse solo en la memorización de contenidos",
+      "D": "Ignorar la problemática para no interrumpir la clase"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 69,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: la escuela busca fortalecer el vínculo con la comunidad.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Aplicar una medida general sin analizar el contexto",
+      "B": "Evitar la participación de la comunidad escolar",
+      "C": "Continuar con la planeación original sin hacer ajustes",
+      "D": "Incorporar evaluación formativa durante el proceso"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 70,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: el docente necesita ajustar su intervención con base en evidencias.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Organizar una secuencia didáctica pertinente y flexible",
+      "B": "Ignorar la problemática para no interrumpir la clase",
+      "C": "Repetir la explicación sin modificar la estrategia",
+      "D": "Evitar la participación de la comunidad escolar"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 71,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: un grupo muestra bajo interés durante las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Aplicar una medida general sin analizar el contexto",
+      "B": "Continuar con la planeación original sin hacer ajustes",
+      "C": "Alinear diagnóstico, propósito, actividades, recursos y evaluación",
+      "D": "Repetir la explicación sin modificar la estrategia"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 72,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: varios estudiantes tienen dificultades para participar.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Delegar completamente la responsabilidad a otra instancia",
+      "B": "Resolver la situación de manera aislada",
+      "C": "Continuar con la planeación original sin hacer ajustes",
+      "D": "Ajustar las actividades con base en las necesidades detectadas"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 73,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: existen diferencias importantes en los niveles de aprendizaje.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "B": "Delegar completamente la responsabilidad a otra instancia",
+      "C": "Calificar únicamente el producto final",
+      "D": "Definir estrategias coherentes con los aprendizajes esperados"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 74,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: el docente observa poca relación entre el contenido y el contexto.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Ignorar la problemática para no interrumpir la clase",
+      "B": "Calificar únicamente el producto final",
+      "C": "Continuar con la planeación original sin hacer ajustes",
+      "D": "Incorporar evaluación formativa durante el proceso"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 75,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: el colectivo escolar detecta una problemática común.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Aplicar una medida general sin analizar el contexto",
+      "B": "Repetir la explicación sin modificar la estrategia",
+      "C": "Ignorar la problemática para no interrumpir la clase",
+      "D": "Organizar una secuencia didáctica pertinente y flexible"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 76,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: algunos estudiantes no se sienten incluidos en las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Aplicar una medida general sin analizar el contexto",
+      "B": "Calificar únicamente el producto final",
+      "C": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "D": "Alinear diagnóstico, propósito, actividades, recursos y evaluación"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 77,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: se presentan conflictos de convivencia durante el trabajo en equipo.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Evitar la participación de la comunidad escolar",
+      "B": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "C": "Continuar con la planeación original sin hacer ajustes",
+      "D": "Ajustar las actividades con base en las necesidades detectadas"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 78,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: los estudiantes realizan tareas, pero no reflexionan sobre lo aprendido.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Centrarse solo en la memorización de contenidos",
+      "B": "Definir estrategias coherentes con los aprendizajes esperados",
+      "C": "Resolver la situación de manera aislada",
+      "D": "Ignorar la problemática para no interrumpir la clase"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 79,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: la escuela busca fortalecer el vínculo con la comunidad.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Ignorar la problemática para no interrumpir la clase",
+      "B": "Incorporar evaluación formativa durante el proceso",
+      "C": "Calificar únicamente el producto final",
+      "D": "Delegar completamente la responsabilidad a otra instancia"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 80,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: el docente necesita ajustar su intervención con base en evidencias.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Aplicar una medida general sin analizar el contexto",
+      "B": "Organizar una secuencia didáctica pertinente y flexible",
+      "C": "Continuar con la planeación original sin hacer ajustes",
+      "D": "Ignorar la problemática para no interrumpir la clase"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 81,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: un grupo muestra bajo interés durante las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Delegar completamente la responsabilidad a otra instancia",
+      "B": "Continuar con la planeación original sin hacer ajustes",
+      "C": "Resolver la situación de manera aislada",
+      "D": "Alinear diagnóstico, propósito, actividades, recursos y evaluación"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 82,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: varios estudiantes tienen dificultades para participar.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "B": "Ignorar la problemática para no interrumpir la clase",
+      "C": "Ajustar las actividades con base en las necesidades detectadas",
+      "D": "Aplicar una medida general sin analizar el contexto"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 83,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: existen diferencias importantes en los niveles de aprendizaje.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Delegar completamente la responsabilidad a otra instancia",
+      "B": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "C": "Definir estrategias coherentes con los aprendizajes esperados",
+      "D": "Ignorar la problemática para no interrumpir la clase"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 84,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: el docente observa poca relación entre el contenido y el contexto.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Continuar con la planeación original sin hacer ajustes",
+      "B": "Centrarse solo en la memorización de contenidos",
+      "C": "Aplicar una medida general sin analizar el contexto",
+      "D": "Incorporar evaluación formativa durante el proceso"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 85,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: el colectivo escolar detecta una problemática común.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Aplicar una medida general sin analizar el contexto",
+      "B": "Organizar una secuencia didáctica pertinente y flexible",
+      "C": "Repetir la explicación sin modificar la estrategia",
+      "D": "Centrarse solo en la memorización de contenidos"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 86,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: algunos estudiantes no se sienten incluidos en las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Centrarse solo en la memorización de contenidos",
+      "B": "Calificar únicamente el producto final",
+      "C": "Alinear diagnóstico, propósito, actividades, recursos y evaluación",
+      "D": "Evitar la participación de la comunidad escolar"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 87,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: se presentan conflictos de convivencia durante el trabajo en equipo.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "B": "Resolver la situación de manera aislada",
+      "C": "Ajustar las actividades con base en las necesidades detectadas",
+      "D": "Delegar completamente la responsabilidad a otra instancia"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 88,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: los estudiantes realizan tareas, pero no reflexionan sobre lo aprendido.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "B": "Delegar completamente la responsabilidad a otra instancia",
+      "C": "Definir estrategias coherentes con los aprendizajes esperados",
+      "D": "Centrarse solo en la memorización de contenidos"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 89,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: la escuela busca fortalecer el vínculo con la comunidad.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Aplicar una medida general sin analizar el contexto",
+      "B": "Incorporar evaluación formativa durante el proceso",
+      "C": "Repetir la explicación sin modificar la estrategia",
+      "D": "Resolver la situación de manera aislada"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 90,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: el docente necesita ajustar su intervención con base en evidencias.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Organizar una secuencia didáctica pertinente y flexible",
+      "B": "Resolver la situación de manera aislada",
+      "C": "Evitar la participación de la comunidad escolar",
+      "D": "Aplicar una medida general sin analizar el contexto"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 91,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: un grupo muestra bajo interés durante las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Delegar completamente la responsabilidad a otra instancia",
+      "B": "Alinear diagnóstico, propósito, actividades, recursos y evaluación",
+      "C": "Repetir la explicación sin modificar la estrategia",
+      "D": "Continuar con la planeación original sin hacer ajustes"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 92,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: varios estudiantes tienen dificultades para participar.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Ignorar la problemática para no interrumpir la clase",
+      "B": "Ajustar las actividades con base en las necesidades detectadas",
+      "C": "Resolver la situación de manera aislada",
+      "D": "Calificar únicamente el producto final"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 93,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: existen diferencias importantes en los niveles de aprendizaje.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "B": "Repetir la explicación sin modificar la estrategia",
+      "C": "Ignorar la problemática para no interrumpir la clase",
+      "D": "Definir estrategias coherentes con los aprendizajes esperados"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 94,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: el docente observa poca relación entre el contenido y el contexto.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Continuar con la planeación original sin hacer ajustes",
+      "B": "Incorporar evaluación formativa durante el proceso",
+      "C": "Repetir la explicación sin modificar la estrategia",
+      "D": "Calificar únicamente el producto final"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 95,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: el colectivo escolar detecta una problemática común.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Calificar únicamente el producto final",
+      "B": "Evitar la participación de la comunidad escolar",
+      "C": "Ignorar la problemática para no interrumpir la clase",
+      "D": "Organizar una secuencia didáctica pertinente y flexible"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 96,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: algunos estudiantes no se sienten incluidos en las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Evitar la participación de la comunidad escolar",
+      "B": "Alinear diagnóstico, propósito, actividades, recursos y evaluación",
+      "C": "Resolver la situación de manera aislada",
+      "D": "Calificar únicamente el producto final"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 97,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: se presentan conflictos de convivencia durante el trabajo en equipo.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Evitar la participación de la comunidad escolar",
+      "B": "Continuar con la planeación original sin hacer ajustes",
+      "C": "Ajustar las actividades con base en las necesidades detectadas",
+      "D": "Delegar completamente la responsabilidad a otra instancia"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 98,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: los estudiantes realizan tareas, pero no reflexionan sobre lo aprendido.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Definir estrategias coherentes con los aprendizajes esperados",
+      "B": "Ignorar la problemática para no interrumpir la clase",
+      "C": "Resolver la situación de manera aislada",
+      "D": "Continuar con la planeación original sin hacer ajustes"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 99,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: la escuela busca fortalecer el vínculo con la comunidad.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Evitar la participación de la comunidad escolar",
+      "B": "Incorporar evaluación formativa durante el proceso",
+      "C": "Calificar únicamente el producto final",
+      "D": "Repetir la explicación sin modificar la estrategia"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 100,
+    "tema": "Planeación didáctica",
+    "pregunta": "En el tema de Planeación didáctica, se presenta la siguiente situación: el docente necesita ajustar su intervención con base en evidencias.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Continuar con la planeación original sin hacer ajustes",
+      "B": "Organizar una secuencia didáctica pertinente y flexible",
+      "C": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "D": "Repetir la explicación sin modificar la estrategia"
+    },
+    "respuesta": "B"
+  }
+]

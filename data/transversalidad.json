@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: un grupo muestra bajo interés durante las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Relacionar saberes de distintas áreas alrededor de una problemática común",
+      "B": "Repetir la explicación sin modificar la estrategia",
+      "C": "Aplicar una medida general sin analizar el contexto",
+      "D": "Centrarse solo en la memorización de contenidos"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 2,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: varios estudiantes tienen dificultades para participar.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Continuar con la planeación original sin hacer ajustes",
+      "B": "Integrar contenidos de varias asignaturas en un proyecto articulado",
+      "C": "Resolver la situación de manera aislada",
+      "D": "Ignorar la problemática para no interrumpir la clase"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 3,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: existen diferencias importantes en los niveles de aprendizaje.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Evitar la participación de la comunidad escolar",
+      "B": "Continuar con la planeación original sin hacer ajustes",
+      "C": "Delegar completamente la responsabilidad a otra instancia",
+      "D": "Abordar el tema desde diferentes perspectivas disciplinares"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 4,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: el docente observa poca relación entre el contenido y el contexto.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Repetir la explicación sin modificar la estrategia",
+      "B": "Conectar aprendizajes para favorecer una comprensión integral",
+      "C": "Aplicar una medida general sin analizar el contexto",
+      "D": "Calificar únicamente el producto final"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 5,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: el colectivo escolar detecta una problemática común.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Ignorar la problemática para no interrumpir la clase",
+      "B": "Coordinar actividades entre asignaturas con un propósito común",
+      "C": "Aplicar una medida general sin analizar el contexto",
+      "D": "Repetir la explicación sin modificar la estrategia"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 6,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: algunos estudiantes no se sienten incluidos en las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Relacionar saberes de distintas áreas alrededor de una problemática común",
+      "B": "Ignorar la problemática para no interrumpir la clase",
+      "C": "Aplicar una medida general sin analizar el contexto",
+      "D": "Resolver la situación de manera aislada"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 7,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: se presentan conflictos de convivencia durante el trabajo en equipo.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Calificar únicamente el producto final",
+      "B": "Integrar contenidos de varias asignaturas en un proyecto articulado",
+      "C": "Resolver la situación de manera aislada",
+      "D": "Trabajar únicamente con los estudiantes de mayor rendimiento"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 8,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: los estudiantes realizan tareas, pero no reflexionan sobre lo aprendido.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Ignorar la problemática para no interrumpir la clase",
+      "B": "Centrarse solo en la memorización de contenidos",
+      "C": "Delegar completamente la responsabilidad a otra instancia",
+      "D": "Abordar el tema desde diferentes perspectivas disciplinares"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 9,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: la escuela busca fortalecer el vínculo con la comunidad.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Conectar aprendizajes para favorecer una comprensión integral",
+      "B": "Repetir la explicación sin modificar la estrategia",
+      "C": "Continuar con la planeación original sin hacer ajustes",
+      "D": "Aplicar una medida general sin analizar el contexto"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 10,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: el docente necesita ajustar su intervención con base en evidencias.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Resolver la situación de manera aislada",
+      "B": "Calificar únicamente el producto final",
+      "C": "Delegar completamente la responsabilidad a otra instancia",
+      "D": "Coordinar actividades entre asignaturas con un propósito común"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 11,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: un grupo muestra bajo interés durante las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Continuar con la planeación original sin hacer ajustes",
+      "B": "Relacionar saberes de distintas áreas alrededor de una problemática común",
+      "C": "Resolver la situación de manera aislada",
+      "D": "Ignorar la problemática para no interrumpir la clase"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 12,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: varios estudiantes tienen dificultades para participar.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Integrar contenidos de varias asignaturas en un proyecto articulado",
+      "B": "Calificar únicamente el producto final",
+      "C": "Delegar completamente la responsabilidad a otra instancia",
+      "D": "Aplicar una medida general sin analizar el contexto"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 13,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: existen diferencias importantes en los niveles de aprendizaje.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Abordar el tema desde diferentes perspectivas disciplinares",
+      "B": "Aplicar una medida general sin analizar el contexto",
+      "C": "Evitar la participación de la comunidad escolar",
+      "D": "Ignorar la problemática para no interrumpir la clase"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 14,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: el docente observa poca relación entre el contenido y el contexto.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Continuar con la planeación original sin hacer ajustes",
+      "B": "Conectar aprendizajes para favorecer una comprensión integral",
+      "C": "Calificar únicamente el producto final",
+      "D": "Evitar la participación de la comunidad escolar"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 15,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: el colectivo escolar detecta una problemática común.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Calificar únicamente el producto final",
+      "B": "Continuar con la planeación original sin hacer ajustes",
+      "C": "Delegar completamente la responsabilidad a otra instancia",
+      "D": "Coordinar actividades entre asignaturas con un propósito común"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 16,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: algunos estudiantes no se sienten incluidos en las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Resolver la situación de manera aislada",
+      "B": "Relacionar saberes de distintas áreas alrededor de una problemática común",
+      "C": "Calificar únicamente el producto final",
+      "D": "Repetir la explicación sin modificar la estrategia"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 17,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: se presentan conflictos de convivencia durante el trabajo en equipo.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Continuar con la planeación original sin hacer ajustes",
+      "B": "Repetir la explicación sin modificar la estrategia",
+      "C": "Delegar completamente la responsabilidad a otra instancia",
+      "D": "Integrar contenidos de varias asignaturas en un proyecto articulado"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 18,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: los estudiantes realizan tareas, pero no reflexionan sobre lo aprendido.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Evitar la participación de la comunidad escolar",
+      "B": "Calificar únicamente el producto final",
+      "C": "Abordar el tema desde diferentes perspectivas disciplinares",
+      "D": "Continuar con la planeación original sin hacer ajustes"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 19,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: la escuela busca fortalecer el vínculo con la comunidad.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Ignorar la problemática para no interrumpir la clase",
+      "B": "Calificar únicamente el producto final",
+      "C": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "D": "Conectar aprendizajes para favorecer una comprensión integral"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 20,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: el docente necesita ajustar su intervención con base en evidencias.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Repetir la explicación sin modificar la estrategia",
+      "B": "Coordinar actividades entre asignaturas con un propósito común",
+      "C": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "D": "Evitar la participación de la comunidad escolar"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 21,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: un grupo muestra bajo interés durante las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Relacionar saberes de distintas áreas alrededor de una problemática común",
+      "B": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "C": "Centrarse solo en la memorización de contenidos",
+      "D": "Ignorar la problemática para no interrumpir la clase"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 22,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: varios estudiantes tienen dificultades para participar.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "B": "Aplicar una medida general sin analizar el contexto",
+      "C": "Resolver la situación de manera aislada",
+      "D": "Integrar contenidos de varias asignaturas en un proyecto articulado"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 23,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: existen diferencias importantes en los niveles de aprendizaje.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Continuar con la planeación original sin hacer ajustes",
+      "B": "Calificar únicamente el producto final",
+      "C": "Abordar el tema desde diferentes perspectivas disciplinares",
+      "D": "Resolver la situación de manera aislada"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 24,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: el docente observa poca relación entre el contenido y el contexto.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Conectar aprendizajes para favorecer una comprensión integral",
+      "B": "Delegar completamente la responsabilidad a otra instancia",
+      "C": "Repetir la explicación sin modificar la estrategia",
+      "D": "Trabajar únicamente con los estudiantes de mayor rendimiento"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 25,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: el colectivo escolar detecta una problemática común.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Ignorar la problemática para no interrumpir la clase",
+      "B": "Coordinar actividades entre asignaturas con un propósito común",
+      "C": "Repetir la explicación sin modificar la estrategia",
+      "D": "Aplicar una medida general sin analizar el contexto"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 26,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: algunos estudiantes no se sienten incluidos en las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Evitar la participación de la comunidad escolar",
+      "B": "Relacionar saberes de distintas áreas alrededor de una problemática común",
+      "C": "Calificar únicamente el producto final",
+      "D": "Centrarse solo en la memorización de contenidos"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 27,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: se presentan conflictos de convivencia durante el trabajo en equipo.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Continuar con la planeación original sin hacer ajustes",
+      "B": "Ignorar la problemática para no interrumpir la clase",
+      "C": "Integrar contenidos de varias asignaturas en un proyecto articulado",
+      "D": "Centrarse solo en la memorización de contenidos"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 28,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: los estudiantes realizan tareas, pero no reflexionan sobre lo aprendido.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Abordar el tema desde diferentes perspectivas disciplinares",
+      "B": "Ignorar la problemática para no interrumpir la clase",
+      "C": "Resolver la situación de manera aislada",
+      "D": "Calificar únicamente el producto final"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 29,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: la escuela busca fortalecer el vínculo con la comunidad.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Repetir la explicación sin modificar la estrategia",
+      "B": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "C": "Evitar la participación de la comunidad escolar",
+      "D": "Conectar aprendizajes para favorecer una comprensión integral"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 30,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: el docente necesita ajustar su intervención con base en evidencias.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "B": "Aplicar una medida general sin analizar el contexto",
+      "C": "Delegar completamente la responsabilidad a otra instancia",
+      "D": "Coordinar actividades entre asignaturas con un propósito común"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 31,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: un grupo muestra bajo interés durante las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Relacionar saberes de distintas áreas alrededor de una problemática común",
+      "B": "Aplicar una medida general sin analizar el contexto",
+      "C": "Continuar con la planeación original sin hacer ajustes",
+      "D": "Ignorar la problemática para no interrumpir la clase"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 32,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: varios estudiantes tienen dificultades para participar.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Continuar con la planeación original sin hacer ajustes",
+      "B": "Repetir la explicación sin modificar la estrategia",
+      "C": "Integrar contenidos de varias asignaturas en un proyecto articulado",
+      "D": "Calificar únicamente el producto final"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 33,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: existen diferencias importantes en los niveles de aprendizaje.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Abordar el tema desde diferentes perspectivas disciplinares",
+      "B": "Centrarse solo en la memorización de contenidos",
+      "C": "Ignorar la problemática para no interrumpir la clase",
+      "D": "Repetir la explicación sin modificar la estrategia"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 34,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: el docente observa poca relación entre el contenido y el contexto.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Ignorar la problemática para no interrumpir la clase",
+      "B": "Continuar con la planeación original sin hacer ajustes",
+      "C": "Conectar aprendizajes para favorecer una comprensión integral",
+      "D": "Evitar la participación de la comunidad escolar"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 35,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: el colectivo escolar detecta una problemática común.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Coordinar actividades entre asignaturas con un propósito común",
+      "B": "Resolver la situación de manera aislada",
+      "C": "Centrarse solo en la memorización de contenidos",
+      "D": "Aplicar una medida general sin analizar el contexto"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 36,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: algunos estudiantes no se sienten incluidos en las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Relacionar saberes de distintas áreas alrededor de una problemática común",
+      "B": "Ignorar la problemática para no interrumpir la clase",
+      "C": "Repetir la explicación sin modificar la estrategia",
+      "D": "Delegar completamente la responsabilidad a otra instancia"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 37,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: se presentan conflictos de convivencia durante el trabajo en equipo.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Integrar contenidos de varias asignaturas en un proyecto articulado",
+      "B": "Resolver la situación de manera aislada",
+      "C": "Ignorar la problemática para no interrumpir la clase",
+      "D": "Centrarse solo en la memorización de contenidos"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 38,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: los estudiantes realizan tareas, pero no reflexionan sobre lo aprendido.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Abordar el tema desde diferentes perspectivas disciplinares",
+      "B": "Repetir la explicación sin modificar la estrategia",
+      "C": "Continuar con la planeación original sin hacer ajustes",
+      "D": "Resolver la situación de manera aislada"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 39,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: la escuela busca fortalecer el vínculo con la comunidad.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Continuar con la planeación original sin hacer ajustes",
+      "B": "Repetir la explicación sin modificar la estrategia",
+      "C": "Conectar aprendizajes para favorecer una comprensión integral",
+      "D": "Trabajar únicamente con los estudiantes de mayor rendimiento"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 40,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: el docente necesita ajustar su intervención con base en evidencias.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Resolver la situación de manera aislada",
+      "B": "Evitar la participación de la comunidad escolar",
+      "C": "Continuar con la planeación original sin hacer ajustes",
+      "D": "Coordinar actividades entre asignaturas con un propósito común"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 41,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: un grupo muestra bajo interés durante las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Continuar con la planeación original sin hacer ajustes",
+      "B": "Relacionar saberes de distintas áreas alrededor de una problemática común",
+      "C": "Repetir la explicación sin modificar la estrategia",
+      "D": "Trabajar únicamente con los estudiantes de mayor rendimiento"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 42,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: varios estudiantes tienen dificultades para participar.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Integrar contenidos de varias asignaturas en un proyecto articulado",
+      "B": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "C": "Calificar únicamente el producto final",
+      "D": "Continuar con la planeación original sin hacer ajustes"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 43,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: existen diferencias importantes en los niveles de aprendizaje.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "B": "Abordar el tema desde diferentes perspectivas disciplinares",
+      "C": "Centrarse solo en la memorización de contenidos",
+      "D": "Repetir la explicación sin modificar la estrategia"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 44,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: el docente observa poca relación entre el contenido y el contexto.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Ignorar la problemática para no interrumpir la clase",
+      "B": "Centrarse solo en la memorización de contenidos",
+      "C": "Continuar con la planeación original sin hacer ajustes",
+      "D": "Conectar aprendizajes para favorecer una comprensión integral"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 45,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: el colectivo escolar detecta una problemática común.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "B": "Coordinar actividades entre asignaturas con un propósito común",
+      "C": "Centrarse solo en la memorización de contenidos",
+      "D": "Delegar completamente la responsabilidad a otra instancia"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 46,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: algunos estudiantes no se sienten incluidos en las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Calificar únicamente el producto final",
+      "B": "Relacionar saberes de distintas áreas alrededor de una problemática común",
+      "C": "Centrarse solo en la memorización de contenidos",
+      "D": "Repetir la explicación sin modificar la estrategia"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 47,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: se presentan conflictos de convivencia durante el trabajo en equipo.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Delegar completamente la responsabilidad a otra instancia",
+      "B": "Evitar la participación de la comunidad escolar",
+      "C": "Integrar contenidos de varias asignaturas en un proyecto articulado",
+      "D": "Repetir la explicación sin modificar la estrategia"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 48,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: los estudiantes realizan tareas, pero no reflexionan sobre lo aprendido.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Abordar el tema desde diferentes perspectivas disciplinares",
+      "B": "Evitar la participación de la comunidad escolar",
+      "C": "Resolver la situación de manera aislada",
+      "D": "Aplicar una medida general sin analizar el contexto"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 49,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: la escuela busca fortalecer el vínculo con la comunidad.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Ignorar la problemática para no interrumpir la clase",
+      "B": "Evitar la participación de la comunidad escolar",
+      "C": "Aplicar una medida general sin analizar el contexto",
+      "D": "Conectar aprendizajes para favorecer una comprensión integral"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 50,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: el docente necesita ajustar su intervención con base en evidencias.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Continuar con la planeación original sin hacer ajustes",
+      "B": "Calificar únicamente el producto final",
+      "C": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "D": "Coordinar actividades entre asignaturas con un propósito común"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 51,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: un grupo muestra bajo interés durante las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Relacionar saberes de distintas áreas alrededor de una problemática común",
+      "B": "Aplicar una medida general sin analizar el contexto",
+      "C": "Evitar la participación de la comunidad escolar",
+      "D": "Centrarse solo en la memorización de contenidos"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 52,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: varios estudiantes tienen dificultades para participar.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Centrarse solo en la memorización de contenidos",
+      "B": "Delegar completamente la responsabilidad a otra instancia",
+      "C": "Integrar contenidos de varias asignaturas en un proyecto articulado",
+      "D": "Continuar con la planeación original sin hacer ajustes"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 53,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: existen diferencias importantes en los niveles de aprendizaje.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Evitar la participación de la comunidad escolar",
+      "B": "Resolver la situación de manera aislada",
+      "C": "Abordar el tema desde diferentes perspectivas disciplinares",
+      "D": "Repetir la explicación sin modificar la estrategia"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 54,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: el docente observa poca relación entre el contenido y el contexto.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Continuar con la planeación original sin hacer ajustes",
+      "B": "Conectar aprendizajes para favorecer una comprensión integral",
+      "C": "Aplicar una medida general sin analizar el contexto",
+      "D": "Evitar la participación de la comunidad escolar"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 55,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: el colectivo escolar detecta una problemática común.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Repetir la explicación sin modificar la estrategia",
+      "B": "Centrarse solo en la memorización de contenidos",
+      "C": "Coordinar actividades entre asignaturas con un propósito común",
+      "D": "Continuar con la planeación original sin hacer ajustes"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 56,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: algunos estudiantes no se sienten incluidos en las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Calificar únicamente el producto final",
+      "B": "Aplicar una medida general sin analizar el contexto",
+      "C": "Relacionar saberes de distintas áreas alrededor de una problemática común",
+      "D": "Delegar completamente la responsabilidad a otra instancia"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 57,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: se presentan conflictos de convivencia durante el trabajo en equipo.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Calificar únicamente el producto final",
+      "B": "Continuar con la planeación original sin hacer ajustes",
+      "C": "Integrar contenidos de varias asignaturas en un proyecto articulado",
+      "D": "Aplicar una medida general sin analizar el contexto"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 58,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: los estudiantes realizan tareas, pero no reflexionan sobre lo aprendido.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Calificar únicamente el producto final",
+      "B": "Repetir la explicación sin modificar la estrategia",
+      "C": "Abordar el tema desde diferentes perspectivas disciplinares",
+      "D": "Ignorar la problemática para no interrumpir la clase"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 59,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: la escuela busca fortalecer el vínculo con la comunidad.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Conectar aprendizajes para favorecer una comprensión integral",
+      "B": "Evitar la participación de la comunidad escolar",
+      "C": "Resolver la situación de manera aislada",
+      "D": "Trabajar únicamente con los estudiantes de mayor rendimiento"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 60,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: el docente necesita ajustar su intervención con base en evidencias.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Resolver la situación de manera aislada",
+      "B": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "C": "Continuar con la planeación original sin hacer ajustes",
+      "D": "Coordinar actividades entre asignaturas con un propósito común"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 61,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: un grupo muestra bajo interés durante las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Repetir la explicación sin modificar la estrategia",
+      "B": "Aplicar una medida general sin analizar el contexto",
+      "C": "Ignorar la problemática para no interrumpir la clase",
+      "D": "Relacionar saberes de distintas áreas alrededor de una problemática común"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 62,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: varios estudiantes tienen dificultades para participar.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Ignorar la problemática para no interrumpir la clase",
+      "B": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "C": "Continuar con la planeación original sin hacer ajustes",
+      "D": "Integrar contenidos de varias asignaturas en un proyecto articulado"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 63,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: existen diferencias importantes en los niveles de aprendizaje.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Delegar completamente la responsabilidad a otra instancia",
+      "B": "Abordar el tema desde diferentes perspectivas disciplinares",
+      "C": "Evitar la participación de la comunidad escolar",
+      "D": "Continuar con la planeación original sin hacer ajustes"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 64,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: el docente observa poca relación entre el contenido y el contexto.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Calificar únicamente el producto final",
+      "B": "Conectar aprendizajes para favorecer una comprensión integral",
+      "C": "Continuar con la planeación original sin hacer ajustes",
+      "D": "Resolver la situación de manera aislada"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 65,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: el colectivo escolar detecta una problemática común.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Coordinar actividades entre asignaturas con un propósito común",
+      "B": "Delegar completamente la responsabilidad a otra instancia",
+      "C": "Repetir la explicación sin modificar la estrategia",
+      "D": "Resolver la situación de manera aislada"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 66,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: algunos estudiantes no se sienten incluidos en las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Relacionar saberes de distintas áreas alrededor de una problemática común",
+      "B": "Evitar la participación de la comunidad escolar",
+      "C": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "D": "Delegar completamente la responsabilidad a otra instancia"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 67,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: se presentan conflictos de convivencia durante el trabajo en equipo.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Aplicar una medida general sin analizar el contexto",
+      "B": "Integrar contenidos de varias asignaturas en un proyecto articulado",
+      "C": "Delegar completamente la responsabilidad a otra instancia",
+      "D": "Evitar la participación de la comunidad escolar"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 68,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: los estudiantes realizan tareas, pero no reflexionan sobre lo aprendido.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Calificar únicamente el producto final",
+      "B": "Resolver la situación de manera aislada",
+      "C": "Ignorar la problemática para no interrumpir la clase",
+      "D": "Abordar el tema desde diferentes perspectivas disciplinares"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 69,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: la escuela busca fortalecer el vínculo con la comunidad.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Repetir la explicación sin modificar la estrategia",
+      "B": "Resolver la situación de manera aislada",
+      "C": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "D": "Conectar aprendizajes para favorecer una comprensión integral"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 70,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: el docente necesita ajustar su intervención con base en evidencias.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Repetir la explicación sin modificar la estrategia",
+      "B": "Ignorar la problemática para no interrumpir la clase",
+      "C": "Continuar con la planeación original sin hacer ajustes",
+      "D": "Coordinar actividades entre asignaturas con un propósito común"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 71,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: un grupo muestra bajo interés durante las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Relacionar saberes de distintas áreas alrededor de una problemática común",
+      "B": "Delegar completamente la responsabilidad a otra instancia",
+      "C": "Resolver la situación de manera aislada",
+      "D": "Centrarse solo en la memorización de contenidos"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 72,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: varios estudiantes tienen dificultades para participar.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Centrarse solo en la memorización de contenidos",
+      "B": "Aplicar una medida general sin analizar el contexto",
+      "C": "Integrar contenidos de varias asignaturas en un proyecto articulado",
+      "D": "Delegar completamente la responsabilidad a otra instancia"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 73,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: existen diferencias importantes en los niveles de aprendizaje.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Abordar el tema desde diferentes perspectivas disciplinares",
+      "B": "Calificar únicamente el producto final",
+      "C": "Resolver la situación de manera aislada",
+      "D": "Evitar la participación de la comunidad escolar"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 74,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: el docente observa poca relación entre el contenido y el contexto.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Conectar aprendizajes para favorecer una comprensión integral",
+      "B": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "C": "Continuar con la planeación original sin hacer ajustes",
+      "D": "Resolver la situación de manera aislada"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 75,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: el colectivo escolar detecta una problemática común.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Centrarse solo en la memorización de contenidos",
+      "B": "Ignorar la problemática para no interrumpir la clase",
+      "C": "Coordinar actividades entre asignaturas con un propósito común",
+      "D": "Repetir la explicación sin modificar la estrategia"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 76,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: algunos estudiantes no se sienten incluidos en las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Relacionar saberes de distintas áreas alrededor de una problemática común",
+      "B": "Ignorar la problemática para no interrumpir la clase",
+      "C": "Continuar con la planeación original sin hacer ajustes",
+      "D": "Evitar la participación de la comunidad escolar"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 77,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: se presentan conflictos de convivencia durante el trabajo en equipo.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Integrar contenidos de varias asignaturas en un proyecto articulado",
+      "B": "Centrarse solo en la memorización de contenidos",
+      "C": "Delegar completamente la responsabilidad a otra instancia",
+      "D": "Trabajar únicamente con los estudiantes de mayor rendimiento"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 78,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: los estudiantes realizan tareas, pero no reflexionan sobre lo aprendido.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Abordar el tema desde diferentes perspectivas disciplinares",
+      "B": "Repetir la explicación sin modificar la estrategia",
+      "C": "Ignorar la problemática para no interrumpir la clase",
+      "D": "Trabajar únicamente con los estudiantes de mayor rendimiento"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 79,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: la escuela busca fortalecer el vínculo con la comunidad.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Conectar aprendizajes para favorecer una comprensión integral",
+      "B": "Repetir la explicación sin modificar la estrategia",
+      "C": "Ignorar la problemática para no interrumpir la clase",
+      "D": "Continuar con la planeación original sin hacer ajustes"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 80,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: el docente necesita ajustar su intervención con base en evidencias.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "B": "Ignorar la problemática para no interrumpir la clase",
+      "C": "Coordinar actividades entre asignaturas con un propósito común",
+      "D": "Resolver la situación de manera aislada"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 81,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: un grupo muestra bajo interés durante las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "B": "Relacionar saberes de distintas áreas alrededor de una problemática común",
+      "C": "Calificar únicamente el producto final",
+      "D": "Delegar completamente la responsabilidad a otra instancia"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 82,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: varios estudiantes tienen dificultades para participar.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Aplicar una medida general sin analizar el contexto",
+      "B": "Ignorar la problemática para no interrumpir la clase",
+      "C": "Delegar completamente la responsabilidad a otra instancia",
+      "D": "Integrar contenidos de varias asignaturas en un proyecto articulado"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 83,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: existen diferencias importantes en los niveles de aprendizaje.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Abordar el tema desde diferentes perspectivas disciplinares",
+      "B": "Resolver la situación de manera aislada",
+      "C": "Aplicar una medida general sin analizar el contexto",
+      "D": "Centrarse solo en la memorización de contenidos"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 84,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: el docente observa poca relación entre el contenido y el contexto.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Evitar la participación de la comunidad escolar",
+      "B": "Conectar aprendizajes para favorecer una comprensión integral",
+      "C": "Resolver la situación de manera aislada",
+      "D": "Continuar con la planeación original sin hacer ajustes"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 85,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: el colectivo escolar detecta una problemática común.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Evitar la participación de la comunidad escolar",
+      "B": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "C": "Resolver la situación de manera aislada",
+      "D": "Coordinar actividades entre asignaturas con un propósito común"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 86,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: algunos estudiantes no se sienten incluidos en las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Ignorar la problemática para no interrumpir la clase",
+      "B": "Repetir la explicación sin modificar la estrategia",
+      "C": "Relacionar saberes de distintas áreas alrededor de una problemática común",
+      "D": "Resolver la situación de manera aislada"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 87,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: se presentan conflictos de convivencia durante el trabajo en equipo.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Integrar contenidos de varias asignaturas en un proyecto articulado",
+      "B": "Calificar únicamente el producto final",
+      "C": "Delegar completamente la responsabilidad a otra instancia",
+      "D": "Ignorar la problemática para no interrumpir la clase"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 88,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: los estudiantes realizan tareas, pero no reflexionan sobre lo aprendido.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Resolver la situación de manera aislada",
+      "B": "Abordar el tema desde diferentes perspectivas disciplinares",
+      "C": "Centrarse solo en la memorización de contenidos",
+      "D": "Trabajar únicamente con los estudiantes de mayor rendimiento"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 89,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: la escuela busca fortalecer el vínculo con la comunidad.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Conectar aprendizajes para favorecer una comprensión integral",
+      "B": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "C": "Ignorar la problemática para no interrumpir la clase",
+      "D": "Repetir la explicación sin modificar la estrategia"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 90,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: el docente necesita ajustar su intervención con base en evidencias.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Delegar completamente la responsabilidad a otra instancia",
+      "B": "Centrarse solo en la memorización de contenidos",
+      "C": "Repetir la explicación sin modificar la estrategia",
+      "D": "Coordinar actividades entre asignaturas con un propósito común"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 91,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: un grupo muestra bajo interés durante las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Relacionar saberes de distintas áreas alrededor de una problemática común",
+      "B": "Repetir la explicación sin modificar la estrategia",
+      "C": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "D": "Delegar completamente la responsabilidad a otra instancia"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 92,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: varios estudiantes tienen dificultades para participar.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Integrar contenidos de varias asignaturas en un proyecto articulado",
+      "B": "Evitar la participación de la comunidad escolar",
+      "C": "Aplicar una medida general sin analizar el contexto",
+      "D": "Centrarse solo en la memorización de contenidos"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 93,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: existen diferencias importantes en los niveles de aprendizaje.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Abordar el tema desde diferentes perspectivas disciplinares",
+      "B": "Delegar completamente la responsabilidad a otra instancia",
+      "C": "Aplicar una medida general sin analizar el contexto",
+      "D": "Resolver la situación de manera aislada"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 94,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: el docente observa poca relación entre el contenido y el contexto.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Evitar la participación de la comunidad escolar",
+      "B": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "C": "Conectar aprendizajes para favorecer una comprensión integral",
+      "D": "Centrarse solo en la memorización de contenidos"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 95,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: el colectivo escolar detecta una problemática común.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Resolver la situación de manera aislada",
+      "B": "Aplicar una medida general sin analizar el contexto",
+      "C": "Centrarse solo en la memorización de contenidos",
+      "D": "Coordinar actividades entre asignaturas con un propósito común"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 96,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: algunos estudiantes no se sienten incluidos en las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Relacionar saberes de distintas áreas alrededor de una problemática común",
+      "B": "Ignorar la problemática para no interrumpir la clase",
+      "C": "Resolver la situación de manera aislada",
+      "D": "Trabajar únicamente con los estudiantes de mayor rendimiento"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 97,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: se presentan conflictos de convivencia durante el trabajo en equipo.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Aplicar una medida general sin analizar el contexto",
+      "B": "Calificar únicamente el producto final",
+      "C": "Continuar con la planeación original sin hacer ajustes",
+      "D": "Integrar contenidos de varias asignaturas en un proyecto articulado"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 98,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: los estudiantes realizan tareas, pero no reflexionan sobre lo aprendido.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Evitar la participación de la comunidad escolar",
+      "B": "Abordar el tema desde diferentes perspectivas disciplinares",
+      "C": "Repetir la explicación sin modificar la estrategia",
+      "D": "Trabajar únicamente con los estudiantes de mayor rendimiento"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 99,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: la escuela busca fortalecer el vínculo con la comunidad.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Centrarse solo en la memorización de contenidos",
+      "B": "Conectar aprendizajes para favorecer una comprensión integral",
+      "C": "Ignorar la problemática para no interrumpir la clase",
+      "D": "Delegar completamente la responsabilidad a otra instancia"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 100,
+    "tema": "Transversalidad",
+    "pregunta": "En el tema de Transversalidad, se presenta la siguiente situación: el docente necesita ajustar su intervención con base en evidencias.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Aplicar una medida general sin analizar el contexto",
+      "B": "Coordinar actividades entre asignaturas con un propósito común",
+      "C": "Calificar únicamente el producto final",
+      "D": "Resolver la situación de manera aislada"
+    },
+    "respuesta": "B"
+  }
+]

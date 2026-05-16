@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: un grupo muestra bajo interés durante las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Analizar evidencias con otros docentes para construir acuerdos",
+      "B": "Repetir la explicación sin modificar la estrategia",
+      "C": "Delegar completamente la responsabilidad a otra instancia",
+      "D": "Aplicar una medida general sin analizar el contexto"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 2,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: varios estudiantes tienen dificultades para participar.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Resolver la situación de manera aislada",
+      "B": "Repetir la explicación sin modificar la estrategia",
+      "C": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "D": "Compartir experiencias y diseñar estrategias conjuntas"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 3,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: existen diferencias importantes en los niveles de aprendizaje.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Resolver la situación de manera aislada",
+      "B": "Tomar decisiones colectivas orientadas a la mejora",
+      "C": "Delegar completamente la responsabilidad a otra instancia",
+      "D": "Ignorar la problemática para no interrumpir la clase"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 4,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: el docente observa poca relación entre el contenido y el contexto.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "B": "Resolver la situación de manera aislada",
+      "C": "Calificar únicamente el producto final",
+      "D": "Establecer acuerdos docentes basados en problemáticas comunes"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 5,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: el colectivo escolar detecta una problemática común.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Ignorar la problemática para no interrumpir la clase",
+      "B": "Evitar la participación de la comunidad escolar",
+      "C": "Dar seguimiento colegiado a las acciones implementadas",
+      "D": "Resolver la situación de manera aislada"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 6,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: algunos estudiantes no se sienten incluidos en las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Delegar completamente la responsabilidad a otra instancia",
+      "B": "Analizar evidencias con otros docentes para construir acuerdos",
+      "C": "Resolver la situación de manera aislada",
+      "D": "Centrarse solo en la memorización de contenidos"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 7,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: se presentan conflictos de convivencia durante el trabajo en equipo.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Compartir experiencias y diseñar estrategias conjuntas",
+      "B": "Delegar completamente la responsabilidad a otra instancia",
+      "C": "Resolver la situación de manera aislada",
+      "D": "Centrarse solo en la memorización de contenidos"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 8,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: los estudiantes realizan tareas, pero no reflexionan sobre lo aprendido.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Tomar decisiones colectivas orientadas a la mejora",
+      "B": "Repetir la explicación sin modificar la estrategia",
+      "C": "Delegar completamente la responsabilidad a otra instancia",
+      "D": "Ignorar la problemática para no interrumpir la clase"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 9,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: la escuela busca fortalecer el vínculo con la comunidad.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Continuar con la planeación original sin hacer ajustes",
+      "B": "Establecer acuerdos docentes basados en problemáticas comunes",
+      "C": "Delegar completamente la responsabilidad a otra instancia",
+      "D": "Evitar la participación de la comunidad escolar"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 10,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: el docente necesita ajustar su intervención con base en evidencias.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Resolver la situación de manera aislada",
+      "B": "Dar seguimiento colegiado a las acciones implementadas",
+      "C": "Centrarse solo en la memorización de contenidos",
+      "D": "Aplicar una medida general sin analizar el contexto"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 11,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: un grupo muestra bajo interés durante las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Ignorar la problemática para no interrumpir la clase",
+      "B": "Evitar la participación de la comunidad escolar",
+      "C": "Analizar evidencias con otros docentes para construir acuerdos",
+      "D": "Trabajar únicamente con los estudiantes de mayor rendimiento"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 12,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: varios estudiantes tienen dificultades para participar.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Delegar completamente la responsabilidad a otra instancia",
+      "B": "Compartir experiencias y diseñar estrategias conjuntas",
+      "C": "Resolver la situación de manera aislada",
+      "D": "Calificar únicamente el producto final"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 13,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: existen diferencias importantes en los niveles de aprendizaje.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Resolver la situación de manera aislada",
+      "B": "Tomar decisiones colectivas orientadas a la mejora",
+      "C": "Ignorar la problemática para no interrumpir la clase",
+      "D": "Continuar con la planeación original sin hacer ajustes"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 14,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: el docente observa poca relación entre el contenido y el contexto.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Establecer acuerdos docentes basados en problemáticas comunes",
+      "B": "Evitar la participación de la comunidad escolar",
+      "C": "Centrarse solo en la memorización de contenidos",
+      "D": "Delegar completamente la responsabilidad a otra instancia"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 15,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: el colectivo escolar detecta una problemática común.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Continuar con la planeación original sin hacer ajustes",
+      "B": "Centrarse solo en la memorización de contenidos",
+      "C": "Dar seguimiento colegiado a las acciones implementadas",
+      "D": "Calificar únicamente el producto final"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 16,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: algunos estudiantes no se sienten incluidos en las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Analizar evidencias con otros docentes para construir acuerdos",
+      "B": "Delegar completamente la responsabilidad a otra instancia",
+      "C": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "D": "Ignorar la problemática para no interrumpir la clase"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 17,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: se presentan conflictos de convivencia durante el trabajo en equipo.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Aplicar una medida general sin analizar el contexto",
+      "B": "Repetir la explicación sin modificar la estrategia",
+      "C": "Evitar la participación de la comunidad escolar",
+      "D": "Compartir experiencias y diseñar estrategias conjuntas"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 18,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: los estudiantes realizan tareas, pero no reflexionan sobre lo aprendido.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "B": "Evitar la participación de la comunidad escolar",
+      "C": "Continuar con la planeación original sin hacer ajustes",
+      "D": "Tomar decisiones colectivas orientadas a la mejora"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 19,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: la escuela busca fortalecer el vínculo con la comunidad.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Calificar únicamente el producto final",
+      "B": "Ignorar la problemática para no interrumpir la clase",
+      "C": "Establecer acuerdos docentes basados en problemáticas comunes",
+      "D": "Delegar completamente la responsabilidad a otra instancia"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 20,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: el docente necesita ajustar su intervención con base en evidencias.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Dar seguimiento colegiado a las acciones implementadas",
+      "B": "Resolver la situación de manera aislada",
+      "C": "Continuar con la planeación original sin hacer ajustes",
+      "D": "Calificar únicamente el producto final"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 21,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: un grupo muestra bajo interés durante las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Analizar evidencias con otros docentes para construir acuerdos",
+      "B": "Ignorar la problemática para no interrumpir la clase",
+      "C": "Aplicar una medida general sin analizar el contexto",
+      "D": "Resolver la situación de manera aislada"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 22,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: varios estudiantes tienen dificultades para participar.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Repetir la explicación sin modificar la estrategia",
+      "B": "Aplicar una medida general sin analizar el contexto",
+      "C": "Compartir experiencias y diseñar estrategias conjuntas",
+      "D": "Centrarse solo en la memorización de contenidos"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 23,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: existen diferencias importantes en los niveles de aprendizaje.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Calificar únicamente el producto final",
+      "B": "Tomar decisiones colectivas orientadas a la mejora",
+      "C": "Evitar la participación de la comunidad escolar",
+      "D": "Repetir la explicación sin modificar la estrategia"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 24,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: el docente observa poca relación entre el contenido y el contexto.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Establecer acuerdos docentes basados en problemáticas comunes",
+      "B": "Delegar completamente la responsabilidad a otra instancia",
+      "C": "Repetir la explicación sin modificar la estrategia",
+      "D": "Resolver la situación de manera aislada"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 25,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: el colectivo escolar detecta una problemática común.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Ignorar la problemática para no interrumpir la clase",
+      "B": "Aplicar una medida general sin analizar el contexto",
+      "C": "Dar seguimiento colegiado a las acciones implementadas",
+      "D": "Repetir la explicación sin modificar la estrategia"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 26,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: algunos estudiantes no se sienten incluidos en las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Continuar con la planeación original sin hacer ajustes",
+      "B": "Centrarse solo en la memorización de contenidos",
+      "C": "Analizar evidencias con otros docentes para construir acuerdos",
+      "D": "Evitar la participación de la comunidad escolar"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 27,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: se presentan conflictos de convivencia durante el trabajo en equipo.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Resolver la situación de manera aislada",
+      "B": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "C": "Aplicar una medida general sin analizar el contexto",
+      "D": "Compartir experiencias y diseñar estrategias conjuntas"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 28,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: los estudiantes realizan tareas, pero no reflexionan sobre lo aprendido.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Aplicar una medida general sin analizar el contexto",
+      "B": "Centrarse solo en la memorización de contenidos",
+      "C": "Delegar completamente la responsabilidad a otra instancia",
+      "D": "Tomar decisiones colectivas orientadas a la mejora"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 29,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: la escuela busca fortalecer el vínculo con la comunidad.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Delegar completamente la responsabilidad a otra instancia",
+      "B": "Establecer acuerdos docentes basados en problemáticas comunes",
+      "C": "Ignorar la problemática para no interrumpir la clase",
+      "D": "Evitar la participación de la comunidad escolar"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 30,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: el docente necesita ajustar su intervención con base en evidencias.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "B": "Dar seguimiento colegiado a las acciones implementadas",
+      "C": "Delegar completamente la responsabilidad a otra instancia",
+      "D": "Ignorar la problemática para no interrumpir la clase"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 31,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: un grupo muestra bajo interés durante las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Analizar evidencias con otros docentes para construir acuerdos",
+      "B": "Ignorar la problemática para no interrumpir la clase",
+      "C": "Delegar completamente la responsabilidad a otra instancia",
+      "D": "Centrarse solo en la memorización de contenidos"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 32,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: varios estudiantes tienen dificultades para participar.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Ignorar la problemática para no interrumpir la clase",
+      "B": "Repetir la explicación sin modificar la estrategia",
+      "C": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "D": "Compartir experiencias y diseñar estrategias conjuntas"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 33,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: existen diferencias importantes en los niveles de aprendizaje.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Resolver la situación de manera aislada",
+      "B": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "C": "Delegar completamente la responsabilidad a otra instancia",
+      "D": "Tomar decisiones colectivas orientadas a la mejora"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 34,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: el docente observa poca relación entre el contenido y el contexto.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "B": "Establecer acuerdos docentes basados en problemáticas comunes",
+      "C": "Delegar completamente la responsabilidad a otra instancia",
+      "D": "Evitar la participación de la comunidad escolar"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 35,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: el colectivo escolar detecta una problemática común.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Resolver la situación de manera aislada",
+      "B": "Ignorar la problemática para no interrumpir la clase",
+      "C": "Dar seguimiento colegiado a las acciones implementadas",
+      "D": "Continuar con la planeación original sin hacer ajustes"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 36,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: algunos estudiantes no se sienten incluidos en las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Analizar evidencias con otros docentes para construir acuerdos",
+      "B": "Centrarse solo en la memorización de contenidos",
+      "C": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "D": "Ignorar la problemática para no interrumpir la clase"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 37,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: se presentan conflictos de convivencia durante el trabajo en equipo.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Calificar únicamente el producto final",
+      "B": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "C": "Compartir experiencias y diseñar estrategias conjuntas",
+      "D": "Delegar completamente la responsabilidad a otra instancia"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 38,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: los estudiantes realizan tareas, pero no reflexionan sobre lo aprendido.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Centrarse solo en la memorización de contenidos",
+      "B": "Tomar decisiones colectivas orientadas a la mejora",
+      "C": "Aplicar una medida general sin analizar el contexto",
+      "D": "Continuar con la planeación original sin hacer ajustes"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 39,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: la escuela busca fortalecer el vínculo con la comunidad.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Centrarse solo en la memorización de contenidos",
+      "B": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "C": "Establecer acuerdos docentes basados en problemáticas comunes",
+      "D": "Repetir la explicación sin modificar la estrategia"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 40,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: el docente necesita ajustar su intervención con base en evidencias.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Centrarse solo en la memorización de contenidos",
+      "B": "Aplicar una medida general sin analizar el contexto",
+      "C": "Repetir la explicación sin modificar la estrategia",
+      "D": "Dar seguimiento colegiado a las acciones implementadas"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 41,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: un grupo muestra bajo interés durante las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Repetir la explicación sin modificar la estrategia",
+      "B": "Evitar la participación de la comunidad escolar",
+      "C": "Analizar evidencias con otros docentes para construir acuerdos",
+      "D": "Continuar con la planeación original sin hacer ajustes"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 42,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: varios estudiantes tienen dificultades para participar.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Compartir experiencias y diseñar estrategias conjuntas",
+      "B": "Evitar la participación de la comunidad escolar",
+      "C": "Resolver la situación de manera aislada",
+      "D": "Repetir la explicación sin modificar la estrategia"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 43,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: existen diferencias importantes en los niveles de aprendizaje.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Evitar la participación de la comunidad escolar",
+      "B": "Centrarse solo en la memorización de contenidos",
+      "C": "Tomar decisiones colectivas orientadas a la mejora",
+      "D": "Delegar completamente la responsabilidad a otra instancia"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 44,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: el docente observa poca relación entre el contenido y el contexto.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Ignorar la problemática para no interrumpir la clase",
+      "B": "Repetir la explicación sin modificar la estrategia",
+      "C": "Establecer acuerdos docentes basados en problemáticas comunes",
+      "D": "Continuar con la planeación original sin hacer ajustes"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 45,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: el colectivo escolar detecta una problemática común.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Evitar la participación de la comunidad escolar",
+      "B": "Calificar únicamente el producto final",
+      "C": "Continuar con la planeación original sin hacer ajustes",
+      "D": "Dar seguimiento colegiado a las acciones implementadas"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 46,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: algunos estudiantes no se sienten incluidos en las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Analizar evidencias con otros docentes para construir acuerdos",
+      "B": "Calificar únicamente el producto final",
+      "C": "Resolver la situación de manera aislada",
+      "D": "Continuar con la planeación original sin hacer ajustes"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 47,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: se presentan conflictos de convivencia durante el trabajo en equipo.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Compartir experiencias y diseñar estrategias conjuntas",
+      "B": "Centrarse solo en la memorización de contenidos",
+      "C": "Repetir la explicación sin modificar la estrategia",
+      "D": "Ignorar la problemática para no interrumpir la clase"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 48,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: los estudiantes realizan tareas, pero no reflexionan sobre lo aprendido.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Continuar con la planeación original sin hacer ajustes",
+      "B": "Aplicar una medida general sin analizar el contexto",
+      "C": "Tomar decisiones colectivas orientadas a la mejora",
+      "D": "Resolver la situación de manera aislada"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 49,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: la escuela busca fortalecer el vínculo con la comunidad.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Establecer acuerdos docentes basados en problemáticas comunes",
+      "B": "Evitar la participación de la comunidad escolar",
+      "C": "Centrarse solo en la memorización de contenidos",
+      "D": "Continuar con la planeación original sin hacer ajustes"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 50,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: el docente necesita ajustar su intervención con base en evidencias.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Ignorar la problemática para no interrumpir la clase",
+      "B": "Dar seguimiento colegiado a las acciones implementadas",
+      "C": "Repetir la explicación sin modificar la estrategia",
+      "D": "Aplicar una medida general sin analizar el contexto"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 51,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: un grupo muestra bajo interés durante las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Centrarse solo en la memorización de contenidos",
+      "B": "Continuar con la planeación original sin hacer ajustes",
+      "C": "Analizar evidencias con otros docentes para construir acuerdos",
+      "D": "Delegar completamente la responsabilidad a otra instancia"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 52,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: varios estudiantes tienen dificultades para participar.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Delegar completamente la responsabilidad a otra instancia",
+      "B": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "C": "Compartir experiencias y diseñar estrategias conjuntas",
+      "D": "Evitar la participación de la comunidad escolar"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 53,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: existen diferencias importantes en los niveles de aprendizaje.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Resolver la situación de manera aislada",
+      "B": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "C": "Tomar decisiones colectivas orientadas a la mejora",
+      "D": "Continuar con la planeación original sin hacer ajustes"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 54,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: el docente observa poca relación entre el contenido y el contexto.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Establecer acuerdos docentes basados en problemáticas comunes",
+      "B": "Aplicar una medida general sin analizar el contexto",
+      "C": "Evitar la participación de la comunidad escolar",
+      "D": "Centrarse solo en la memorización de contenidos"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 55,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: el colectivo escolar detecta una problemática común.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Continuar con la planeación original sin hacer ajustes",
+      "B": "Repetir la explicación sin modificar la estrategia",
+      "C": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "D": "Dar seguimiento colegiado a las acciones implementadas"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 56,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: algunos estudiantes no se sienten incluidos en las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Analizar evidencias con otros docentes para construir acuerdos",
+      "B": "Centrarse solo en la memorización de contenidos",
+      "C": "Aplicar una medida general sin analizar el contexto",
+      "D": "Ignorar la problemática para no interrumpir la clase"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 57,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: se presentan conflictos de convivencia durante el trabajo en equipo.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Compartir experiencias y diseñar estrategias conjuntas",
+      "B": "Ignorar la problemática para no interrumpir la clase",
+      "C": "Aplicar una medida general sin analizar el contexto",
+      "D": "Repetir la explicación sin modificar la estrategia"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 58,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: los estudiantes realizan tareas, pero no reflexionan sobre lo aprendido.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Resolver la situación de manera aislada",
+      "B": "Calificar únicamente el producto final",
+      "C": "Aplicar una medida general sin analizar el contexto",
+      "D": "Tomar decisiones colectivas orientadas a la mejora"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 59,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: la escuela busca fortalecer el vínculo con la comunidad.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Repetir la explicación sin modificar la estrategia",
+      "B": "Resolver la situación de manera aislada",
+      "C": "Establecer acuerdos docentes basados en problemáticas comunes",
+      "D": "Delegar completamente la responsabilidad a otra instancia"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 60,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: el docente necesita ajustar su intervención con base en evidencias.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Evitar la participación de la comunidad escolar",
+      "B": "Dar seguimiento colegiado a las acciones implementadas",
+      "C": "Delegar completamente la responsabilidad a otra instancia",
+      "D": "Repetir la explicación sin modificar la estrategia"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 61,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: un grupo muestra bajo interés durante las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Repetir la explicación sin modificar la estrategia",
+      "B": "Analizar evidencias con otros docentes para construir acuerdos",
+      "C": "Resolver la situación de manera aislada",
+      "D": "Calificar únicamente el producto final"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 62,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: varios estudiantes tienen dificultades para participar.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Continuar con la planeación original sin hacer ajustes",
+      "B": "Compartir experiencias y diseñar estrategias conjuntas",
+      "C": "Aplicar una medida general sin analizar el contexto",
+      "D": "Repetir la explicación sin modificar la estrategia"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 63,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: existen diferencias importantes en los niveles de aprendizaje.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Centrarse solo en la memorización de contenidos",
+      "B": "Aplicar una medida general sin analizar el contexto",
+      "C": "Calificar únicamente el producto final",
+      "D": "Tomar decisiones colectivas orientadas a la mejora"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 64,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: el docente observa poca relación entre el contenido y el contexto.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Establecer acuerdos docentes basados en problemáticas comunes",
+      "B": "Continuar con la planeación original sin hacer ajustes",
+      "C": "Centrarse solo en la memorización de contenidos",
+      "D": "Delegar completamente la responsabilidad a otra instancia"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 65,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: el colectivo escolar detecta una problemática común.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Calificar únicamente el producto final",
+      "B": "Dar seguimiento colegiado a las acciones implementadas",
+      "C": "Delegar completamente la responsabilidad a otra instancia",
+      "D": "Evitar la participación de la comunidad escolar"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 66,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: algunos estudiantes no se sienten incluidos en las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Calificar únicamente el producto final",
+      "B": "Analizar evidencias con otros docentes para construir acuerdos",
+      "C": "Continuar con la planeación original sin hacer ajustes",
+      "D": "Trabajar únicamente con los estudiantes de mayor rendimiento"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 67,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: se presentan conflictos de convivencia durante el trabajo en equipo.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Evitar la participación de la comunidad escolar",
+      "B": "Repetir la explicación sin modificar la estrategia",
+      "C": "Compartir experiencias y diseñar estrategias conjuntas",
+      "D": "Trabajar únicamente con los estudiantes de mayor rendimiento"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 68,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: los estudiantes realizan tareas, pero no reflexionan sobre lo aprendido.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Tomar decisiones colectivas orientadas a la mejora",
+      "B": "Repetir la explicación sin modificar la estrategia",
+      "C": "Delegar completamente la responsabilidad a otra instancia",
+      "D": "Continuar con la planeación original sin hacer ajustes"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 69,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: la escuela busca fortalecer el vínculo con la comunidad.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Evitar la participación de la comunidad escolar",
+      "B": "Calificar únicamente el producto final",
+      "C": "Establecer acuerdos docentes basados en problemáticas comunes",
+      "D": "Trabajar únicamente con los estudiantes de mayor rendimiento"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 70,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: el docente necesita ajustar su intervención con base en evidencias.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Delegar completamente la responsabilidad a otra instancia",
+      "B": "Aplicar una medida general sin analizar el contexto",
+      "C": "Resolver la situación de manera aislada",
+      "D": "Dar seguimiento colegiado a las acciones implementadas"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 71,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: un grupo muestra bajo interés durante las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Centrarse solo en la memorización de contenidos",
+      "B": "Analizar evidencias con otros docentes para construir acuerdos",
+      "C": "Continuar con la planeación original sin hacer ajustes",
+      "D": "Evitar la participación de la comunidad escolar"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 72,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: varios estudiantes tienen dificultades para participar.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Resolver la situación de manera aislada",
+      "B": "Aplicar una medida general sin analizar el contexto",
+      "C": "Compartir experiencias y diseñar estrategias conjuntas",
+      "D": "Ignorar la problemática para no interrumpir la clase"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 73,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: existen diferencias importantes en los niveles de aprendizaje.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Continuar con la planeación original sin hacer ajustes",
+      "B": "Ignorar la problemática para no interrumpir la clase",
+      "C": "Tomar decisiones colectivas orientadas a la mejora",
+      "D": "Calificar únicamente el producto final"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 74,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: el docente observa poca relación entre el contenido y el contexto.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Centrarse solo en la memorización de contenidos",
+      "B": "Establecer acuerdos docentes basados en problemáticas comunes",
+      "C": "Continuar con la planeación original sin hacer ajustes",
+      "D": "Calificar únicamente el producto final"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 75,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: el colectivo escolar detecta una problemática común.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Resolver la situación de manera aislada",
+      "B": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "C": "Continuar con la planeación original sin hacer ajustes",
+      "D": "Dar seguimiento colegiado a las acciones implementadas"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 76,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: algunos estudiantes no se sienten incluidos en las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Aplicar una medida general sin analizar el contexto",
+      "B": "Analizar evidencias con otros docentes para construir acuerdos",
+      "C": "Evitar la participación de la comunidad escolar",
+      "D": "Delegar completamente la responsabilidad a otra instancia"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 77,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: se presentan conflictos de convivencia durante el trabajo en equipo.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Aplicar una medida general sin analizar el contexto",
+      "B": "Compartir experiencias y diseñar estrategias conjuntas",
+      "C": "Evitar la participación de la comunidad escolar",
+      "D": "Ignorar la problemática para no interrumpir la clase"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 78,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: los estudiantes realizan tareas, pero no reflexionan sobre lo aprendido.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Aplicar una medida general sin analizar el contexto",
+      "B": "Repetir la explicación sin modificar la estrategia",
+      "C": "Delegar completamente la responsabilidad a otra instancia",
+      "D": "Tomar decisiones colectivas orientadas a la mejora"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 79,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: la escuela busca fortalecer el vínculo con la comunidad.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Establecer acuerdos docentes basados en problemáticas comunes",
+      "B": "Calificar únicamente el producto final",
+      "C": "Evitar la participación de la comunidad escolar",
+      "D": "Centrarse solo en la memorización de contenidos"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 80,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: el docente necesita ajustar su intervención con base en evidencias.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Ignorar la problemática para no interrumpir la clase",
+      "B": "Dar seguimiento colegiado a las acciones implementadas",
+      "C": "Calificar únicamente el producto final",
+      "D": "Delegar completamente la responsabilidad a otra instancia"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 81,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: un grupo muestra bajo interés durante las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Ignorar la problemática para no interrumpir la clase",
+      "B": "Resolver la situación de manera aislada",
+      "C": "Analizar evidencias con otros docentes para construir acuerdos",
+      "D": "Evitar la participación de la comunidad escolar"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 82,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: varios estudiantes tienen dificultades para participar.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Compartir experiencias y diseñar estrategias conjuntas",
+      "B": "Aplicar una medida general sin analizar el contexto",
+      "C": "Resolver la situación de manera aislada",
+      "D": "Centrarse solo en la memorización de contenidos"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 83,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: existen diferencias importantes en los niveles de aprendizaje.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Repetir la explicación sin modificar la estrategia",
+      "B": "Tomar decisiones colectivas orientadas a la mejora",
+      "C": "Resolver la situación de manera aislada",
+      "D": "Ignorar la problemática para no interrumpir la clase"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 84,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: el docente observa poca relación entre el contenido y el contexto.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Calificar únicamente el producto final",
+      "B": "Establecer acuerdos docentes basados en problemáticas comunes",
+      "C": "Aplicar una medida general sin analizar el contexto",
+      "D": "Delegar completamente la responsabilidad a otra instancia"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 85,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: el colectivo escolar detecta una problemática común.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "B": "Delegar completamente la responsabilidad a otra instancia",
+      "C": "Dar seguimiento colegiado a las acciones implementadas",
+      "D": "Continuar con la planeación original sin hacer ajustes"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 86,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: algunos estudiantes no se sienten incluidos en las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Centrarse solo en la memorización de contenidos",
+      "B": "Calificar únicamente el producto final",
+      "C": "Ignorar la problemática para no interrumpir la clase",
+      "D": "Analizar evidencias con otros docentes para construir acuerdos"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 87,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: se presentan conflictos de convivencia durante el trabajo en equipo.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Resolver la situación de manera aislada",
+      "B": "Compartir experiencias y diseñar estrategias conjuntas",
+      "C": "Aplicar una medida general sin analizar el contexto",
+      "D": "Delegar completamente la responsabilidad a otra instancia"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 88,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: los estudiantes realizan tareas, pero no reflexionan sobre lo aprendido.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Tomar decisiones colectivas orientadas a la mejora",
+      "B": "Delegar completamente la responsabilidad a otra instancia",
+      "C": "Aplicar una medida general sin analizar el contexto",
+      "D": "Repetir la explicación sin modificar la estrategia"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 89,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: la escuela busca fortalecer el vínculo con la comunidad.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "B": "Ignorar la problemática para no interrumpir la clase",
+      "C": "Centrarse solo en la memorización de contenidos",
+      "D": "Establecer acuerdos docentes basados en problemáticas comunes"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 90,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: el docente necesita ajustar su intervención con base en evidencias.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "B": "Ignorar la problemática para no interrumpir la clase",
+      "C": "Dar seguimiento colegiado a las acciones implementadas",
+      "D": "Aplicar una medida general sin analizar el contexto"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 91,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: un grupo muestra bajo interés durante las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Analizar evidencias con otros docentes para construir acuerdos",
+      "B": "Calificar únicamente el producto final",
+      "C": "Repetir la explicación sin modificar la estrategia",
+      "D": "Aplicar una medida general sin analizar el contexto"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 92,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: varios estudiantes tienen dificultades para participar.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Compartir experiencias y diseñar estrategias conjuntas",
+      "B": "Delegar completamente la responsabilidad a otra instancia",
+      "C": "Continuar con la planeación original sin hacer ajustes",
+      "D": "Repetir la explicación sin modificar la estrategia"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 93,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: existen diferencias importantes en los niveles de aprendizaje.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Centrarse solo en la memorización de contenidos",
+      "B": "Ignorar la problemática para no interrumpir la clase",
+      "C": "Resolver la situación de manera aislada",
+      "D": "Tomar decisiones colectivas orientadas a la mejora"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 94,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: el docente observa poca relación entre el contenido y el contexto.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Resolver la situación de manera aislada",
+      "B": "Aplicar una medida general sin analizar el contexto",
+      "C": "Ignorar la problemática para no interrumpir la clase",
+      "D": "Establecer acuerdos docentes basados en problemáticas comunes"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 95,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: el colectivo escolar detecta una problemática común.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Aplicar una medida general sin analizar el contexto",
+      "B": "Dar seguimiento colegiado a las acciones implementadas",
+      "C": "Resolver la situación de manera aislada",
+      "D": "Repetir la explicación sin modificar la estrategia"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 96,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: algunos estudiantes no se sienten incluidos en las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Analizar evidencias con otros docentes para construir acuerdos",
+      "B": "Ignorar la problemática para no interrumpir la clase",
+      "C": "Aplicar una medida general sin analizar el contexto",
+      "D": "Trabajar únicamente con los estudiantes de mayor rendimiento"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 97,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: se presentan conflictos de convivencia durante el trabajo en equipo.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Compartir experiencias y diseñar estrategias conjuntas",
+      "B": "Evitar la participación de la comunidad escolar",
+      "C": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "D": "Resolver la situación de manera aislada"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 98,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: los estudiantes realizan tareas, pero no reflexionan sobre lo aprendido.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Tomar decisiones colectivas orientadas a la mejora",
+      "B": "Delegar completamente la responsabilidad a otra instancia",
+      "C": "Aplicar una medida general sin analizar el contexto",
+      "D": "Resolver la situación de manera aislada"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 99,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: la escuela busca fortalecer el vínculo con la comunidad.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Delegar completamente la responsabilidad a otra instancia",
+      "B": "Establecer acuerdos docentes basados en problemáticas comunes",
+      "C": "Evitar la participación de la comunidad escolar",
+      "D": "Centrarse solo en la memorización de contenidos"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 100,
+    "tema": "Trabajo colegiado",
+    "pregunta": "En el tema de Trabajo colegiado, se presenta la siguiente situación: el docente necesita ajustar su intervención con base en evidencias.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Resolver la situación de manera aislada",
+      "B": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "C": "Evitar la participación de la comunidad escolar",
+      "D": "Dar seguimiento colegiado a las acciones implementadas"
+    },
+    "respuesta": "D"
+  }
+]

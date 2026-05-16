@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: un grupo muestra bajo interés durante las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Continuar con la planeación original sin hacer ajustes",
+      "B": "Diseñar actividades contextualizadas y articuladas con aprendizajes significativos",
+      "C": "Delegar completamente la responsabilidad a otra instancia",
+      "D": "Calificar únicamente el producto final"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 2,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: varios estudiantes tienen dificultades para participar.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Calificar únicamente el producto final",
+      "B": "Aplicar una medida general sin analizar el contexto",
+      "C": "Evitar la participación de la comunidad escolar",
+      "D": "Promover la aplicación de conocimientos en situaciones reales"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 3,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: existen diferencias importantes en los niveles de aprendizaje.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Repetir la explicación sin modificar la estrategia",
+      "B": "Integrar reflexión, argumentación y evaluación formativa",
+      "C": "Continuar con la planeación original sin hacer ajustes",
+      "D": "Centrarse solo en la memorización de contenidos"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 4,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: el docente observa poca relación entre el contenido y el contexto.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Vincular los aprendizajes con problemas del contexto",
+      "B": "Repetir la explicación sin modificar la estrategia",
+      "C": "Aplicar una medida general sin analizar el contexto",
+      "D": "Centrarse solo en la memorización de contenidos"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 5,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: el colectivo escolar detecta una problemática común.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Continuar con la planeación original sin hacer ajustes",
+      "B": "Aplicar una medida general sin analizar el contexto",
+      "C": "Evitar la participación de la comunidad escolar",
+      "D": "Fortalecer la formación integral mediante experiencias pertinentes"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 6,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: algunos estudiantes no se sienten incluidos en las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "B": "Calificar únicamente el producto final",
+      "C": "Diseñar actividades contextualizadas y articuladas con aprendizajes significativos",
+      "D": "Evitar la participación de la comunidad escolar"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 7,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: se presentan conflictos de convivencia durante el trabajo en equipo.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Aplicar una medida general sin analizar el contexto",
+      "B": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "C": "Evitar la participación de la comunidad escolar",
+      "D": "Promover la aplicación de conocimientos en situaciones reales"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 8,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: los estudiantes realizan tareas, pero no reflexionan sobre lo aprendido.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Integrar reflexión, argumentación y evaluación formativa",
+      "B": "Continuar con la planeación original sin hacer ajustes",
+      "C": "Centrarse solo en la memorización de contenidos",
+      "D": "Trabajar únicamente con los estudiantes de mayor rendimiento"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 9,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: la escuela busca fortalecer el vínculo con la comunidad.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Vincular los aprendizajes con problemas del contexto",
+      "B": "Repetir la explicación sin modificar la estrategia",
+      "C": "Ignorar la problemática para no interrumpir la clase",
+      "D": "Trabajar únicamente con los estudiantes de mayor rendimiento"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 10,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: el docente necesita ajustar su intervención con base en evidencias.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Centrarse solo en la memorización de contenidos",
+      "B": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "C": "Fortalecer la formación integral mediante experiencias pertinentes",
+      "D": "Repetir la explicación sin modificar la estrategia"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 11,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: un grupo muestra bajo interés durante las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Evitar la participación de la comunidad escolar",
+      "B": "Centrarse solo en la memorización de contenidos",
+      "C": "Diseñar actividades contextualizadas y articuladas con aprendizajes significativos",
+      "D": "Ignorar la problemática para no interrumpir la clase"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 12,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: varios estudiantes tienen dificultades para participar.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Promover la aplicación de conocimientos en situaciones reales",
+      "B": "Resolver la situación de manera aislada",
+      "C": "Continuar con la planeación original sin hacer ajustes",
+      "D": "Repetir la explicación sin modificar la estrategia"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 13,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: existen diferencias importantes en los niveles de aprendizaje.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Ignorar la problemática para no interrumpir la clase",
+      "B": "Aplicar una medida general sin analizar el contexto",
+      "C": "Integrar reflexión, argumentación y evaluación formativa",
+      "D": "Calificar únicamente el producto final"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 14,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: el docente observa poca relación entre el contenido y el contexto.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Vincular los aprendizajes con problemas del contexto",
+      "B": "Calificar únicamente el producto final",
+      "C": "Aplicar una medida general sin analizar el contexto",
+      "D": "Delegar completamente la responsabilidad a otra instancia"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 15,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: el colectivo escolar detecta una problemática común.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "B": "Ignorar la problemática para no interrumpir la clase",
+      "C": "Delegar completamente la responsabilidad a otra instancia",
+      "D": "Fortalecer la formación integral mediante experiencias pertinentes"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 16,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: algunos estudiantes no se sienten incluidos en las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Calificar únicamente el producto final",
+      "B": "Ignorar la problemática para no interrumpir la clase",
+      "C": "Centrarse solo en la memorización de contenidos",
+      "D": "Diseñar actividades contextualizadas y articuladas con aprendizajes significativos"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 17,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: se presentan conflictos de convivencia durante el trabajo en equipo.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Evitar la participación de la comunidad escolar",
+      "B": "Centrarse solo en la memorización de contenidos",
+      "C": "Promover la aplicación de conocimientos en situaciones reales",
+      "D": "Trabajar únicamente con los estudiantes de mayor rendimiento"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 18,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: los estudiantes realizan tareas, pero no reflexionan sobre lo aprendido.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Integrar reflexión, argumentación y evaluación formativa",
+      "B": "Evitar la participación de la comunidad escolar",
+      "C": "Delegar completamente la responsabilidad a otra instancia",
+      "D": "Repetir la explicación sin modificar la estrategia"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 19,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: la escuela busca fortalecer el vínculo con la comunidad.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Ignorar la problemática para no interrumpir la clase",
+      "B": "Vincular los aprendizajes con problemas del contexto",
+      "C": "Calificar únicamente el producto final",
+      "D": "Evitar la participación de la comunidad escolar"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 20,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: el docente necesita ajustar su intervención con base en evidencias.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Aplicar una medida general sin analizar el contexto",
+      "B": "Fortalecer la formación integral mediante experiencias pertinentes",
+      "C": "Continuar con la planeación original sin hacer ajustes",
+      "D": "Centrarse solo en la memorización de contenidos"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 21,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: un grupo muestra bajo interés durante las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Centrarse solo en la memorización de contenidos",
+      "B": "Ignorar la problemática para no interrumpir la clase",
+      "C": "Diseñar actividades contextualizadas y articuladas con aprendizajes significativos",
+      "D": "Delegar completamente la responsabilidad a otra instancia"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 22,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: varios estudiantes tienen dificultades para participar.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Evitar la participación de la comunidad escolar",
+      "B": "Centrarse solo en la memorización de contenidos",
+      "C": "Promover la aplicación de conocimientos en situaciones reales",
+      "D": "Continuar con la planeación original sin hacer ajustes"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 23,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: existen diferencias importantes en los niveles de aprendizaje.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Integrar reflexión, argumentación y evaluación formativa",
+      "B": "Calificar únicamente el producto final",
+      "C": "Evitar la participación de la comunidad escolar",
+      "D": "Centrarse solo en la memorización de contenidos"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 24,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: el docente observa poca relación entre el contenido y el contexto.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Calificar únicamente el producto final",
+      "B": "Repetir la explicación sin modificar la estrategia",
+      "C": "Vincular los aprendizajes con problemas del contexto",
+      "D": "Delegar completamente la responsabilidad a otra instancia"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 25,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: el colectivo escolar detecta una problemática común.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Aplicar una medida general sin analizar el contexto",
+      "B": "Calificar únicamente el producto final",
+      "C": "Fortalecer la formación integral mediante experiencias pertinentes",
+      "D": "Evitar la participación de la comunidad escolar"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 26,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: algunos estudiantes no se sienten incluidos en las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "B": "Centrarse solo en la memorización de contenidos",
+      "C": "Aplicar una medida general sin analizar el contexto",
+      "D": "Diseñar actividades contextualizadas y articuladas con aprendizajes significativos"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 27,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: se presentan conflictos de convivencia durante el trabajo en equipo.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Continuar con la planeación original sin hacer ajustes",
+      "B": "Promover la aplicación de conocimientos en situaciones reales",
+      "C": "Aplicar una medida general sin analizar el contexto",
+      "D": "Trabajar únicamente con los estudiantes de mayor rendimiento"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 28,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: los estudiantes realizan tareas, pero no reflexionan sobre lo aprendido.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Delegar completamente la responsabilidad a otra instancia",
+      "B": "Continuar con la planeación original sin hacer ajustes",
+      "C": "Integrar reflexión, argumentación y evaluación formativa",
+      "D": "Trabajar únicamente con los estudiantes de mayor rendimiento"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 29,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: la escuela busca fortalecer el vínculo con la comunidad.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Aplicar una medida general sin analizar el contexto",
+      "B": "Resolver la situación de manera aislada",
+      "C": "Calificar únicamente el producto final",
+      "D": "Vincular los aprendizajes con problemas del contexto"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 30,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: el docente necesita ajustar su intervención con base en evidencias.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Ignorar la problemática para no interrumpir la clase",
+      "B": "Fortalecer la formación integral mediante experiencias pertinentes",
+      "C": "Repetir la explicación sin modificar la estrategia",
+      "D": "Evitar la participación de la comunidad escolar"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 31,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: un grupo muestra bajo interés durante las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Calificar únicamente el producto final",
+      "B": "Delegar completamente la responsabilidad a otra instancia",
+      "C": "Diseñar actividades contextualizadas y articuladas con aprendizajes significativos",
+      "D": "Evitar la participación de la comunidad escolar"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 32,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: varios estudiantes tienen dificultades para participar.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Resolver la situación de manera aislada",
+      "B": "Promover la aplicación de conocimientos en situaciones reales",
+      "C": "Centrarse solo en la memorización de contenidos",
+      "D": "Calificar únicamente el producto final"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 33,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: existen diferencias importantes en los niveles de aprendizaje.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Evitar la participación de la comunidad escolar",
+      "B": "Integrar reflexión, argumentación y evaluación formativa",
+      "C": "Centrarse solo en la memorización de contenidos",
+      "D": "Repetir la explicación sin modificar la estrategia"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 34,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: el docente observa poca relación entre el contenido y el contexto.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Vincular los aprendizajes con problemas del contexto",
+      "B": "Centrarse solo en la memorización de contenidos",
+      "C": "Ignorar la problemática para no interrumpir la clase",
+      "D": "Continuar con la planeación original sin hacer ajustes"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 35,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: el colectivo escolar detecta una problemática común.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Evitar la participación de la comunidad escolar",
+      "B": "Fortalecer la formación integral mediante experiencias pertinentes",
+      "C": "Aplicar una medida general sin analizar el contexto",
+      "D": "Continuar con la planeación original sin hacer ajustes"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 36,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: algunos estudiantes no se sienten incluidos en las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Diseñar actividades contextualizadas y articuladas con aprendizajes significativos",
+      "B": "Delegar completamente la responsabilidad a otra instancia",
+      "C": "Ignorar la problemática para no interrumpir la clase",
+      "D": "Centrarse solo en la memorización de contenidos"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 37,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: se presentan conflictos de convivencia durante el trabajo en equipo.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Promover la aplicación de conocimientos en situaciones reales",
+      "B": "Evitar la participación de la comunidad escolar",
+      "C": "Repetir la explicación sin modificar la estrategia",
+      "D": "Ignorar la problemática para no interrumpir la clase"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 38,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: los estudiantes realizan tareas, pero no reflexionan sobre lo aprendido.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Integrar reflexión, argumentación y evaluación formativa",
+      "B": "Centrarse solo en la memorización de contenidos",
+      "C": "Calificar únicamente el producto final",
+      "D": "Ignorar la problemática para no interrumpir la clase"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 39,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: la escuela busca fortalecer el vínculo con la comunidad.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Repetir la explicación sin modificar la estrategia",
+      "B": "Resolver la situación de manera aislada",
+      "C": "Vincular los aprendizajes con problemas del contexto",
+      "D": "Centrarse solo en la memorización de contenidos"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 40,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: el docente necesita ajustar su intervención con base en evidencias.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Calificar únicamente el producto final",
+      "B": "Resolver la situación de manera aislada",
+      "C": "Fortalecer la formación integral mediante experiencias pertinentes",
+      "D": "Trabajar únicamente con los estudiantes de mayor rendimiento"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 41,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: un grupo muestra bajo interés durante las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Ignorar la problemática para no interrumpir la clase",
+      "B": "Aplicar una medida general sin analizar el contexto",
+      "C": "Diseñar actividades contextualizadas y articuladas con aprendizajes significativos",
+      "D": "Resolver la situación de manera aislada"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 42,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: varios estudiantes tienen dificultades para participar.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Resolver la situación de manera aislada",
+      "B": "Promover la aplicación de conocimientos en situaciones reales",
+      "C": "Calificar únicamente el producto final",
+      "D": "Trabajar únicamente con los estudiantes de mayor rendimiento"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 43,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: existen diferencias importantes en los niveles de aprendizaje.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "B": "Ignorar la problemática para no interrumpir la clase",
+      "C": "Repetir la explicación sin modificar la estrategia",
+      "D": "Integrar reflexión, argumentación y evaluación formativa"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 44,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: el docente observa poca relación entre el contenido y el contexto.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Vincular los aprendizajes con problemas del contexto",
+      "B": "Continuar con la planeación original sin hacer ajustes",
+      "C": "Aplicar una medida general sin analizar el contexto",
+      "D": "Evitar la participación de la comunidad escolar"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 45,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: el colectivo escolar detecta una problemática común.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Fortalecer la formación integral mediante experiencias pertinentes",
+      "B": "Evitar la participación de la comunidad escolar",
+      "C": "Repetir la explicación sin modificar la estrategia",
+      "D": "Resolver la situación de manera aislada"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 46,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: algunos estudiantes no se sienten incluidos en las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Delegar completamente la responsabilidad a otra instancia",
+      "B": "Calificar únicamente el producto final",
+      "C": "Ignorar la problemática para no interrumpir la clase",
+      "D": "Diseñar actividades contextualizadas y articuladas con aprendizajes significativos"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 47,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: se presentan conflictos de convivencia durante el trabajo en equipo.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Ignorar la problemática para no interrumpir la clase",
+      "B": "Repetir la explicación sin modificar la estrategia",
+      "C": "Delegar completamente la responsabilidad a otra instancia",
+      "D": "Promover la aplicación de conocimientos en situaciones reales"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 48,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: los estudiantes realizan tareas, pero no reflexionan sobre lo aprendido.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Integrar reflexión, argumentación y evaluación formativa",
+      "B": "Repetir la explicación sin modificar la estrategia",
+      "C": "Aplicar una medida general sin analizar el contexto",
+      "D": "Centrarse solo en la memorización de contenidos"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 49,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: la escuela busca fortalecer el vínculo con la comunidad.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Resolver la situación de manera aislada",
+      "B": "Evitar la participación de la comunidad escolar",
+      "C": "Calificar únicamente el producto final",
+      "D": "Vincular los aprendizajes con problemas del contexto"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 50,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: el docente necesita ajustar su intervención con base en evidencias.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Repetir la explicación sin modificar la estrategia",
+      "B": "Ignorar la problemática para no interrumpir la clase",
+      "C": "Fortalecer la formación integral mediante experiencias pertinentes",
+      "D": "Delegar completamente la responsabilidad a otra instancia"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 51,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: un grupo muestra bajo interés durante las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Diseñar actividades contextualizadas y articuladas con aprendizajes significativos",
+      "B": "Ignorar la problemática para no interrumpir la clase",
+      "C": "Calificar únicamente el producto final",
+      "D": "Centrarse solo en la memorización de contenidos"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 52,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: varios estudiantes tienen dificultades para participar.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Continuar con la planeación original sin hacer ajustes",
+      "B": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "C": "Evitar la participación de la comunidad escolar",
+      "D": "Promover la aplicación de conocimientos en situaciones reales"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 53,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: existen diferencias importantes en los niveles de aprendizaje.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Calificar únicamente el producto final",
+      "B": "Evitar la participación de la comunidad escolar",
+      "C": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "D": "Integrar reflexión, argumentación y evaluación formativa"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 54,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: el docente observa poca relación entre el contenido y el contexto.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Calificar únicamente el producto final",
+      "B": "Vincular los aprendizajes con problemas del contexto",
+      "C": "Evitar la participación de la comunidad escolar",
+      "D": "Delegar completamente la responsabilidad a otra instancia"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 55,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: el colectivo escolar detecta una problemática común.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Aplicar una medida general sin analizar el contexto",
+      "B": "Fortalecer la formación integral mediante experiencias pertinentes",
+      "C": "Calificar únicamente el producto final",
+      "D": "Delegar completamente la responsabilidad a otra instancia"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 56,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: algunos estudiantes no se sienten incluidos en las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Resolver la situación de manera aislada",
+      "B": "Diseñar actividades contextualizadas y articuladas con aprendizajes significativos",
+      "C": "Delegar completamente la responsabilidad a otra instancia",
+      "D": "Trabajar únicamente con los estudiantes de mayor rendimiento"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 57,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: se presentan conflictos de convivencia durante el trabajo en equipo.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Promover la aplicación de conocimientos en situaciones reales",
+      "B": "Continuar con la planeación original sin hacer ajustes",
+      "C": "Resolver la situación de manera aislada",
+      "D": "Trabajar únicamente con los estudiantes de mayor rendimiento"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 58,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: los estudiantes realizan tareas, pero no reflexionan sobre lo aprendido.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Ignorar la problemática para no interrumpir la clase",
+      "B": "Calificar únicamente el producto final",
+      "C": "Integrar reflexión, argumentación y evaluación formativa",
+      "D": "Trabajar únicamente con los estudiantes de mayor rendimiento"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 59,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: la escuela busca fortalecer el vínculo con la comunidad.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Calificar únicamente el producto final",
+      "B": "Ignorar la problemática para no interrumpir la clase",
+      "C": "Vincular los aprendizajes con problemas del contexto",
+      "D": "Delegar completamente la responsabilidad a otra instancia"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 60,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: el docente necesita ajustar su intervención con base en evidencias.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Aplicar una medida general sin analizar el contexto",
+      "B": "Delegar completamente la responsabilidad a otra instancia",
+      "C": "Centrarse solo en la memorización de contenidos",
+      "D": "Fortalecer la formación integral mediante experiencias pertinentes"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 61,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: un grupo muestra bajo interés durante las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Delegar completamente la responsabilidad a otra instancia",
+      "B": "Diseñar actividades contextualizadas y articuladas con aprendizajes significativos",
+      "C": "Repetir la explicación sin modificar la estrategia",
+      "D": "Resolver la situación de manera aislada"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 62,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: varios estudiantes tienen dificultades para participar.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Aplicar una medida general sin analizar el contexto",
+      "B": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "C": "Promover la aplicación de conocimientos en situaciones reales",
+      "D": "Calificar únicamente el producto final"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 63,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: existen diferencias importantes en los niveles de aprendizaje.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Ignorar la problemática para no interrumpir la clase",
+      "B": "Integrar reflexión, argumentación y evaluación formativa",
+      "C": "Calificar únicamente el producto final",
+      "D": "Trabajar únicamente con los estudiantes de mayor rendimiento"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 64,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: el docente observa poca relación entre el contenido y el contexto.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Evitar la participación de la comunidad escolar",
+      "B": "Delegar completamente la responsabilidad a otra instancia",
+      "C": "Aplicar una medida general sin analizar el contexto",
+      "D": "Vincular los aprendizajes con problemas del contexto"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 65,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: el colectivo escolar detecta una problemática común.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Evitar la participación de la comunidad escolar",
+      "B": "Fortalecer la formación integral mediante experiencias pertinentes",
+      "C": "Ignorar la problemática para no interrumpir la clase",
+      "D": "Delegar completamente la responsabilidad a otra instancia"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 66,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: algunos estudiantes no se sienten incluidos en las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "B": "Diseñar actividades contextualizadas y articuladas con aprendizajes significativos",
+      "C": "Resolver la situación de manera aislada",
+      "D": "Continuar con la planeación original sin hacer ajustes"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 67,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: se presentan conflictos de convivencia durante el trabajo en equipo.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Promover la aplicación de conocimientos en situaciones reales",
+      "B": "Delegar completamente la responsabilidad a otra instancia",
+      "C": "Aplicar una medida general sin analizar el contexto",
+      "D": "Centrarse solo en la memorización de contenidos"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 68,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: los estudiantes realizan tareas, pero no reflexionan sobre lo aprendido.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Evitar la participación de la comunidad escolar",
+      "B": "Continuar con la planeación original sin hacer ajustes",
+      "C": "Ignorar la problemática para no interrumpir la clase",
+      "D": "Integrar reflexión, argumentación y evaluación formativa"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 69,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: la escuela busca fortalecer el vínculo con la comunidad.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Centrarse solo en la memorización de contenidos",
+      "B": "Resolver la situación de manera aislada",
+      "C": "Calificar únicamente el producto final",
+      "D": "Vincular los aprendizajes con problemas del contexto"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 70,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: el docente necesita ajustar su intervención con base en evidencias.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Fortalecer la formación integral mediante experiencias pertinentes",
+      "B": "Centrarse solo en la memorización de contenidos",
+      "C": "Aplicar una medida general sin analizar el contexto",
+      "D": "Trabajar únicamente con los estudiantes de mayor rendimiento"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 71,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: un grupo muestra bajo interés durante las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Diseñar actividades contextualizadas y articuladas con aprendizajes significativos",
+      "B": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "C": "Delegar completamente la responsabilidad a otra instancia",
+      "D": "Centrarse solo en la memorización de contenidos"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 72,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: varios estudiantes tienen dificultades para participar.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Calificar únicamente el producto final",
+      "B": "Continuar con la planeación original sin hacer ajustes",
+      "C": "Promover la aplicación de conocimientos en situaciones reales",
+      "D": "Evitar la participación de la comunidad escolar"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 73,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: existen diferencias importantes en los niveles de aprendizaje.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Integrar reflexión, argumentación y evaluación formativa",
+      "B": "Calificar únicamente el producto final",
+      "C": "Aplicar una medida general sin analizar el contexto",
+      "D": "Repetir la explicación sin modificar la estrategia"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 74,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: el docente observa poca relación entre el contenido y el contexto.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Vincular los aprendizajes con problemas del contexto",
+      "B": "Resolver la situación de manera aislada",
+      "C": "Ignorar la problemática para no interrumpir la clase",
+      "D": "Trabajar únicamente con los estudiantes de mayor rendimiento"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 75,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: el colectivo escolar detecta una problemática común.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Delegar completamente la responsabilidad a otra instancia",
+      "B": "Fortalecer la formación integral mediante experiencias pertinentes",
+      "C": "Continuar con la planeación original sin hacer ajustes",
+      "D": "Evitar la participación de la comunidad escolar"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 76,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: algunos estudiantes no se sienten incluidos en las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Ignorar la problemática para no interrumpir la clase",
+      "B": "Diseñar actividades contextualizadas y articuladas con aprendizajes significativos",
+      "C": "Evitar la participación de la comunidad escolar",
+      "D": "Continuar con la planeación original sin hacer ajustes"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 77,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: se presentan conflictos de convivencia durante el trabajo en equipo.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Aplicar una medida general sin analizar el contexto",
+      "B": "Promover la aplicación de conocimientos en situaciones reales",
+      "C": "Delegar completamente la responsabilidad a otra instancia",
+      "D": "Ignorar la problemática para no interrumpir la clase"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 78,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: los estudiantes realizan tareas, pero no reflexionan sobre lo aprendido.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Evitar la participación de la comunidad escolar",
+      "B": "Continuar con la planeación original sin hacer ajustes",
+      "C": "Integrar reflexión, argumentación y evaluación formativa",
+      "D": "Delegar completamente la responsabilidad a otra instancia"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 79,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: la escuela busca fortalecer el vínculo con la comunidad.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Vincular los aprendizajes con problemas del contexto",
+      "B": "Resolver la situación de manera aislada",
+      "C": "Evitar la participación de la comunidad escolar",
+      "D": "Delegar completamente la responsabilidad a otra instancia"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 80,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: el docente necesita ajustar su intervención con base en evidencias.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "B": "Delegar completamente la responsabilidad a otra instancia",
+      "C": "Centrarse solo en la memorización de contenidos",
+      "D": "Fortalecer la formación integral mediante experiencias pertinentes"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 81,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: un grupo muestra bajo interés durante las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Centrarse solo en la memorización de contenidos",
+      "B": "Calificar únicamente el producto final",
+      "C": "Diseñar actividades contextualizadas y articuladas con aprendizajes significativos",
+      "D": "Repetir la explicación sin modificar la estrategia"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 82,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: varios estudiantes tienen dificultades para participar.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Promover la aplicación de conocimientos en situaciones reales",
+      "B": "Centrarse solo en la memorización de contenidos",
+      "C": "Calificar únicamente el producto final",
+      "D": "Delegar completamente la responsabilidad a otra instancia"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 83,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: existen diferencias importantes en los niveles de aprendizaje.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Evitar la participación de la comunidad escolar",
+      "B": "Integrar reflexión, argumentación y evaluación formativa",
+      "C": "Resolver la situación de manera aislada",
+      "D": "Repetir la explicación sin modificar la estrategia"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 84,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: el docente observa poca relación entre el contenido y el contexto.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Resolver la situación de manera aislada",
+      "B": "Ignorar la problemática para no interrumpir la clase",
+      "C": "Vincular los aprendizajes con problemas del contexto",
+      "D": "Repetir la explicación sin modificar la estrategia"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 85,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: el colectivo escolar detecta una problemática común.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Fortalecer la formación integral mediante experiencias pertinentes",
+      "B": "Continuar con la planeación original sin hacer ajustes",
+      "C": "Calificar únicamente el producto final",
+      "D": "Evitar la participación de la comunidad escolar"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 86,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: algunos estudiantes no se sienten incluidos en las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Continuar con la planeación original sin hacer ajustes",
+      "B": "Diseñar actividades contextualizadas y articuladas con aprendizajes significativos",
+      "C": "Evitar la participación de la comunidad escolar",
+      "D": "Calificar únicamente el producto final"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 87,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: se presentan conflictos de convivencia durante el trabajo en equipo.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Ignorar la problemática para no interrumpir la clase",
+      "B": "Aplicar una medida general sin analizar el contexto",
+      "C": "Promover la aplicación de conocimientos en situaciones reales",
+      "D": "Delegar completamente la responsabilidad a otra instancia"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 88,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: los estudiantes realizan tareas, pero no reflexionan sobre lo aprendido.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Centrarse solo en la memorización de contenidos",
+      "B": "Integrar reflexión, argumentación y evaluación formativa",
+      "C": "Aplicar una medida general sin analizar el contexto",
+      "D": "Delegar completamente la responsabilidad a otra instancia"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 89,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: la escuela busca fortalecer el vínculo con la comunidad.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Centrarse solo en la memorización de contenidos",
+      "B": "Vincular los aprendizajes con problemas del contexto",
+      "C": "Continuar con la planeación original sin hacer ajustes",
+      "D": "Repetir la explicación sin modificar la estrategia"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 90,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: el docente necesita ajustar su intervención con base en evidencias.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Centrarse solo en la memorización de contenidos",
+      "B": "Repetir la explicación sin modificar la estrategia",
+      "C": "Delegar completamente la responsabilidad a otra instancia",
+      "D": "Fortalecer la formación integral mediante experiencias pertinentes"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 91,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: un grupo muestra bajo interés durante las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Diseñar actividades contextualizadas y articuladas con aprendizajes significativos",
+      "B": "Evitar la participación de la comunidad escolar",
+      "C": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "D": "Continuar con la planeación original sin hacer ajustes"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 92,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: varios estudiantes tienen dificultades para participar.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Repetir la explicación sin modificar la estrategia",
+      "B": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "C": "Centrarse solo en la memorización de contenidos",
+      "D": "Promover la aplicación de conocimientos en situaciones reales"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 93,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: existen diferencias importantes en los niveles de aprendizaje.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Continuar con la planeación original sin hacer ajustes",
+      "B": "Ignorar la problemática para no interrumpir la clase",
+      "C": "Integrar reflexión, argumentación y evaluación formativa",
+      "D": "Centrarse solo en la memorización de contenidos"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 94,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: el docente observa poca relación entre el contenido y el contexto.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Repetir la explicación sin modificar la estrategia",
+      "B": "Delegar completamente la responsabilidad a otra instancia",
+      "C": "Vincular los aprendizajes con problemas del contexto",
+      "D": "Calificar únicamente el producto final"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 95,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: el colectivo escolar detecta una problemática común.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Fortalecer la formación integral mediante experiencias pertinentes",
+      "B": "Resolver la situación de manera aislada",
+      "C": "Calificar únicamente el producto final",
+      "D": "Centrarse solo en la memorización de contenidos"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 96,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: algunos estudiantes no se sienten incluidos en las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Diseñar actividades contextualizadas y articuladas con aprendizajes significativos",
+      "B": "Evitar la participación de la comunidad escolar",
+      "C": "Calificar únicamente el producto final",
+      "D": "Ignorar la problemática para no interrumpir la clase"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 97,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: se presentan conflictos de convivencia durante el trabajo en equipo.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Evitar la participación de la comunidad escolar",
+      "B": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "C": "Promover la aplicación de conocimientos en situaciones reales",
+      "D": "Delegar completamente la responsabilidad a otra instancia"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 98,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: los estudiantes realizan tareas, pero no reflexionan sobre lo aprendido.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Ignorar la problemática para no interrumpir la clase",
+      "B": "Integrar reflexión, argumentación y evaluación formativa",
+      "C": "Delegar completamente la responsabilidad a otra instancia",
+      "D": "Trabajar únicamente con los estudiantes de mayor rendimiento"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 99,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: la escuela busca fortalecer el vínculo con la comunidad.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Aplicar una medida general sin analizar el contexto",
+      "B": "Repetir la explicación sin modificar la estrategia",
+      "C": "Ignorar la problemática para no interrumpir la clase",
+      "D": "Vincular los aprendizajes con problemas del contexto"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 100,
+    "tema": "MCCEMS 2025",
+    "pregunta": "En el tema de MCCEMS 2025, se presenta la siguiente situación: el docente necesita ajustar su intervención con base en evidencias.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Fortalecer la formación integral mediante experiencias pertinentes",
+      "B": "Ignorar la problemática para no interrumpir la clase",
+      "C": "Continuar con la planeación original sin hacer ajustes",
+      "D": "Calificar únicamente el producto final"
+    },
+    "respuesta": "A"
+  }
+]

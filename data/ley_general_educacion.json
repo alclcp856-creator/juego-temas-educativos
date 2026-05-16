@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: un grupo muestra bajo interés durante las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Ignorar la problemática para no interrumpir la clase",
+      "B": "Resolver la situación de manera aislada",
+      "C": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "D": "Garantizar el derecho a una educación inclusiva, equitativa y de calidad"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 2,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: varios estudiantes tienen dificultades para participar.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Ignorar la problemática para no interrumpir la clase",
+      "B": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "C": "Centrarse solo en la memorización de contenidos",
+      "D": "Eliminar barreras para el aprendizaje y la participación"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 3,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: existen diferencias importantes en los niveles de aprendizaje.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Continuar con la planeación original sin hacer ajustes",
+      "B": "Evitar la participación de la comunidad escolar",
+      "C": "Calificar únicamente el producto final",
+      "D": "Favorecer la permanencia, participación y aprendizaje de todos los estudiantes"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 4,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: el docente observa poca relación entre el contenido y el contexto.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Continuar con la planeación original sin hacer ajustes",
+      "B": "Evitar la participación de la comunidad escolar",
+      "C": "Promover condiciones de equidad dentro del aula",
+      "D": "Calificar únicamente el producto final"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 5,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: el colectivo escolar detecta una problemática común.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Repetir la explicación sin modificar la estrategia",
+      "B": "Evitar la participación de la comunidad escolar",
+      "C": "Orientar la práctica docente desde el derecho a la educación",
+      "D": "Resolver la situación de manera aislada"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 6,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: algunos estudiantes no se sienten incluidos en las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Garantizar el derecho a una educación inclusiva, equitativa y de calidad",
+      "B": "Resolver la situación de manera aislada",
+      "C": "Delegar completamente la responsabilidad a otra instancia",
+      "D": "Calificar únicamente el producto final"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 7,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: se presentan conflictos de convivencia durante el trabajo en equipo.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Eliminar barreras para el aprendizaje y la participación",
+      "B": "Ignorar la problemática para no interrumpir la clase",
+      "C": "Evitar la participación de la comunidad escolar",
+      "D": "Calificar únicamente el producto final"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 8,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: los estudiantes realizan tareas, pero no reflexionan sobre lo aprendido.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Ignorar la problemática para no interrumpir la clase",
+      "B": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "C": "Evitar la participación de la comunidad escolar",
+      "D": "Favorecer la permanencia, participación y aprendizaje de todos los estudiantes"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 9,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: la escuela busca fortalecer el vínculo con la comunidad.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Resolver la situación de manera aislada",
+      "B": "Promover condiciones de equidad dentro del aula",
+      "C": "Centrarse solo en la memorización de contenidos",
+      "D": "Trabajar únicamente con los estudiantes de mayor rendimiento"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 10,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: el docente necesita ajustar su intervención con base en evidencias.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Evitar la participación de la comunidad escolar",
+      "B": "Orientar la práctica docente desde el derecho a la educación",
+      "C": "Continuar con la planeación original sin hacer ajustes",
+      "D": "Resolver la situación de manera aislada"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 11,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: un grupo muestra bajo interés durante las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Garantizar el derecho a una educación inclusiva, equitativa y de calidad",
+      "B": "Delegar completamente la responsabilidad a otra instancia",
+      "C": "Repetir la explicación sin modificar la estrategia",
+      "D": "Evitar la participación de la comunidad escolar"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 12,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: varios estudiantes tienen dificultades para participar.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Calificar únicamente el producto final",
+      "B": "Eliminar barreras para el aprendizaje y la participación",
+      "C": "Evitar la participación de la comunidad escolar",
+      "D": "Repetir la explicación sin modificar la estrategia"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 13,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: existen diferencias importantes en los niveles de aprendizaje.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Favorecer la permanencia, participación y aprendizaje de todos los estudiantes",
+      "B": "Aplicar una medida general sin analizar el contexto",
+      "C": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "D": "Repetir la explicación sin modificar la estrategia"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 14,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: el docente observa poca relación entre el contenido y el contexto.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Calificar únicamente el producto final",
+      "B": "Aplicar una medida general sin analizar el contexto",
+      "C": "Centrarse solo en la memorización de contenidos",
+      "D": "Promover condiciones de equidad dentro del aula"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 15,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: el colectivo escolar detecta una problemática común.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "B": "Orientar la práctica docente desde el derecho a la educación",
+      "C": "Continuar con la planeación original sin hacer ajustes",
+      "D": "Calificar únicamente el producto final"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 16,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: algunos estudiantes no se sienten incluidos en las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Resolver la situación de manera aislada",
+      "B": "Garantizar el derecho a una educación inclusiva, equitativa y de calidad",
+      "C": "Evitar la participación de la comunidad escolar",
+      "D": "Aplicar una medida general sin analizar el contexto"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 17,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: se presentan conflictos de convivencia durante el trabajo en equipo.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Ignorar la problemática para no interrumpir la clase",
+      "B": "Evitar la participación de la comunidad escolar",
+      "C": "Eliminar barreras para el aprendizaje y la participación",
+      "D": "Trabajar únicamente con los estudiantes de mayor rendimiento"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 18,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: los estudiantes realizan tareas, pero no reflexionan sobre lo aprendido.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Delegar completamente la responsabilidad a otra instancia",
+      "B": "Centrarse solo en la memorización de contenidos",
+      "C": "Favorecer la permanencia, participación y aprendizaje de todos los estudiantes",
+      "D": "Resolver la situación de manera aislada"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 19,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: la escuela busca fortalecer el vínculo con la comunidad.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Evitar la participación de la comunidad escolar",
+      "B": "Centrarse solo en la memorización de contenidos",
+      "C": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "D": "Promover condiciones de equidad dentro del aula"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 20,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: el docente necesita ajustar su intervención con base en evidencias.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Continuar con la planeación original sin hacer ajustes",
+      "B": "Evitar la participación de la comunidad escolar",
+      "C": "Orientar la práctica docente desde el derecho a la educación",
+      "D": "Repetir la explicación sin modificar la estrategia"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 21,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: un grupo muestra bajo interés durante las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Continuar con la planeación original sin hacer ajustes",
+      "B": "Ignorar la problemática para no interrumpir la clase",
+      "C": "Evitar la participación de la comunidad escolar",
+      "D": "Garantizar el derecho a una educación inclusiva, equitativa y de calidad"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 22,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: varios estudiantes tienen dificultades para participar.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Repetir la explicación sin modificar la estrategia",
+      "B": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "C": "Ignorar la problemática para no interrumpir la clase",
+      "D": "Eliminar barreras para el aprendizaje y la participación"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 23,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: existen diferencias importantes en los niveles de aprendizaje.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Continuar con la planeación original sin hacer ajustes",
+      "B": "Favorecer la permanencia, participación y aprendizaje de todos los estudiantes",
+      "C": "Evitar la participación de la comunidad escolar",
+      "D": "Resolver la situación de manera aislada"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 24,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: el docente observa poca relación entre el contenido y el contexto.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Delegar completamente la responsabilidad a otra instancia",
+      "B": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "C": "Resolver la situación de manera aislada",
+      "D": "Promover condiciones de equidad dentro del aula"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 25,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: el colectivo escolar detecta una problemática común.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Repetir la explicación sin modificar la estrategia",
+      "B": "Evitar la participación de la comunidad escolar",
+      "C": "Orientar la práctica docente desde el derecho a la educación",
+      "D": "Centrarse solo en la memorización de contenidos"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 26,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: algunos estudiantes no se sienten incluidos en las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Evitar la participación de la comunidad escolar",
+      "B": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "C": "Garantizar el derecho a una educación inclusiva, equitativa y de calidad",
+      "D": "Continuar con la planeación original sin hacer ajustes"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 27,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: se presentan conflictos de convivencia durante el trabajo en equipo.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Delegar completamente la responsabilidad a otra instancia",
+      "B": "Repetir la explicación sin modificar la estrategia",
+      "C": "Eliminar barreras para el aprendizaje y la participación",
+      "D": "Ignorar la problemática para no interrumpir la clase"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 28,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: los estudiantes realizan tareas, pero no reflexionan sobre lo aprendido.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Favorecer la permanencia, participación y aprendizaje de todos los estudiantes",
+      "B": "Delegar completamente la responsabilidad a otra instancia",
+      "C": "Continuar con la planeación original sin hacer ajustes",
+      "D": "Ignorar la problemática para no interrumpir la clase"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 29,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: la escuela busca fortalecer el vínculo con la comunidad.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Calificar únicamente el producto final",
+      "B": "Promover condiciones de equidad dentro del aula",
+      "C": "Ignorar la problemática para no interrumpir la clase",
+      "D": "Repetir la explicación sin modificar la estrategia"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 30,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: el docente necesita ajustar su intervención con base en evidencias.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Calificar únicamente el producto final",
+      "B": "Repetir la explicación sin modificar la estrategia",
+      "C": "Orientar la práctica docente desde el derecho a la educación",
+      "D": "Trabajar únicamente con los estudiantes de mayor rendimiento"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 31,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: un grupo muestra bajo interés durante las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Delegar completamente la responsabilidad a otra instancia",
+      "B": "Resolver la situación de manera aislada",
+      "C": "Centrarse solo en la memorización de contenidos",
+      "D": "Garantizar el derecho a una educación inclusiva, equitativa y de calidad"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 32,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: varios estudiantes tienen dificultades para participar.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Eliminar barreras para el aprendizaje y la participación",
+      "B": "Aplicar una medida general sin analizar el contexto",
+      "C": "Delegar completamente la responsabilidad a otra instancia",
+      "D": "Calificar únicamente el producto final"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 33,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: existen diferencias importantes en los niveles de aprendizaje.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Favorecer la permanencia, participación y aprendizaje de todos los estudiantes",
+      "B": "Aplicar una medida general sin analizar el contexto",
+      "C": "Repetir la explicación sin modificar la estrategia",
+      "D": "Centrarse solo en la memorización de contenidos"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 34,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: el docente observa poca relación entre el contenido y el contexto.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Promover condiciones de equidad dentro del aula",
+      "B": "Ignorar la problemática para no interrumpir la clase",
+      "C": "Repetir la explicación sin modificar la estrategia",
+      "D": "Delegar completamente la responsabilidad a otra instancia"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 35,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: el colectivo escolar detecta una problemática común.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Calificar únicamente el producto final",
+      "B": "Delegar completamente la responsabilidad a otra instancia",
+      "C": "Orientar la práctica docente desde el derecho a la educación",
+      "D": "Centrarse solo en la memorización de contenidos"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 36,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: algunos estudiantes no se sienten incluidos en las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Garantizar el derecho a una educación inclusiva, equitativa y de calidad",
+      "B": "Delegar completamente la responsabilidad a otra instancia",
+      "C": "Repetir la explicación sin modificar la estrategia",
+      "D": "Evitar la participación de la comunidad escolar"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 37,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: se presentan conflictos de convivencia durante el trabajo en equipo.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Ignorar la problemática para no interrumpir la clase",
+      "B": "Eliminar barreras para el aprendizaje y la participación",
+      "C": "Delegar completamente la responsabilidad a otra instancia",
+      "D": "Resolver la situación de manera aislada"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 38,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: los estudiantes realizan tareas, pero no reflexionan sobre lo aprendido.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Favorecer la permanencia, participación y aprendizaje de todos los estudiantes",
+      "B": "Centrarse solo en la memorización de contenidos",
+      "C": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "D": "Resolver la situación de manera aislada"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 39,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: la escuela busca fortalecer el vínculo con la comunidad.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Aplicar una medida general sin analizar el contexto",
+      "B": "Promover condiciones de equidad dentro del aula",
+      "C": "Centrarse solo en la memorización de contenidos",
+      "D": "Calificar únicamente el producto final"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 40,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: el docente necesita ajustar su intervención con base en evidencias.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Orientar la práctica docente desde el derecho a la educación",
+      "B": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "C": "Ignorar la problemática para no interrumpir la clase",
+      "D": "Evitar la participación de la comunidad escolar"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 41,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: un grupo muestra bajo interés durante las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Evitar la participación de la comunidad escolar",
+      "B": "Garantizar el derecho a una educación inclusiva, equitativa y de calidad",
+      "C": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "D": "Ignorar la problemática para no interrumpir la clase"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 42,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: varios estudiantes tienen dificultades para participar.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Repetir la explicación sin modificar la estrategia",
+      "B": "Aplicar una medida general sin analizar el contexto",
+      "C": "Eliminar barreras para el aprendizaje y la participación",
+      "D": "Ignorar la problemática para no interrumpir la clase"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 43,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: existen diferencias importantes en los niveles de aprendizaje.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Calificar únicamente el producto final",
+      "B": "Ignorar la problemática para no interrumpir la clase",
+      "C": "Favorecer la permanencia, participación y aprendizaje de todos los estudiantes",
+      "D": "Aplicar una medida general sin analizar el contexto"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 44,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: el docente observa poca relación entre el contenido y el contexto.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Evitar la participación de la comunidad escolar",
+      "B": "Delegar completamente la responsabilidad a otra instancia",
+      "C": "Repetir la explicación sin modificar la estrategia",
+      "D": "Promover condiciones de equidad dentro del aula"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 45,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: el colectivo escolar detecta una problemática común.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Aplicar una medida general sin analizar el contexto",
+      "B": "Orientar la práctica docente desde el derecho a la educación",
+      "C": "Ignorar la problemática para no interrumpir la clase",
+      "D": "Repetir la explicación sin modificar la estrategia"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 46,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: algunos estudiantes no se sienten incluidos en las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Evitar la participación de la comunidad escolar",
+      "B": "Resolver la situación de manera aislada",
+      "C": "Ignorar la problemática para no interrumpir la clase",
+      "D": "Garantizar el derecho a una educación inclusiva, equitativa y de calidad"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 47,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: se presentan conflictos de convivencia durante el trabajo en equipo.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Calificar únicamente el producto final",
+      "B": "Repetir la explicación sin modificar la estrategia",
+      "C": "Eliminar barreras para el aprendizaje y la participación",
+      "D": "Resolver la situación de manera aislada"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 48,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: los estudiantes realizan tareas, pero no reflexionan sobre lo aprendido.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Aplicar una medida general sin analizar el contexto",
+      "B": "Favorecer la permanencia, participación y aprendizaje de todos los estudiantes",
+      "C": "Resolver la situación de manera aislada",
+      "D": "Ignorar la problemática para no interrumpir la clase"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 49,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: la escuela busca fortalecer el vínculo con la comunidad.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Ignorar la problemática para no interrumpir la clase",
+      "B": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "C": "Promover condiciones de equidad dentro del aula",
+      "D": "Centrarse solo en la memorización de contenidos"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 50,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: el docente necesita ajustar su intervención con base en evidencias.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Ignorar la problemática para no interrumpir la clase",
+      "B": "Evitar la participación de la comunidad escolar",
+      "C": "Calificar únicamente el producto final",
+      "D": "Orientar la práctica docente desde el derecho a la educación"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 51,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: un grupo muestra bajo interés durante las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Repetir la explicación sin modificar la estrategia",
+      "B": "Continuar con la planeación original sin hacer ajustes",
+      "C": "Garantizar el derecho a una educación inclusiva, equitativa y de calidad",
+      "D": "Evitar la participación de la comunidad escolar"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 52,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: varios estudiantes tienen dificultades para participar.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Evitar la participación de la comunidad escolar",
+      "B": "Eliminar barreras para el aprendizaje y la participación",
+      "C": "Ignorar la problemática para no interrumpir la clase",
+      "D": "Calificar únicamente el producto final"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 53,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: existen diferencias importantes en los niveles de aprendizaje.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Repetir la explicación sin modificar la estrategia",
+      "B": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "C": "Favorecer la permanencia, participación y aprendizaje de todos los estudiantes",
+      "D": "Ignorar la problemática para no interrumpir la clase"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 54,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: el docente observa poca relación entre el contenido y el contexto.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Continuar con la planeación original sin hacer ajustes",
+      "B": "Ignorar la problemática para no interrumpir la clase",
+      "C": "Promover condiciones de equidad dentro del aula",
+      "D": "Delegar completamente la responsabilidad a otra instancia"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 55,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: el colectivo escolar detecta una problemática común.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Calificar únicamente el producto final",
+      "B": "Ignorar la problemática para no interrumpir la clase",
+      "C": "Orientar la práctica docente desde el derecho a la educación",
+      "D": "Centrarse solo en la memorización de contenidos"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 56,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: algunos estudiantes no se sienten incluidos en las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Ignorar la problemática para no interrumpir la clase",
+      "B": "Continuar con la planeación original sin hacer ajustes",
+      "C": "Garantizar el derecho a una educación inclusiva, equitativa y de calidad",
+      "D": "Evitar la participación de la comunidad escolar"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 57,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: se presentan conflictos de convivencia durante el trabajo en equipo.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Ignorar la problemática para no interrumpir la clase",
+      "B": "Resolver la situación de manera aislada",
+      "C": "Evitar la participación de la comunidad escolar",
+      "D": "Eliminar barreras para el aprendizaje y la participación"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 58,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: los estudiantes realizan tareas, pero no reflexionan sobre lo aprendido.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Ignorar la problemática para no interrumpir la clase",
+      "B": "Aplicar una medida general sin analizar el contexto",
+      "C": "Favorecer la permanencia, participación y aprendizaje de todos los estudiantes",
+      "D": "Calificar únicamente el producto final"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 59,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: la escuela busca fortalecer el vínculo con la comunidad.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Centrarse solo en la memorización de contenidos",
+      "B": "Resolver la situación de manera aislada",
+      "C": "Delegar completamente la responsabilidad a otra instancia",
+      "D": "Promover condiciones de equidad dentro del aula"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 60,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: el docente necesita ajustar su intervención con base en evidencias.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Delegar completamente la responsabilidad a otra instancia",
+      "B": "Aplicar una medida general sin analizar el contexto",
+      "C": "Orientar la práctica docente desde el derecho a la educación",
+      "D": "Trabajar únicamente con los estudiantes de mayor rendimiento"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 61,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: un grupo muestra bajo interés durante las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Continuar con la planeación original sin hacer ajustes",
+      "B": "Resolver la situación de manera aislada",
+      "C": "Garantizar el derecho a una educación inclusiva, equitativa y de calidad",
+      "D": "Ignorar la problemática para no interrumpir la clase"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 62,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: varios estudiantes tienen dificultades para participar.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Ignorar la problemática para no interrumpir la clase",
+      "B": "Evitar la participación de la comunidad escolar",
+      "C": "Centrarse solo en la memorización de contenidos",
+      "D": "Eliminar barreras para el aprendizaje y la participación"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 63,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: existen diferencias importantes en los niveles de aprendizaje.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Repetir la explicación sin modificar la estrategia",
+      "B": "Aplicar una medida general sin analizar el contexto",
+      "C": "Calificar únicamente el producto final",
+      "D": "Favorecer la permanencia, participación y aprendizaje de todos los estudiantes"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 64,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: el docente observa poca relación entre el contenido y el contexto.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Centrarse solo en la memorización de contenidos",
+      "B": "Promover condiciones de equidad dentro del aula",
+      "C": "Resolver la situación de manera aislada",
+      "D": "Repetir la explicación sin modificar la estrategia"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 65,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: el colectivo escolar detecta una problemática común.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Continuar con la planeación original sin hacer ajustes",
+      "B": "Calificar únicamente el producto final",
+      "C": "Orientar la práctica docente desde el derecho a la educación",
+      "D": "Centrarse solo en la memorización de contenidos"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 66,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: algunos estudiantes no se sienten incluidos en las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "B": "Evitar la participación de la comunidad escolar",
+      "C": "Delegar completamente la responsabilidad a otra instancia",
+      "D": "Garantizar el derecho a una educación inclusiva, equitativa y de calidad"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 67,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: se presentan conflictos de convivencia durante el trabajo en equipo.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Calificar únicamente el producto final",
+      "B": "Evitar la participación de la comunidad escolar",
+      "C": "Eliminar barreras para el aprendizaje y la participación",
+      "D": "Delegar completamente la responsabilidad a otra instancia"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 68,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: los estudiantes realizan tareas, pero no reflexionan sobre lo aprendido.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Delegar completamente la responsabilidad a otra instancia",
+      "B": "Aplicar una medida general sin analizar el contexto",
+      "C": "Resolver la situación de manera aislada",
+      "D": "Favorecer la permanencia, participación y aprendizaje de todos los estudiantes"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 69,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: la escuela busca fortalecer el vínculo con la comunidad.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Delegar completamente la responsabilidad a otra instancia",
+      "B": "Repetir la explicación sin modificar la estrategia",
+      "C": "Promover condiciones de equidad dentro del aula",
+      "D": "Resolver la situación de manera aislada"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 70,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: el docente necesita ajustar su intervención con base en evidencias.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Resolver la situación de manera aislada",
+      "B": "Continuar con la planeación original sin hacer ajustes",
+      "C": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "D": "Orientar la práctica docente desde el derecho a la educación"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 71,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: un grupo muestra bajo interés durante las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Garantizar el derecho a una educación inclusiva, equitativa y de calidad",
+      "B": "Resolver la situación de manera aislada",
+      "C": "Repetir la explicación sin modificar la estrategia",
+      "D": "Evitar la participación de la comunidad escolar"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 72,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: varios estudiantes tienen dificultades para participar.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "B": "Centrarse solo en la memorización de contenidos",
+      "C": "Repetir la explicación sin modificar la estrategia",
+      "D": "Eliminar barreras para el aprendizaje y la participación"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 73,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: existen diferencias importantes en los niveles de aprendizaje.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Delegar completamente la responsabilidad a otra instancia",
+      "B": "Ignorar la problemática para no interrumpir la clase",
+      "C": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "D": "Favorecer la permanencia, participación y aprendizaje de todos los estudiantes"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 74,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: el docente observa poca relación entre el contenido y el contexto.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Evitar la participación de la comunidad escolar",
+      "B": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "C": "Promover condiciones de equidad dentro del aula",
+      "D": "Repetir la explicación sin modificar la estrategia"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 75,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: el colectivo escolar detecta una problemática común.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Orientar la práctica docente desde el derecho a la educación",
+      "B": "Aplicar una medida general sin analizar el contexto",
+      "C": "Continuar con la planeación original sin hacer ajustes",
+      "D": "Centrarse solo en la memorización de contenidos"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 76,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: algunos estudiantes no se sienten incluidos en las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Continuar con la planeación original sin hacer ajustes",
+      "B": "Garantizar el derecho a una educación inclusiva, equitativa y de calidad",
+      "C": "Calificar únicamente el producto final",
+      "D": "Trabajar únicamente con los estudiantes de mayor rendimiento"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 77,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: se presentan conflictos de convivencia durante el trabajo en equipo.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Eliminar barreras para el aprendizaje y la participación",
+      "B": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "C": "Continuar con la planeación original sin hacer ajustes",
+      "D": "Repetir la explicación sin modificar la estrategia"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 78,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: los estudiantes realizan tareas, pero no reflexionan sobre lo aprendido.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Evitar la participación de la comunidad escolar",
+      "B": "Favorecer la permanencia, participación y aprendizaje de todos los estudiantes",
+      "C": "Ignorar la problemática para no interrumpir la clase",
+      "D": "Calificar únicamente el producto final"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 79,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: la escuela busca fortalecer el vínculo con la comunidad.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Promover condiciones de equidad dentro del aula",
+      "B": "Resolver la situación de manera aislada",
+      "C": "Aplicar una medida general sin analizar el contexto",
+      "D": "Ignorar la problemática para no interrumpir la clase"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 80,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: el docente necesita ajustar su intervención con base en evidencias.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Orientar la práctica docente desde el derecho a la educación",
+      "B": "Evitar la participación de la comunidad escolar",
+      "C": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "D": "Aplicar una medida general sin analizar el contexto"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 81,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: un grupo muestra bajo interés durante las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Ignorar la problemática para no interrumpir la clase",
+      "B": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "C": "Garantizar el derecho a una educación inclusiva, equitativa y de calidad",
+      "D": "Continuar con la planeación original sin hacer ajustes"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 82,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: varios estudiantes tienen dificultades para participar.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Aplicar una medida general sin analizar el contexto",
+      "B": "Resolver la situación de manera aislada",
+      "C": "Centrarse solo en la memorización de contenidos",
+      "D": "Eliminar barreras para el aprendizaje y la participación"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 83,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: existen diferencias importantes en los niveles de aprendizaje.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Favorecer la permanencia, participación y aprendizaje de todos los estudiantes",
+      "B": "Centrarse solo en la memorización de contenidos",
+      "C": "Ignorar la problemática para no interrumpir la clase",
+      "D": "Evitar la participación de la comunidad escolar"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 84,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: el docente observa poca relación entre el contenido y el contexto.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Continuar con la planeación original sin hacer ajustes",
+      "B": "Promover condiciones de equidad dentro del aula",
+      "C": "Calificar únicamente el producto final",
+      "D": "Resolver la situación de manera aislada"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 85,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: el colectivo escolar detecta una problemática común.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Resolver la situación de manera aislada",
+      "B": "Orientar la práctica docente desde el derecho a la educación",
+      "C": "Continuar con la planeación original sin hacer ajustes",
+      "D": "Repetir la explicación sin modificar la estrategia"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 86,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: algunos estudiantes no se sienten incluidos en las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Ignorar la problemática para no interrumpir la clase",
+      "B": "Repetir la explicación sin modificar la estrategia",
+      "C": "Evitar la participación de la comunidad escolar",
+      "D": "Garantizar el derecho a una educación inclusiva, equitativa y de calidad"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 87,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: se presentan conflictos de convivencia durante el trabajo en equipo.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Delegar completamente la responsabilidad a otra instancia",
+      "B": "Evitar la participación de la comunidad escolar",
+      "C": "Eliminar barreras para el aprendizaje y la participación",
+      "D": "Trabajar únicamente con los estudiantes de mayor rendimiento"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 88,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: los estudiantes realizan tareas, pero no reflexionan sobre lo aprendido.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Favorecer la permanencia, participación y aprendizaje de todos los estudiantes",
+      "B": "Evitar la participación de la comunidad escolar",
+      "C": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "D": "Resolver la situación de manera aislada"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 89,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: la escuela busca fortalecer el vínculo con la comunidad.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Delegar completamente la responsabilidad a otra instancia",
+      "B": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "C": "Repetir la explicación sin modificar la estrategia",
+      "D": "Promover condiciones de equidad dentro del aula"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 90,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: el docente necesita ajustar su intervención con base en evidencias.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Continuar con la planeación original sin hacer ajustes",
+      "B": "Resolver la situación de manera aislada",
+      "C": "Evitar la participación de la comunidad escolar",
+      "D": "Orientar la práctica docente desde el derecho a la educación"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 91,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: un grupo muestra bajo interés durante las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "B": "Resolver la situación de manera aislada",
+      "C": "Garantizar el derecho a una educación inclusiva, equitativa y de calidad",
+      "D": "Ignorar la problemática para no interrumpir la clase"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 92,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: varios estudiantes tienen dificultades para participar.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Ignorar la problemática para no interrumpir la clase",
+      "B": "Calificar únicamente el producto final",
+      "C": "Eliminar barreras para el aprendizaje y la participación",
+      "D": "Delegar completamente la responsabilidad a otra instancia"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 93,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: existen diferencias importantes en los niveles de aprendizaje.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Favorecer la permanencia, participación y aprendizaje de todos los estudiantes",
+      "B": "Delegar completamente la responsabilidad a otra instancia",
+      "C": "Calificar únicamente el producto final",
+      "D": "Aplicar una medida general sin analizar el contexto"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 94,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: el docente observa poca relación entre el contenido y el contexto.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "B": "Repetir la explicación sin modificar la estrategia",
+      "C": "Evitar la participación de la comunidad escolar",
+      "D": "Promover condiciones de equidad dentro del aula"
+    },
+    "respuesta": "D"
+  },
+  {
+    "id": 95,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: el colectivo escolar detecta una problemática común.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Orientar la práctica docente desde el derecho a la educación",
+      "B": "Continuar con la planeación original sin hacer ajustes",
+      "C": "Evitar la participación de la comunidad escolar",
+      "D": "Resolver la situación de manera aislada"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 96,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: algunos estudiantes no se sienten incluidos en las actividades.\n\nEl docente busca una respuesta pedagógica pertinente.\n\n¿Cuál es la acción MÁS pertinente?",
+    "opciones": {
+      "A": "Calificar únicamente el producto final",
+      "B": "Garantizar el derecho a una educación inclusiva, equitativa y de calidad",
+      "C": "Centrarse solo en la memorización de contenidos",
+      "D": "Continuar con la planeación original sin hacer ajustes"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 97,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: se presentan conflictos de convivencia durante el trabajo en equipo.\n\nLa intervención debe considerar el contexto del grupo.\n\n¿Qué decisión responde mejor al enfoque del tema?",
+    "opciones": {
+      "A": "Eliminar barreras para el aprendizaje y la participación",
+      "B": "Delegar completamente la responsabilidad a otra instancia",
+      "C": "Aplicar una medida general sin analizar el contexto",
+      "D": "Evitar la participación de la comunidad escolar"
+    },
+    "respuesta": "A"
+  },
+  {
+    "id": 98,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: los estudiantes realizan tareas, pero no reflexionan sobre lo aprendido.\n\nSe requiere una decisión fundamentada y orientada a la mejora.\n\n¿Cuál sería la intervención más adecuada?",
+    "opciones": {
+      "A": "Calificar únicamente el producto final",
+      "B": "Favorecer la permanencia, participación y aprendizaje de todos los estudiantes",
+      "C": "Trabajar únicamente con los estudiantes de mayor rendimiento",
+      "D": "Resolver la situación de manera aislada"
+    },
+    "respuesta": "B"
+  },
+  {
+    "id": 99,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: la escuela busca fortalecer el vínculo con la comunidad.\n\nEl propósito es fortalecer el aprendizaje y la participación.\n\n¿Qué estrategia favorece mejor la mejora educativa?",
+    "opciones": {
+      "A": "Aplicar una medida general sin analizar el contexto",
+      "B": "Calificar únicamente el producto final",
+      "C": "Promover condiciones de equidad dentro del aula",
+      "D": "Continuar con la planeación original sin hacer ajustes"
+    },
+    "respuesta": "C"
+  },
+  {
+    "id": 100,
+    "tema": "Ley general de educación",
+    "pregunta": "En el tema de Ley general de educación, se presenta la siguiente situación: el docente necesita ajustar su intervención con base en evidencias.\n\nLa escuela desea actuar de manera organizada y reflexiva.\n\n¿Cuál es el orden o acción más congruente con la situación planteada?",
+    "opciones": {
+      "A": "Calificar únicamente el producto final",
+      "B": "Delegar completamente la responsabilidad a otra instancia",
+      "C": "Aplicar una medida general sin analizar el contexto",
+      "D": "Orientar la práctica docente desde el derecho a la educación"
+    },
+    "respuesta": "D"
+  }
+]
